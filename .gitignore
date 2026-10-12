@@ -1,0 +1,5 @@
+.ntfy_topic
+__pycache__/
+.DS_Store
+RADAR_SETUP.md
+state.json.tmp

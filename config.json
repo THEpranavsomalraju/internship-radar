@@ -1,0 +1,92 @@
+{
+  "ntfy_server": "https://ntfy.sh",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+  "timezone": "America/New_York",
+  "max_pushes_per_run": 10,
+  "daily_soft_cap": 200,
+  "daily_hard_cap": 245,
+  "dedupe_days": 14,
+  "seen_retention_days": 180,
+  "failure_threshold": 3,
+  "heartbeat_hour": 8,
+  "heartbeat_slow_runs": 150,
+
+  "title_blocklist": [
+    "phd", "ph.d", "master's", "masters", "mba", "hardware", "embedded", "firmware",
+    "electrical", "mechanical", "manufacturing", "sales", "marketing", "recruiting",
+    "human resources", "accounting", "supply chain", "civil", "chemical", "nuclear",
+    "rf", "asic", "fpga", "silicon", "vlsi", "analog", "co-op", "coop"
+  ],
+
+  "us_filter": {
+    "blocked": [
+      "Canada", "UK", "United Kingdom", "India", "Germany", "France", "Ireland", "Singapore",
+      "London", "Toronto", "Vancouver", "Montreal", "China", "Japan", "Israel", "Mexico",
+      "Poland", "Netherlands", "Australia"
+    ],
+    "accept_phrases": ["NYC", "SF", "LA", "United States", "USA", "Remote in USA", "Remote"]
+  },
+
+  "sources": [
+    {
+      "name": "simplify",
+      "label": "SimplifyJobs",
+      "type": "simplify",
+      "repo": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "branch": "dev",
+      "raw_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "list_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "term": "Summer 2027",
+      "categories": [
+        "software", "software engineering", "ai/ml/data",
+        "data science, ai & machine learning", "quant", "quantitative finance"
+      ],
+      "degree": "Bachelor's"
+    },
+    {
+      "name": "speedyapply",
+      "label": "SpeedyApply",
+      "type": "speedyapply",
+      "repo": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "branch": "main",
+      "raw_url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
+      "list_url": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "tables": ["TABLE_FAANG", "TABLE_QUANT", "TABLE"],
+      "reject_title_words": ["Spring", "Fall", "Winter"]
+    },
+    {
+      "name": "sas",
+      "label": "SAS",
+      "company": "SAS",
+      "type": "icims",
+      "direct": true,
+      "url": "https://careers-sas.icims.com/jobs/search?ss=1&searchKeyword=intern&in_iframe=1",
+      "list_url": "https://careers-sas.icims.com/jobs/search?ss=1&searchKeyword=intern"
+    },
+    {
+      "name": "netapp",
+      "label": "NetApp",
+      "company": "NetApp",
+      "type": "talentbrew",
+      "direct": true,
+      "base": "https://careers.netapp.com",
+      "keywords": "intern",
+      "list_url": "https://careers.netapp.com/search-jobs/intern"
+    },
+    {
+      "name": "lenovo",
+      "label": "Lenovo",
+      "company": "Lenovo",
+      "type": "avature",
+      "direct": true,
+      "url": "https://jobs.lenovo.com/en_US/careers/SearchJobs/intern",
+      "sort_field": "schemaField_3_37_3",
+      "name_sort_field": "schemaField_3_121_3",
+      "page_size": 10,
+      "recent_days": 3,
+      "max_incremental_pages": 15,
+      "full_crawl_hours": 6,
+      "list_url": "https://jobs.lenovo.com/en_US/careers/SearchJobs/intern"
+    }
+  ]
+}
