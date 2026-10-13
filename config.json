@@ -31,6 +31,7 @@
     {
       "name": "simplify",
       "label": "SimplifyJobs",
+      "max_age_days": 3,
       "type": "simplify",
       "repo": "https://github.com/SimplifyJobs/Summer2027-Internships",
       "branch": "dev",
@@ -46,6 +47,7 @@
     {
       "name": "speedyapply",
       "label": "SpeedyApply",
+      "max_age_days": 3,
       "type": "speedyapply",
       "repo": "https://github.com/speedyapply/2027-SWE-College-Jobs",
       "branch": "main",
@@ -76,6 +78,7 @@
     {
       "name": "lenovo",
       "label": "Lenovo",
+      "max_age_days": 3,
       "company": "Lenovo",
       "type": "avature",
       "direct": true,

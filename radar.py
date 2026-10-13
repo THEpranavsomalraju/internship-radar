@@ -139,9 +139,10 @@ def split_locations(loc):
     return [p for p in re.split(r"[;|]", loc or "") if p.strip()]
 
 
-def posting(pid, company, title, location, url, posted=None):
+def posting(pid, company, title, location, url, posted=None, age_days=None):
+    """age_days: days since the role was posted, when the source says."""
     return {"id": str(pid), "company": company, "title": title,
-            "location": location, "url": url, "posted": posted}
+            "location": location, "url": url, "posted": posted, "age_days": age_days}
 
 
 # ---------------------------------------------------------------- adapters
@@ -177,11 +178,12 @@ def adapt_simplify(src, cfg, ss, ctx):
         title = row.get("title") or ""
         if block.search(straighten(title)):
             continue
-        posted = None
+        posted = age = None
         if row.get("date_posted"):
             posted = datetime.fromtimestamp(row["date_posted"], ctx["tz"]).strftime("%b %d")
+            age = (now_ts() - row["date_posted"]) / DAY
         out.append(posting(row["id"], row.get("company_name", "?"), title,
-                           "; ".join(locs), row.get("url", ""), posted))
+                           "; ".join(locs), row.get("url", ""), posted, age))
     return {"postings": out, "found": len(data), "sha": sha, "full": True}
 
 
@@ -219,9 +221,11 @@ def adapt_speedyapply(src, cfg, ss, ctx):
             title = clean(cells[pi])
             if season.search(title) or block.search(straighten(title)):
                 continue
-            age = cells[age_i] if age_i is not None else None
+            age = clean(cells[age_i]) if age_i is not None else ""
+            days = re.fullmatch(r"(\d+)d", age)
             out.append(posting(href.group(1), company, title, clean(cells[li]), href.group(1),
-                               ("%s ago" % age) if age else None))
+                               ("%s ago" % age) if age else None,
+                               int(days.group(1)) if days else None))
     if found == 0:
         raise SourceError("no table rows parsed")
     return {"postings": out, "found": found, "sha": sha, "full": True}
@@ -355,7 +359,9 @@ def adapt_avature(src, cfg, ss, ctx):
             ids.add(p["id"])
             if p["posted"]:
                 try:
-                    p["posted"] = datetime.strptime(p["posted"], "%d-%b-%Y").strftime("%b %d")
+                    d = datetime.strptime(p["posted"], "%d-%b-%Y")
+                    p["posted"] = d.strftime("%b %d")
+                    p["age_days"] = (datetime.now(ctx["tz"]).date() - d.date()).days
                 except ValueError:
                     pass
             raw.append(p)
@@ -545,10 +551,15 @@ def run(args):
 
         postings = res["postings"]
         seen = ss.setdefault("seen", {})
-        fresh = []
+        fresh, stale = [], 0
+        max_age = src.get("max_age_days")
         for p in postings:
             if p["id"] not in seen:
                 seen[p["id"]] = now
+                # reopened or late-listed old roles: record silently
+                if max_age is not None and p.get("age_days") is not None and p["age_days"] > max_age:
+                    stale += 1
+                    continue
                 fresh.append(p)
         if not ss.get("seeded"):
             ss["seeded"] = True
@@ -558,7 +569,7 @@ def run(args):
             status = "ok (seeded %d)" % len(postings)
         else:
             new_items.extend((src, p) for p in fresh)
-            status = "ok (%d new)" % len(fresh)
+            status = "ok (%d new, %d old skipped)" % (len(fresh), stale)
         if res.get("full"):
             keep = {p["id"] for p in postings}
             limit = now - cfg["seen_retention_days"] * DAY
