@@ -69,11 +69,21 @@
    "key": "fidelity investments|undergraduate internship software",
    "source": "simplify",
    "ts": 1791891308
+  },
+  {
+   "key": "nvidia|software engineering intern",
+   "source": "simplify",
+   "ts": 1791900310
+  },
+  {
+   "key": "freddie mac|multifamily software development intern",
+   "source": "simplify",
+   "ts": 1791900310
   }
  ],
  "last_heartbeat": "2026-10-13",
- "last_run": 1791900017,
- "push_count": 2,
+ "last_run": 1791900310,
+ "push_count": 4,
  "push_day": "2026-10-13",
  "runs": [
   1791846997,
@@ -255,13 +265,14 @@
   1791899110,
   1791899412,
   1791899709,
-  1791900017
+  1791900017,
+  1791900310
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1791890710,
-   "last_ok": 1791900017,
+   "last_ok": 1791900310,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -274,7 +285,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1791900017,
+   "last_ok": 1791900310,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -282,7 +293,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1791900017,
+   "last_ok": 1791900310,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -290,7 +301,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1791900017,
+   "last_ok": 1791900310,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -1197,6 +1208,7 @@
     "bdf30f76-458b-4527-9924-6423f7c5ebd4": 1791846997,
     "be056302-3c1c-46fb-bc09-8cdd5ae403cb": 1791846997,
     "be13a332-98f2-42f4-92da-142e19045eb5": 1791846997,
+    "be628885-fde3-4b73-bb0a-58e11856e97b": 1791900310,
     "be741c04-69a7-41b2-8fb3-8d280bacbe8c": 1791846997,
     "be949df0-0657-4f39-b1f3-e45962a3eee3": 1791846997,
     "be9e2ad0-7cfb-43e2-8167-a1c650e84de9": 1791846997,
@@ -1474,6 +1486,7 @@
     "f8c7b2c2-899a-4a4f-9f36-7893a8512aed": 1791846997,
     "f8e5913f-abf8-4eed-838d-d784c5b7907b": 1791846997,
     "f90f94d5-786f-4736-b98d-933eaa6987ef": 1791846997,
+    "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d": 1791900310,
     "f9783cfd-0933-41da-8102-1c15ae7d9c3c": 1791846997,
     "f9aac5d5-d4f2-4936-93fc-e6a1cf4306f6": 1791846997,
     "f9cecf37-3d67-4284-acf1-bce7d8f9994e": 1791846997,
@@ -1511,11 +1524,11 @@
     "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": 1791846997,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "267300d11ca96d2bb6d6e61b2f3de93b5a401f6c"
+   "sha": "f924e39bc20f8b19c98a6b0cf4e282f238648199"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1791900017,
+   "last_ok": 1791900310,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
