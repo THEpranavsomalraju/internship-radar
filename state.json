@@ -64,11 +64,16 @@
    "key": "realty income|technology intern",
    "source": "simplify",
    "ts": 1791857109
+  },
+  {
+   "key": "fidelity investments|undergraduate internship software",
+   "source": "simplify",
+   "ts": 1791891308
   }
  ],
  "last_heartbeat": "2026-10-12",
- "last_run": 1791891014,
- "push_count": 0,
+ "last_run": 1791891308,
+ "push_count": 1,
  "push_day": "2026-10-13",
  "runs": [
   1791846997,
@@ -220,13 +225,14 @@
   1791890110,
   1791890408,
   1791890708,
-  1791891014
+  1791891014,
+  1791891308
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1791890710,
-   "last_ok": 1791891014,
+   "last_ok": 1791891308,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -239,7 +245,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1791891014,
+   "last_ok": 1791891308,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -247,7 +253,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1791891014,
+   "last_ok": 1791891308,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -255,7 +261,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1791891014,
+   "last_ok": 1791891308,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -984,6 +990,7 @@
     "9b814dc4-e65c-4e43-aa10-eb1cfeed3036": 1791846997,
     "9ba04a62-bce1-4e8e-9029-48979b8e443a": 1791846997,
     "9c73b8be-e8be-4a91-9db0-df9eb032917a": 1791846997,
+    "9cada06b-51c0-417f-8863-1c0468182c31": 1791891308,
     "9cb4c737-6df9-4e67-84df-df1d44834fc0": 1791846997,
     "9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e": 1791846997,
     "9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49": 1791846997,
@@ -1475,11 +1482,11 @@
     "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": 1791846997,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "3814d058a63ec624f216b162dbb951bb854513a1"
+   "sha": "e66ca62ac9e6756e375efb28894ac2b96d140db7"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1791891014,
+   "last_ok": 1791891308,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
