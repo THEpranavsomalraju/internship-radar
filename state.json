@@ -79,11 +79,31 @@
    "key": "freddie mac|multifamily software development intern",
    "source": "simplify",
    "ts": 1791900310
+  },
+  {
+   "key": "goldman sachs|analyst intern engineering",
+   "source": "simplify",
+   "ts": 1791902109
+  },
+  {
+   "key": "johns hopkins applied physics laboratory|artificial intelligence and machine learning intern research assistant",
+   "source": "simplify",
+   "ts": 1791902109
+  },
+  {
+   "key": "rtx|software engineer intern",
+   "source": "simplify",
+   "ts": 1791902109
+  },
+  {
+   "key": "vertiv|data analytics intern",
+   "source": "simplify",
+   "ts": 1791902109
   }
  ],
  "last_heartbeat": "2026-10-13",
- "last_run": 1791901816,
- "push_count": 4,
+ "last_run": 1791902109,
+ "push_count": 8,
  "push_day": "2026-10-13",
  "runs": [
   1791846997,
@@ -271,13 +291,14 @@
   1791900912,
   1791901210,
   1791901511,
-  1791901816
+  1791901816,
+  1791902109
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1791890710,
-   "last_ok": 1791901816,
+   "last_ok": 1791902109,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -290,7 +311,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1791901816,
+   "last_ok": 1791902109,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -298,7 +319,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1791901816,
+   "last_ok": 1791902109,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -306,7 +327,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1791901816,
+   "last_ok": 1791902109,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -429,6 +450,7 @@
     "18e99160-24c6-4a84-bc61-bec64dd7decb": 1791846997,
     "18eeb2a6-97b5-4ca5-9d64-d93fadcd08be": 1791846997,
     "18f5abd9-952b-44fb-9486-05eb2fbf3ff7": 1791846997,
+    "1949c912-65b2-42ac-9836-c110baed0ef6": 1791902109,
     "19542c33-d5eb-4d1e-9aad-4ac45c6b09be": 1791846997,
     "1a9582e0-2525-494c-8737-53db648f37cb": 1791846997,
     "1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021": 1791846997,
@@ -511,6 +533,7 @@
     "2ab54297-543e-4470-b71e-2e95b53cd687": 1791846997,
     "2b447abf-4a95-4c48-a2bb-10f5a7870bdc": 1791846997,
     "2bc31101-6642-4ce8-9de0-bd8422a0ea1e": 1791846997,
+    "2bda6894-9fdb-4005-a6e9-43d2f626fd06": 1791902109,
     "2be561b9-160a-48ef-bd5b-6428e001f402": 1791846997,
     "2c773875-aa62-411f-a839-511d6f823d7d": 1791846997,
     "2d3cd1b8-063f-41a1-a9ba-c834e3114c68": 1791846997,
@@ -902,6 +925,7 @@
     "7d5c4b26-9d58-4de0-b0fe-0ee845b9d45e": 1791846997,
     "7d622bf2-9241-4e85-b72d-dc305db65752": 1791846997,
     "7d669b5f-60d8-41f2-8c63-353b9b7240a7": 1791846997,
+    "7d75bd70-f568-420d-985e-c8ccd2632c8f": 1791902109,
     "7db598e3-bc08-420a-a69f-e39447549d49": 1791846997,
     "7e5feb76-9fea-420d-a0ea-32c19e256975": 1791846997,
     "7e635a7d-4a28-41ba-a06c-d0b08875dfae": 1791846997,
@@ -1341,6 +1365,7 @@
     "d71cc21f-dabe-4071-b07e-81c42007e03e": 1791846997,
     "d77e63b8-e4b0-42ca-a8b6-6ed707e7d4ac": 1791846997,
     "d7896522-5218-4362-8092-60cacc29a642": 1791846997,
+    "d791060f-6a57-4c7b-a9fb-c69548cdac7e": 1791902109,
     "d7aa686a-75f3-47ef-b6da-5f9cd9b85c2a": 1791846997,
     "d7cb67a6-930f-4fc0-a3b7-3f7d47bcdb31": 1791846997,
     "d7d2d9a2-c865-47e5-9029-23b28fb08f05": 1791846997,
@@ -1529,11 +1554,11 @@
     "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": 1791846997,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "f924e39bc20f8b19c98a6b0cf4e282f238648199"
+   "sha": "dfecdaded3f8ee81ac7c491249fda424e1a71d0b"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1791901816,
+   "last_ok": 1791902109,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
