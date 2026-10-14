@@ -239,11 +239,51 @@
    "key": "ascension|integrated participant solutions analytics intern",
    "source": "simplify",
    "ts": 1791968710
+  },
+  {
+   "key": "ge vernova|grid foundational models intern agi",
+   "source": "simplify",
+   "ts": 1791990308
+  },
+  {
+   "key": "ge vernova|ai post training and model alignment intern",
+   "source": "simplify",
+   "ts": 1791990308
+  },
+  {
+   "key": "ge vernova|power system intern",
+   "source": "simplify",
+   "ts": 1791990308
+  },
+  {
+   "key": "parsons|software engineer intern",
+   "source": "simplify",
+   "ts": 1791990308
+  },
+  {
+   "key": "ge vernova|ai evaluation benchmarking intern agi",
+   "source": "simplify",
+   "ts": 1791990308
+  },
+  {
+   "key": "ge vernova|ai evaluation benchmarking intern",
+   "source": "simplify",
+   "ts": 1791990308
+  },
+  {
+   "key": "point72|software engineer intern",
+   "source": "simplify",
+   "ts": 1791990308
+  },
+  {
+   "key": "j m smucker|net revenue optimization intern",
+   "source": "simplify",
+   "ts": 1791990308
   }
  ],
  "last_heartbeat": "2026-10-14",
- "last_run": 1791990019,
- "push_count": 3,
+ "last_run": 1791990308,
+ "push_count": 11,
  "push_day": "2026-10-14",
  "runs": [
   1791903908,
@@ -539,13 +579,14 @@
   1791989110,
   1791989410,
   1791989708,
-  1791990019
+  1791990019,
+  1791990308
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1791977710,
-   "last_ok": 1791990019,
+   "last_ok": 1791990308,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -558,7 +599,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1791990019,
+   "last_ok": 1791990308,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -566,7 +607,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1791990019,
+   "last_ok": 1791990308,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -574,7 +615,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1791990019,
+   "last_ok": 1791990308,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -887,6 +928,7 @@
     "422500a8-0786-49f2-b8bc-d16971d96cd8": 1791846997,
     "425c8e2d-cf78-47d2-91a0-5aeca4485643": 1791846997,
     "428cbf35-14f8-4bc9-a4bd-b044dbc7ddc2": 1791846997,
+    "42f5973e-2aff-404f-84c2-f2aaba6998d1": 1791990308,
     "43314ea5-8533-4883-a5e5-5afdc6cff866": 1791846997,
     "43906c1b-7f09-425f-89c4-c110033758ce": 1791846997,
     "43929c26-d19b-4057-9543-bf087c4bbf62": 1791846997,
@@ -968,8 +1010,10 @@
     "52758ea7-052d-4c85-9fbe-2558a05538f1": 1791846997,
     "52bd67ea-cc1b-4b12-9ba9-77c1fe08ed78": 1791846997,
     "52c6c00b-0538-4eae-ba83-7a32198496a7": 1791846997,
+    "52d27012-e8f4-44a4-a41e-6b12bff77a14": 1791990308,
     "52de2161-f7a7-417a-b7a4-3aa062dbeb34": 1791846997,
     "531577c4-883e-4ac7-9563-ab1ef47be527": 1791846997,
+    "53234b9a-baaf-49c1-88e1-4e5356cdcbd8": 1791990308,
     "53349dba-052e-4667-bc87-a3162afa6b94": 1791846997,
     "536606c4-92da-492e-9413-10a39c4c011b": 1791846997,
     "53663e4c-42be-4d2a-ba0f-ac7a0d65da22": 1791846997,
@@ -1020,6 +1064,7 @@
     "5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968": 1791846997,
     "5cd8a4f6-0d01-4524-bc85-e40a74e53d54": 1791846997,
     "5d113196-e5fd-48bb-9ca5-3ffccfb4683d": 1791846997,
+    "5d1b7629-e234-4106-9f15-07fca21aa8a3": 1791990308,
     "5d230d84-fa4c-431c-9970-e72967e854e5": 1791846997,
     "5d2cc0a7-797d-469c-8dd8-e309a7441bca": 1791846997,
     "5d469294-b2e6-427c-b2dd-8da3dad68eee": 1791846997,
@@ -1133,6 +1178,7 @@
     "73b3f6a8-64fc-4121-9f03-57845bb24672": 1791846997,
     "7446a6fa-1e34-44e8-8b3a-46688131ec9f": 1791846997,
     "74a4f228-ddb1-4953-9597-1c278c491082": 1791846997,
+    "74ab41ac-2b49-458f-98f3-d3c4172f9e1f": 1791990308,
     "74ebbab0-9a8d-4399-aec0-07e5ad5f7337": 1791846997,
     "7509a79d-1085-4918-bdcc-6c82b44b486b": 1791846997,
     "7510db54-c95e-441b-b7e1-b239a1119742": 1791846997,
@@ -1351,6 +1397,7 @@
     "a3a30f46-fe3b-48db-8f94-28a5b0a06d39": 1791846997,
     "a3bd1d15-060a-447a-a1fe-ebc41d4f7a50": 1791846997,
     "a3c8fc71-5658-4914-be57-ce61c100da82": 1791846997,
+    "a42bb64b-5118-4414-b5bb-ebe063b71b10": 1791990308,
     "a4396e82-b740-45d4-b2ae-a3818521c84a": 1791846997,
     "a4f7639e-dcce-4b8a-9d8a-2459909bd068": 1791846997,
     "a57d347e-4ce0-4590-bf80-9368dd106660": 1791846997,
@@ -1421,6 +1468,7 @@
     "b1048256-c61c-403f-80b6-70efb51fdd0e": 1791846997,
     "b10edb5a-e520-4da4-988d-a8a730bef747": 1791846997,
     "b11dddb4-7bc4-4864-8ee8-ab5d5bb12c9a": 1791846997,
+    "b135be7e-bf73-4526-9c91-0158ffed7bce": 1791990308,
     "b1d0db5d-2ecc-4ad8-8fdd-ad33cabd3059": 1791846997,
     "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f": 1791945308,
     "b29f7462-630f-4a75-8dca-924bcd83bd11": 1791846997,
@@ -1493,6 +1541,7 @@
     "bc661e4d-29a0-4de4-bbeb-52f943d960c8": 1791846997,
     "bc91fbea-a1d8-4e14-8446-6d0df9d7a3f3": 1791846997,
     "bcda5eeb-196c-4f8a-a46a-519f22b3a082": 1791846997,
+    "bcdcec45-2483-4ebd-8b02-b763219eecec": 1791990308,
     "bce02604-8033-424f-83ad-bc2253ce0840": 1791857109,
     "bd284fb3-53b0-4465-abd6-86445c4a9a0a": 1791846997,
     "bda4abe8-aa5b-41a0-bb34-7806e4ff2679": 1791932708,
@@ -1664,10 +1713,12 @@
     "df0f68d2-dead-4fe2-ba77-790f8c0dd3fa": 1791846997,
     "df13ab5f-9eb4-4357-86df-afc457026297": 1791846997,
     "df89c940-c5aa-4970-98ef-5b3c19d7b0e7": 1791846997,
+    "dfc6d5d9-fa48-468c-999b-1116299c47c2": 1791990308,
     "dffa3f5f-d496-43e5-90e0-105b940da03c": 1791846997,
     "e0125f9d-5b88-4e1f-844e-39275d743833": 1791846997,
     "e012dfd4-c33a-4639-8ea0-3e6586db2b77": 1791846997,
     "e01d674b-7369-4b64-8785-fba7bb59da13": 1791846997,
+    "e03ff208-7120-46eb-9f94-cf23a4aa840e": 1791990308,
     "e0ffdbe5-df33-4606-8aff-34eb378a599e": 1791846997,
     "e1129632-f5f5-4638-a460-e45b79df40b2": 1791846997,
     "e142c984-ca46-4624-af2c-e5061b8b60f2": 1791846997,
@@ -1825,11 +1876,11 @@
     "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": 1791846997,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "c465c490936c44a0e0d999deee79dcae507df71d"
+   "sha": "8c5571bb2c74dc26500d04d31f41e6493ae51528"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1791990019,
+   "last_ok": 1791990308,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
