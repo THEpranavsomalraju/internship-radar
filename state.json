@@ -229,14 +229,18 @@
    "key": "tiktok|machine learning engineer intern e commerce user growth",
    "source": "simplify",
    "ts": 1791945308
+  },
+  {
+   "key": "assurant|data support analyst intern",
+   "source": "simplify",
+   "ts": 1791961508
   }
  ],
  "last_heartbeat": "2026-10-13",
- "last_run": 1791961214,
- "push_count": 0,
+ "last_run": 1791961508,
+ "push_count": 1,
  "push_day": "2026-10-14",
  "runs": [
-  1791874815,
   1791875109,
   1791875409,
   1791875709,
@@ -530,13 +534,14 @@
   1791960309,
   1791960608,
   1791960907,
-  1791961214
+  1791961214,
+  1791961508
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1791955815,
-   "last_ok": 1791961214,
+   "last_ok": 1791961508,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -549,7 +554,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1791961214,
+   "last_ok": 1791961508,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -557,7 +562,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1791961214,
+   "last_ok": 1791961508,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -565,7 +570,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1791961214,
+   "last_ok": 1791961508,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -1676,6 +1681,7 @@
     "e4639935-0247-4578-b4a3-814cab5c5c8e": 1791846997,
     "e4891cf7-47bc-4b62-ac00-ef0759846dfa": 1791846997,
     "e4a107a2-a0eb-4ef1-9ce9-2f1dfc6ea0f6": 1791846997,
+    "e4f05acb-267f-4e89-a2e9-9ab46db0ddab": 1791961508,
     "e5307ac6-20bb-4dc4-b8f0-1763ebe0d0b3": 1791846997,
     "e5525848-530e-40a2-aaef-750613a40730": 1791846997,
     "e55a7700-5c93-43ed-a30e-6398ef65a328": 1791846997,
@@ -1813,11 +1819,11 @@
     "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": 1791846997,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "22051362491be6c77924b17eaaf844786f621979"
+   "sha": "71178a8baed9b65158b06f7f00a43db89cd368e1"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1791961214,
+   "last_ok": 1791961508,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
