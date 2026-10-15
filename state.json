@@ -452,11 +452,10 @@
   }
  ],
  "last_heartbeat": "2026-10-15",
- "last_run": 1792082409,
+ "last_run": 1792082709,
  "push_count": 2,
  "push_day": "2026-10-15",
  "runs": [
-  1791996010,
   1791996311,
   1791996610,
   1791996908,
@@ -751,13 +750,14 @@
   1792081511,
   1792081816,
   1792082109,
-  1792082409
+  1792082409,
+  1792082709
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792064710,
-   "last_ok": 1792082409,
+   "last_ok": 1792082709,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -770,7 +770,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792082409,
+   "last_ok": 1792082709,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -778,7 +778,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792082409,
+   "last_ok": 1792082709,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -786,7 +786,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792082409,
+   "last_ok": 1792082709,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -2080,7 +2080,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792082409,
+   "last_ok": 1792082709,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
@@ -2194,6 +2194,7 @@
     "https://careersus-shure.icims.com/jobs/4996/software-engineering-intern/job": 1791846997,
     "https://careersus-shure.icims.com/jobs/5006/mobile-applications-%28android%29-intern/job": 1791918609,
     "https://careersus-shure.icims.com/jobs/5007/mobile-applications-%28ios%29-intern/job": 1791997216,
+    "https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job": 1792082709,
     "https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Software-Engineer-Intern_R-4654": 1791846997,
     "https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726": 1791918609,
     "https://chevron.wd5.myworkdayjobs.com/en-US/university/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1": 1791846997,
@@ -2223,6 +2224,7 @@
     "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631": 1791846997,
     "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673": 1791846997,
     "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964": 1791846997,
+    "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965": 1792082709,
     "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079": 1791846997,
     "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173": 1791846997,
     "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166": 1791846997,
@@ -2267,6 +2269,7 @@
     "https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1": 1791846997,
     "https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2": 1791846997,
     "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696": 1791846997,
+    "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697": 1792082709,
     "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820": 1791846997,
     "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133": 1791997216,
     "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134": 1791846997,
@@ -2754,7 +2757,7 @@
     "https://www.tower-research.com/open-positions/?gh_jid=8044334": 1791846997,
     "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003": 1791846997
    },
-   "sha": "60ba5a9b0d3cc93a331dd38ec08ce71c1ee7aaf7"
+   "sha": "95e5ff1585cd703d6f6394fe91987e7169dbf5d2"
   }
  },
  "started": 1791846997
