@@ -444,11 +444,16 @@
    "key": "national life|data science intern",
    "source": "simplify",
    "ts": 1792019108
+  },
+  {
+   "key": "tessera labs|full stack software engineer intern full stack",
+   "source": "simplify",
+   "ts": 1792049707
   }
  ],
  "last_heartbeat": "2026-10-14",
- "last_run": 1792049412,
- "push_count": 0,
+ "last_run": 1792049707,
+ "push_count": 1,
  "push_day": "2026-10-15",
  "runs": [
   1791963308,
@@ -744,13 +749,14 @@
   1792048509,
   1792048810,
   1792049108,
-  1792049412
+  1792049412,
+  1792049707
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792043110,
-   "last_ok": 1792049412,
+   "last_ok": 1792049707,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -763,7 +769,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792049412,
+   "last_ok": 1792049707,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -771,7 +777,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792049412,
+   "last_ok": 1792049707,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -779,7 +785,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792049412,
+   "last_ok": 1792049707,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -2061,17 +2067,18 @@
     "fec9533c-b5cc-4a22-b148-01e36f9516d4": 1791846997,
     "fefe3900-bf9a-4fe1-8ede-259288aed3e1": 1791846997,
     "ff0f5d2c-a6b2-48b7-8fbf-76e568641b0b": 1791846997,
+    "ff40ee27-6821-4bc8-8929-0a9a37fa6d77": 1792049707,
     "ff8fadb8-1a36-463a-9258-da2a9fe79a54": 1791846997,
     "ffb0610a-df2f-4c18-a196-a2ef4d949d7b": 1791846997,
     "ffc142d8-54ce-4628-b359-7770b0566d0e": 1791846997,
     "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": 1791846997,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "3b89ee7abc073b1c6e361db99bb48fd28dadbf2a"
+   "sha": "0ffd5293d71fc47358043fae56e3622593077d76"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792049412,
+   "last_ok": 1792049707,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
