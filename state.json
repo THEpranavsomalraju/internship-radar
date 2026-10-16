@@ -544,11 +544,26 @@
    "key": "tiktok|software engineer intern recommendation performance efficiency",
    "source": "simplify",
    "ts": 1792116308
+  },
+  {
+   "key": "american bankers association|banking policy and economic research intern",
+   "source": "simplify",
+   "ts": 1792163109
+  },
+  {
+   "key": "hilb group|benefits analytics intern",
+   "source": "simplify",
+   "ts": 1792163109
+  },
+  {
+   "key": "nutanix|support analytics operations intern",
+   "source": "simplify",
+   "ts": 1792163109
   }
  ],
  "last_heartbeat": "2026-10-16",
- "last_run": 1792162818,
- "push_count": 1,
+ "last_run": 1792163109,
+ "push_count": 4,
  "push_day": "2026-10-16",
  "runs": [
   1792076709,
@@ -845,13 +860,14 @@
   1792161910,
   1792162209,
   1792162509,
-  1792162818
+  1792162818,
+  1792163109
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792151414,
-   "last_ok": 1792162818,
+   "last_ok": 1792163109,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -864,7 +880,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792162818,
+   "last_ok": 1792163109,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -872,7 +888,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792162818,
+   "last_ok": 1792163109,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -880,7 +896,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792162818,
+   "last_ok": 1792163109,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -1326,6 +1342,7 @@
     "58e64075-6609-418d-a437-22d5c25dd225": 1791846997,
     "59143a12-b5c5-4756-adf5-a3376f4b7296": 1791846997,
     "596a789f-9d3f-4275-91f3-da77d86fc246": 1791846997,
+    "59893888-211a-4a3c-9b02-8095e93f2051": 1792163109,
     "59b37959-7280-4f60-aad9-0c9a3265acc7": 1791846997,
     "59e5e5be-d33c-4a69-8687-6d8c9aa4a4e2": 1791846997,
     "5a08979e-7e9a-404e-8ff7-08e9387be038": 1791846997,
@@ -1518,6 +1535,7 @@
     "7e5feb76-9fea-420d-a0ea-32c19e256975": 1791846997,
     "7e635a7d-4a28-41ba-a06c-d0b08875dfae": 1791846997,
     "7e94c6d9-c88c-4d70-8bd0-51a2cc801485": 1791846997,
+    "7eb2dc1e-a2d8-4cd8-a3cf-70178e3bc5d2": 1792163109,
     "7ebfe14e-9cc5-4d58-a36d-60f66838f248": 1791846997,
     "7f093b2f-6a53-4d35-b5f2-b8abc4cf3abe": 1791846997,
     "7f1252c2-2dd8-4334-9c9c-8ace10b21273": 1791846997,
@@ -1937,6 +1955,7 @@
     "ce1351e2-a67e-44f2-8744-faae77603b53": 1791846997,
     "ce1d842e-89a6-4905-a608-3eca02ddd233": 1791846997,
     "ce6e7eab-28ed-4bf3-832d-a386a859b37a": 1791846997,
+    "cebe2404-0f14-43f7-a80e-93b201cd0441": 1792163109,
     "cee814d5-6814-4bea-b567-0b0b7460e127": 1791846997,
     "cef4c60b-0a55-4305-94cf-d725b8c66ad2": 1791846997,
     "cf498cbc-375c-45ec-8f68-334ce9a2d7d0": 1791846997,
@@ -2126,6 +2145,7 @@
     "f1ef6d6c-618e-4935-8928-f02675833955": 1791846997,
     "f271bfa3-e723-416b-aad4-0a6cf6f4f19e": 1791846997,
     "f34b1f76-8c04-44e3-af69-ab94a7694d4b": 1791846997,
+    "f351f3ac-9b5b-4f88-b7bf-8c3cce1a1df0": 1792163109,
     "f3552448-ae6f-4db2-8049-cea7fe1d994c": 1791846997,
     "f36586f0-7cae-49e9-8b12-06db77de4051": 1792105509,
     "f39ef049-309c-48e5-9169-f9eb0d44b087": 1791846997,
@@ -2194,11 +2214,11 @@
     "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": 1791846997,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "6818865c3291b128eab541457ff2f816c186f6bf"
+   "sha": "9682aea74c6ce4195aa0ac214b2791118a044790"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792162818,
+   "last_ok": 1792163109,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
