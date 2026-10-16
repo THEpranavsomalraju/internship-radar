@@ -559,14 +559,123 @@
    "key": "nutanix|support analytics operations intern",
    "source": "simplify",
    "ts": 1792163109
+  },
+  {
+   "key": "microsoft|research intern efficient ai software systems",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "aidash|software engineering intern backend",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "healthpeak properties|forward deployed software engineer internship",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "muon|ground software engineering intern",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "opengov|intern software engineer",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "axiom space|software engineering intern",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "carrier|software engineering intern",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "sierra nevada|software engineer intern for snc interns only",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "tessera labs|software engineering intern full stack",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "t mobile|software engineering intern",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "aerospace|software tools and assurance intern",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "assurant|intern software engineering intern",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "caci|software engineering intern",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "general dynamics mission systems|software engineer intern for crypto and cross domain solutions",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "general dynamics mission systems|software engineer intern for crypto cross domain solutions",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "icf|intern software engineer reston va",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "kion group|software engineering intern",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "northrop grumman|cyber software engineer intern san antonio tx",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "parsons|software engineering intern",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "peraton|mission systems software edge computing intern norman ok",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "point72|internship software engineer",
+   "source": "speedyapply",
+   "ts": 1792168215
+  },
+  {
+   "key": "sierra nevada|software engineer intern for snc intern only",
+   "source": "speedyapply",
+   "ts": 1792168215
   }
  ],
  "last_heartbeat": "2026-10-16",
- "last_run": 1792167909,
- "push_count": 4,
+ "last_run": 1792168215,
+ "push_count": 15,
  "push_day": "2026-10-16",
  "runs": [
-  1792081511,
   1792081816,
   1792082109,
   1792082409,
@@ -860,13 +969,14 @@
   1792167010,
   1792167310,
   1792167610,
-  1792167909
+  1792167909,
+  1792168215
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792151414,
-   "last_ok": 1792167909,
+   "last_ok": 1792168215,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -879,7 +989,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792167909,
+   "last_ok": 1792168215,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -887,7 +997,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792167909,
+   "last_ok": 1792168215,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -895,7 +1005,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792167909,
+   "last_ok": 1792168215,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -2217,12 +2327,13 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792167909,
+   "last_ok": 1792168215,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
     "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666": 1791846997,
     "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753": 1791918609,
+    "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429": 1792168215,
     "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Software--Data---AI-Engineering-Interns_R-2026-49480": 1791846997,
     "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1": 1791846997,
     "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1": 1791846997,
@@ -2232,6 +2343,7 @@
     "https://allegion.wd5.myworkdayjobs.com/en-US/earlytalent_careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856": 1791918609,
     "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214": 1791846997,
     "https://alliedsolutions.wd501.myworkdayjobs.com/en-US/allied_external/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086": 1791846997,
+    "https://alston.wd1.myworkdayjobs.com/en-US/externalcareer/job/Atlanta/Developer-Intern_JR100986": 1792168215,
     "https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1": 1791846997,
     "https://americas-cookmedical.icims.com/jobs/19550/intern%2c-applied-ai-%26-full-stack-development/job": 1791846997,
     "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745": 1791846997,
@@ -2246,17 +2358,20 @@
     "https://apply.careers.microsoft.com/careers/job/1970393556983221": 1791846997,
     "https://apply.careers.microsoft.com/careers/job/1970393556983223": 1791846997,
     "https://apply.careers.microsoft.com/careers/job/1970393557037856": 1791997216,
+    "https://apply.careers.microsoft.com/careers/job/1970393557041731": 1792168215,
     "https://apply.workable.com/enfos-inc/j/CA15908E0A/": 1791846997,
     "https://apply.workable.com/raveaerospace/j/739753C003/": 1791846997,
     "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398": 1791846997,
     "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399": 1791846997,
     "https://aspentech.wd5.myworkdayjobs.com/en-US/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456": 1791846997,
+    "https://assurant.wd1.myworkdayjobs.com/en-US/assurant_careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1": 1792168215,
     "https://assurant.wd1.myworkdayjobs.com/en-US/external_limited_posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727": 1791918609,
     "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125": 1791846997,
     "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901": 1791846997,
     "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550": 1791846997,
     "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Software-Engineering-Intern_8813": 1791846997,
     "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineering-Intern_8797": 1791846997,
+    "https://axiomspace.wd5.myworkdayjobs.com/en-US/external_career_site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767": 1792168215,
     "https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647": 1791846997,
     "https://badgermeter.wd5.myworkdayjobs.com/en-US/us_careersite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645": 1791846997,
     "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403": 1791846997,
@@ -2277,6 +2392,7 @@
     "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007": 1791846997,
     "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958": 1791846997,
     "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004": 1791846997,
+    "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002": 1792168215,
     "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225": 1791846997,
     "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959": 1791846997,
     "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961": 1791846997,
@@ -2291,6 +2407,7 @@
     "https://c3.ai/job-description/8739037002?gh_jid=8739037002": 1791846997,
     "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051": 1791846997,
     "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037": 1791846997,
+    "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543": 1792168215,
     "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085": 1791846997,
     "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776": 1791846997,
     "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041": 1791846997,
@@ -2306,10 +2423,13 @@
     "https://careers-gdms.icims.com/jobs/75159/software-engineer-%e2%80%93-intern-conversion/job": 1791846997,
     "https://careers-gdms.icims.com/jobs/75269/software-engineering-intern/job": 1791846997,
     "https://careers-gdms.icims.com/jobs/75463/software-systems-engineering-intern-%28summer-2027%29/job": 1791846997,
+    "https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job": 1792168215,
+    "https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job": 1792168215,
     "https://careers-hrblock.icims.com/jobs/76987/software-engineering-intern---s/job": 1791846997,
     "https://careers-iridium.icims.com/jobs/5136/iridium-software-engineering-internship-%e2%80%93-summer-2027/job": 1791846997,
     "https://careers-peraton.icims.com/jobs/169665/summer-2027-software-engineer-intern/job": 1791846997,
     "https://careers-peraton.icims.com/jobs/172061/summer-2027-software-development-intern--topeka%2c-ks/job": 1791846997,
+    "https://careers-peraton.icims.com/jobs/172378/mission-systems-software-%26-edge-computing-intern-%e2%80%93-norman%2c-ok/job": 1792168215,
     "https://careers-sas.icims.com/jobs/42964/summer-2027---software-development-and-testing-intern/job": 1791846997,
     "https://careers-simventions.icims.com/jobs/1631/2027-software-development-intern/job": 1791846997,
     "https://careers-steeldynamics.icims.com/jobs/8017/software-development-internship/job": 1791846997,
@@ -2332,6 +2452,7 @@
     "https://careersus-shure.icims.com/jobs/5006/mobile-applications-%28android%29-intern/job": 1791918609,
     "https://careersus-shure.icims.com/jobs/5007/mobile-applications-%28ios%29-intern/job": 1791997216,
     "https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job": 1792082709,
+    "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161": 1792168215,
     "https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Software-Engineer-Intern_R-4654": 1791846997,
     "https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726": 1791918609,
     "https://chevron.wd5.myworkdayjobs.com/en-US/university/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1": 1791846997,
@@ -2346,6 +2467,7 @@
     "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800": 1791918609,
     "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Salesforce-Developer-Intern_R12215": 1791918609,
     "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12098": 1791846997,
+    "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12192": 1792168215,
     "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186": 1791846997,
     "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12187": 1791846997,
     "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188": 1791846997,
@@ -2411,6 +2533,7 @@
     "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133": 1791997216,
     "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134": 1791846997,
     "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135": 1791846997,
+    "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140": 1792168215,
     "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235": 1791846997,
     "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236": 1791846997,
     "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238": 1791846997,
@@ -2425,11 +2548,15 @@
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467": 1791846997,
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918": 1791846997,
     "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895": 1791846997,
+    "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317": 1792168215,
     "https://graco.wd501.myworkdayjobs.com/en-US/graco_careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556": 1791846997,
     "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221": 1791846997,
     "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Software-Quality-Engineer-Intern_JR1235": 1791846997,
     "https://guidestone.wd1.myworkdayjobs.com/en-US/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129": 1791846997,
+    "https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship": 1792168215,
+    "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship": 1792168215,
     "https://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern": 1791846997,
+    "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1": 1792168215,
     "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865": 1791846997,
     "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937": 1791846997,
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1": 1791846997,
@@ -2442,6 +2569,7 @@
     "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950": 1791846997,
     "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629": 1791918609,
     "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625": 1791846997,
+    "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522": 1792168215,
     "https://ideas-sas.icims.com/jobs/42665/software-developer-in-test-intern/job": 1791846997,
     "https://ideas-sas.icims.com/jobs/42665/software-development-intern/job": 1791997216,
     "https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53": 1791918609,
@@ -2464,6 +2592,7 @@
     "https://job-boards.greenhouse.io/advancedspace/jobs/4333179009": 1791846997,
     "https://job-boards.greenhouse.io/affirm/jobs/8008645003": 1791846997,
     "https://job-boards.greenhouse.io/affirm/jobs/8011590003": 1791846997,
+    "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009": 1792168215,
     "https://job-boards.greenhouse.io/amca/jobs/4425120009": 1791918609,
     "https://job-boards.greenhouse.io/appian/jobs/8041237": 1791846997,
     "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257176007": 1791846997,
@@ -2507,6 +2636,7 @@
     "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003": 1791846997,
     "https://job-boards.greenhouse.io/muonspace/jobs/5247725007": 1791846997,
     "https://job-boards.greenhouse.io/muonspace/jobs/5252680007": 1791846997,
+    "https://job-boards.greenhouse.io/muonspace/jobs/5266679007": 1792168215,
     "https://job-boards.greenhouse.io/nisc/jobs/8092699": 1791846997,
     "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009": 1791846997,
     "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685": 1791846997,
@@ -2585,6 +2715,7 @@
     "https://jobs.ashbyhq.com/northwoodspace/ce3d4b73-461e-4128-a6f1-f933897e8119": 1791846997,
     "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": 1791846997,
     "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770": 1791846997,
+    "https://jobs.ashbyhq.com/opengov/35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b": 1792168215,
     "https://jobs.ashbyhq.com/perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f": 1791846997,
     "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc": 1791846997,
     "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08": 1791846997,
@@ -2606,6 +2737,7 @@
     "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987": 1791846997,
     "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b": 1791846997,
     "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e": 1791846997,
+    "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c": 1792168215,
     "https://jobs.ashbyhq.com/stradahq/d277be89-9d67-48cd-9e67-3b17bbab709e": 1791846997,
     "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285": 1791846997,
     "https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977": 1791846997,
@@ -2613,6 +2745,7 @@
     "https://jobs.ashbyhq.com/tensorwave/34dd183d-4423-40e3-bb6d-790b5dafc731": 1791846997,
     "https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab": 1791846997,
     "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0": 1791846997,
+    "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7": 1792168215,
     "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac": 1791846997,
     "https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64": 1791846997,
     "https://jobs.dayforcehcm.com/en-US/ibgllc/candidateportal/jobs/2135": 1791918609,
@@ -2655,7 +2788,11 @@
     "https://jobs.smartrecruiters.com/Winsupply1/3743990015014717-software-developer-intern-?oga=true": 1791997216,
     "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067": 1791846997,
     "https://kendallgroup.wd503.myworkdayjobs.com/en-US/kendall_careers/job/Portage-MI/Software-Engineering-Intern_R-101166": 1791846997,
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/kion_scs/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732": 1792168215,
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1": 1792168215,
     "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1": 1791918609,
+    "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817": 1792168215,
+    "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821": 1792168215,
     "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1": 1791846997,
     "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1": 1791846997,
     "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701": 1791918609,
@@ -2712,6 +2849,7 @@
     "https://lifeattiktok.com/search/7671211313289398581": 1791846997,
     "https://lifeattiktok.com/search/7672926068681951493": 1791846997,
     "https://lifeattiktok.com/search/7672930401597671733": 1791846997,
+    "https://lifeattiktok.com/search/7673636206961641781": 1792168215,
     "https://lifeattiktok.com/search/7675128776856029445": 1791846997,
     "https://lifeattiktok.com/search/7675159726676101381": 1791846997,
     "https://lifeattiktok.com/search/7675517686256863541": 1791846997,
@@ -2757,6 +2895,7 @@
     "https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Madison-WI/Intern---UX-UI-Front-End-Engineer_R23118": 1791846997,
     "https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106": 1791846997,
     "https://newrez.wd1.myworkdayjobs.com/en-US/nrz/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390": 1791846997,
+    "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037": 1792168215,
     "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111": 1791846997,
     "https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern": 1791846997,
     "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945": 1791846997,
@@ -2770,6 +2909,7 @@
     "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493": 1791846997,
     "https://pacificlife.wd1.myworkdayjobs.com/en-US/pacificlifecareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826": 1791846997,
     "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/hidden-private-pawn-temp-gateway-147258369/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelors--EG_JR-022385": 1791918609,
+    "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299": 1792168215,
     "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503": 1791846997,
     "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745": 1791846997,
     "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2027-_R040424": 1791846997,
@@ -2794,10 +2934,12 @@
     "https://simon.wd1.myworkdayjobs.com/en-US/simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975": 1791846997,
     "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Dayton-OH/Software-Engineering-Intern--Summer-2027-_R0030754": 1791846997,
     "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1": 1791846997,
+    "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098": 1792168215,
     "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757": 1791846997,
     "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584": 1791846997,
     "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Plano-TX/Software-Engineering-Intern--Summer-2027-_R0030758": 1791846997,
     "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759": 1791918609,
+    "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Sparks-NV/Software-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031074": 1792168215,
     "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760": 1791918609,
     "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1": 1791846997,
     "https://spgi.wd5.myworkdayjobs.com/en-US/spgi_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2": 1791846997,
@@ -2808,6 +2950,7 @@
     "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1": 1791846997,
     "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624": 1791846997,
     "https://studentopportunities-lutron.icims.com/jobs/5384/summer-2027---software-engineering-intern---philadelphia%2c-pa/job": 1791997216,
+    "https://studentopportunities-lutron.icims.com/jobs/5387/summer-2027---software-engineering-intern---boston%2c-ma/job": 1792168215,
     "https://studentopportunities-lutron.icims.com/jobs/5388/summer-2027---software-engineering-intern---austin%2c-tx/job": 1791997216,
     "https://swbc.wd1.myworkdayjobs.com/en-US/collegeinternships/job/San-Antonio-TX/DevOps-Intern_R0015484-1": 1791918609,
     "https://swbc.wd1.myworkdayjobs.com/en-US/collegeinternships/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-1": 1791918609,
@@ -2826,6 +2969,7 @@
     "https://thgrp.wd12.myworkdayjobs.com/en-US/envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727": 1791918609,
     "https://thrivent.wd5.myworkdayjobs.com/en-US/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334": 1791846997,
     "https://tihinsurance.wd1.myworkdayjobs.com/en-US/crc_careers/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172": 1791846997,
+    "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322": 1792168215,
     "https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648": 1791918609,
     "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676": 1791846997,
     "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R17948": 1791846997,
@@ -2894,7 +3038,7 @@
     "https://www.tower-research.com/open-positions/?gh_jid=8044334": 1791846997,
     "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003": 1791846997
    },
-   "sha": "95e5ff1585cd703d6f6394fe91987e7169dbf5d2"
+   "sha": "b37bfea9570d3748eec06f1a66a8e1765010573c"
   }
  },
  "started": 1791846997
