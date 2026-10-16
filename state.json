@@ -519,11 +519,36 @@
    "key": "cigna group|healthcare analytics intern",
    "source": "simplify",
    "ts": 1792105509
+  },
+  {
+   "key": "axiom space|software engineer intern",
+   "source": "simplify",
+   "ts": 1792116308
+  },
+  {
+   "key": "abridge|member of technical staff intern",
+   "source": "simplify",
+   "ts": 1792116308
+  },
+  {
+   "key": "healthpeak properties|forward deployed software engineer intern",
+   "source": "simplify",
+   "ts": 1792116308
+  },
+  {
+   "key": "t mobile|software engineer intern",
+   "source": "simplify",
+   "ts": 1792116308
+  },
+  {
+   "key": "tiktok|software engineer intern recommendation performance efficiency",
+   "source": "simplify",
+   "ts": 1792116308
   }
  ],
  "last_heartbeat": "2026-10-15",
- "last_run": 1792116016,
- "push_count": 13,
+ "last_run": 1792116308,
+ "push_count": 18,
  "push_day": "2026-10-15",
  "runs": [
   1792029908,
@@ -819,13 +844,14 @@
   1792115109,
   1792115409,
   1792115707,
-  1792116016
+  1792116016,
+  1792116308
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792108210,
-   "last_ok": 1792116016,
+   "last_ok": 1792116308,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -838,7 +864,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792116016,
+   "last_ok": 1792116308,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -846,7 +872,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792116016,
+   "last_ok": 1792116308,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -854,7 +880,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792116016,
+   "last_ok": 1792116308,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -1224,6 +1250,7 @@
     "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc": 1791846997,
     "4c8571fd-a704-4542-babd-54c89d6aeff3": 1791846997,
     "4c8703e4-e538-4a55-ac8c-5d9b8e0eec12": 1791846997,
+    "4cc3f124-5683-4993-b06a-196a262faaaa": 1792116308,
     "4cf30745-6f3b-4afc-b4a7-8c156b74804c": 1791846997,
     "4d30f64b-9b67-4679-a968-1b62bf57c98e": 1791846997,
     "4d33923f-011e-4c9c-8e39-4a4f417686d7": 1791846997,
@@ -1280,6 +1307,7 @@
     "555a5129-471f-4c93-8e7b-aa4a1996fa61": 1791846997,
     "5562454d-b04d-48f2-819f-22c84cd26c2c": 1791846997,
     "55d83f42-3073-4394-a485-5f539341ffe1": 1791846997,
+    "55d8577a-649c-47a8-a60f-2fc353841220": 1792116308,
     "56176872-3480-423d-9dd5-9d705a881462": 1791846997,
     "56196707-1bc1-44de-9e0e-a32456792771": 1791846997,
     "56965bf6-c164-4f90-8d38-c6ccc6fdcd9a": 1791846997,
@@ -1684,6 +1712,7 @@
     "a7c9aea2-4419-4128-b445-65d7c1f33bfe": 1791846997,
     "a815c1a3-823d-405a-99ea-e82fbbb247cd": 1791857109,
     "a8655c72-8299-4087-b0ad-d93807cef979": 1791846997,
+    "a8967f38-53a7-4716-80c1-8ba4fc0fb06b": 1792116308,
     "a8c12424-098d-4d97-9658-8820b0fdac3e": 1791846997,
     "a8d0af87-a5ff-4477-8e3b-2f27946cbc23": 1791846997,
     "a8f74022-e7f9-431a-a969-0b7d525a735c": 1791846997,
@@ -1709,6 +1738,7 @@
     "aad0cae7-225e-41d2-b416-7d42885da521": 1791846997,
     "aaeb44bf-c9ec-46e3-989c-e8594be3ac17": 1791846997,
     "ab6cb65d-01c3-421d-bc8b-48584e8d4cba": 1791846997,
+    "abedfbfb-5d56-4e56-a4bc-2ce1b5424f8d": 1792116308,
     "abf84bbc-9f9b-4db5-8637-7b7772fb25e4": 1791846997,
     "ac037a9c-f763-4262-beaf-c091d10bf894": 1791846997,
     "ac16b37b-d5ee-4a02-8d77-305bc1ab5168": 1791846997,
@@ -1868,6 +1898,7 @@
     "c63a51bb-9db9-4bab-91a4-279cec884af5": 1791846997,
     "c64a512f-2622-44bb-9b61-40e707833008": 1791846997,
     "c6ad75c6-e86c-4602-8344-eb52b14bb37e": 1791846997,
+    "c6cf89af-fd3e-48e3-b886-b14efade21e6": 1792116308,
     "c6dd05de-594d-4fa3-8da1-c646ae0eca31": 1791846997,
     "c7521562-9599-4ee6-a407-0b8d73212142": 1791846997,
     "c7559700-6781-4dfa-9c72-fba7cfd1ce27": 1791846997,
@@ -1977,6 +2008,7 @@
     "dab6f443-d39a-4bca-acad-451c8b347549": 1791846997,
     "db1e4fb4-a7e7-4c57-ae1c-7ffdab053208": 1791846997,
     "db751a34-9b4b-43f1-bf9b-46a955ce6cb5": 1791846997,
+    "db93ac45-a63e-477d-bd8f-98cf17ca4fd7": 1792116308,
     "db960900-01f6-4f01-9c82-84153cdf5547": 1791846997,
     "dc2aebf1-8c3c-4139-937e-f31dfd69950e": 1791846997,
     "dc3a9143-cfc6-4926-a93c-e8f88ee84555": 1792019108,
@@ -2162,11 +2194,11 @@
     "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": 1791846997,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "cd91a107004c0511b4ef3edf0432297faa6ef62b"
+   "sha": "cedc1553353aa49d2dca42289e79f846c17aab3a"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792116016,
+   "last_ok": 1792116308,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
