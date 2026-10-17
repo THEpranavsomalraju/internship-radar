@@ -737,11 +737,10 @@
   }
  ],
  "last_heartbeat": "2026-10-17",
- "last_run": 1792260608,
+ "last_run": 1792260910,
  "push_count": 1,
  "push_day": "2026-10-17",
  "runs": [
-  1792174210,
   1792174510,
   1792174691,
   1792174810,
@@ -1037,13 +1036,14 @@
   1792259707,
   1792260014,
   1792260307,
-  1792260608
+  1792260608,
+  1792260910
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792260309,
-   "last_ok": 1792260608,
+   "last_ok": 1792260910,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1056,7 +1056,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792260608,
+   "last_ok": 1792260910,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -1064,7 +1064,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792260608,
+   "last_ok": 1792260910,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1072,7 +1072,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792260608,
+   "last_ok": 1792260910,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -2417,7 +2417,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792260608,
+   "last_ok": 1792260910,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
