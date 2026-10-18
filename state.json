@@ -734,14 +734,18 @@
    "key": "ryan|software engineer intern",
    "source": "simplify",
    "ts": 1792202708
+  },
+  {
+   "key": "tesla|advanced automation engineer intern cell engineering",
+   "source": "simplify",
+   "ts": 1792317908
   }
  ],
  "last_heartbeat": "2026-10-17",
- "last_run": 1792317613,
- "push_count": 0,
+ "last_run": 1792317908,
+ "push_count": 1,
  "push_day": "2026-10-18",
  "runs": [
-  1792231214,
   1792231508,
   1792231807,
   1792232109,
@@ -1038,13 +1042,14 @@
   1792316819,
   1792317008,
   1792317307,
-  1792317613
+  1792317613,
+  1792317908
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792303511,
-   "last_ok": 1792317613,
+   "last_ok": 1792317908,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1057,7 +1062,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792317613,
+   "last_ok": 1792317908,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -1065,7 +1070,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792317613,
+   "last_ok": 1792317908,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1073,7 +1078,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792317613,
+   "last_ok": 1792317908,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -1832,6 +1837,7 @@
     "92e9545b-71c8-4dda-aea6-8cfaf7374068": 1792019108,
     "92ec25b9-67cb-4a92-87d3-379a0012eb5d": 1791846997,
     "93048763-5a4d-430c-bb12-ed0ad0d9cfa7": 1791846997,
+    "931408fb-5cb7-4179-8c33-35a242bbc266": 1792317908,
     "9336555d-472f-4804-b5f7-a1e52e004ac6": 1791846997,
     "9388e6b1-f360-486e-b324-4bde10bf52a9": 1791846997,
     "938e1389-c62c-4512-aecc-c83536e5bea9": 1791846997,
@@ -2414,11 +2420,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "19ee7eb58aae87bbc50eb6bac74a26c6489c2d52"
+   "sha": "7bfd4355a0c93adb63ab92b2968d454e9bbca840"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792317613,
+   "last_ok": 1792317908,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
