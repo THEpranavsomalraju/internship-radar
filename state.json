@@ -739,11 +739,21 @@
    "key": "tesla|advanced automation engineer intern cell engineering",
    "source": "simplify",
    "ts": 1792317908
+  },
+  {
+   "key": "gm financial|portfolio analytics intern",
+   "source": "simplify",
+   "ts": 1792420508
+  },
+  {
+   "key": "graviton|quantitative researcher intern",
+   "source": "simplify",
+   "ts": 1792420508
   }
  ],
  "last_heartbeat": "2026-10-19",
- "last_run": 1792420213,
- "push_count": 1,
+ "last_run": 1792420508,
+ "push_count": 3,
  "push_day": "2026-10-19",
  "runs": [
   1792334108,
@@ -1040,13 +1050,14 @@
   1792419310,
   1792419648,
   1792419909,
-  1792420213
+  1792420213,
+  1792420508
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792412411,
-   "last_ok": 1792420213,
+   "last_ok": 1792420508,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1059,7 +1070,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792420213,
+   "last_ok": 1792420508,
    "seeded": true,
    "seen": {
     "97792631792": 1791846997
@@ -1067,7 +1078,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792420213,
+   "last_ok": 1792420508,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1075,12 +1086,13 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792420213,
+   "last_ok": 1792420508,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
     "008ce178-6fee-4916-a564-da1d1f5ada95": 1792019108,
     "00a52ad4-067c-472b-a535-cacfc706483d": 1791846997,
+    "01715d82-9e8f-436e-956d-164b5e0aceb2": 1792420508,
     "0173534b-1a00-43bf-8929-2a7c5bfa842d": 1791846997,
     "01769f39-4af0-402c-a217-88c13dd5d513": 1791846997,
     "0198141b-bbd1-4584-9152-523efb2cd1c8": 1791846997,
@@ -1904,6 +1916,7 @@
     "a3df12be-fbf0-4c4f-a784-f55100ad8aaa": 1792105509,
     "a42bb64b-5118-4414-b5bb-ebe063b71b10": 1791990308,
     "a4396e82-b740-45d4-b2ae-a3818521c84a": 1791846997,
+    "a4c430da-28db-496d-b495-ef52de387970": 1792420508,
     "a4f7639e-dcce-4b8a-9d8a-2459909bd068": 1791846997,
     "a57d347e-4ce0-4590-bf80-9368dd106660": 1791846997,
     "a58125b0-2c66-4d05-ad80-42c3a6df7526": 1791846997,
@@ -2417,11 +2430,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "3999feb305f53c059064457c08cf254ef63b8a2c"
+   "sha": "b52fe12ab03cf1aa5fe9d304102adc09fa4af785"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792420213,
+   "last_ok": 1792420508,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
