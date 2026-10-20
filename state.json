@@ -909,14 +909,28 @@
    "key": "verizon communications|call routing optimization engineering intern",
    "source": "simplify",
    "ts": 1792503309
+  },
+  {
+   "key": "space dynamics laboratory|ai enabled requirements engineering intern",
+   "source": "simplify",
+   "ts": 1792508710
+  },
+  {
+   "key": "allstate|software engineer intern",
+   "source": "simplify",
+   "ts": 1792508710
+  },
+  {
+   "key": "cigna group|business analytics intern",
+   "source": "simplify",
+   "ts": 1792508710
   }
  ],
  "last_heartbeat": "2026-10-20",
- "last_run": 1792508417,
- "push_count": 5,
+ "last_run": 1792508710,
+ "push_count": 8,
  "push_day": "2026-10-20",
  "runs": [
-  1792422308,
   1792422610,
   1792422911,
   1792423210,
@@ -1206,13 +1220,14 @@
   1792507510,
   1792507810,
   1792508109,
-  1792508417
+  1792508417,
+  1792508710
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792499111,
-   "last_ok": 1792508417,
+   "last_ok": 1792508710,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1225,7 +1240,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792508417,
+   "last_ok": 1792508710,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1234,7 +1249,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792508417,
+   "last_ok": 1792508710,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1242,7 +1257,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792508417,
+   "last_ok": 1792508710,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -1324,6 +1339,7 @@
     "0fcced78-d86d-400f-922d-576be4853376": 1791846997,
     "100aa374-4fc4-4766-87fe-7cdd6b8a5ecc": 1791846997,
     "101c0a59-cfc7-4ef9-bcf8-d70d2a67c4f7": 1791846997,
+    "10497907-6a16-498a-a06a-e40113931577": 1792508710,
     "10aab0a0-09f3-44a8-990e-a5b8db3c8da8": 1791846997,
     "10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d": 1792503309,
     "111932e9-ef61-4e10-af00-fdf06cb493c7": 1791846997,
@@ -2143,6 +2159,7 @@
     "aa739d1b-e0d2-4ce1-bb8a-be88fe2687f1": 1791846997,
     "aa7eb673-811f-4d32-a109-b840c82a1fab": 1791846997,
     "aa9df840-2039-4524-9672-7d4ffd853f89": 1791846997,
+    "aaac9d8b-db6b-4050-ad94-8cb5584c0bbd": 1792508710,
     "aad0cae7-225e-41d2-b416-7d42885da521": 1791846997,
     "aaeb44bf-c9ec-46e3-989c-e8594be3ac17": 1791846997,
     "ab6cb65d-01c3-421d-bc8b-48584e8d4cba": 1791846997,
@@ -2236,6 +2253,7 @@
     "b9b2b8a1-c174-460a-9af5-aaeec6fcac26": 1791846997,
     "b9ca24ba-2e7c-4a91-9c5e-af511017a2e2": 1791846997,
     "b9e02195-e8aa-4296-8ba7-766a14912486": 1791846997,
+    "ba0364a9-1ac6-476c-bce0-118895d7a5ed": 1792508710,
     "ba118ced-217b-406f-8885-fb001cb6f2ee": 1791846997,
     "ba21fb5b-f6ae-4a75-a5ce-cb99ba4a0b97": 1791846997,
     "bacd78d3-75f9-4a04-bcb0-8af136f91b7d": 1791846997,
@@ -2624,11 +2642,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "087eb9881b034f1203453f85fca5c97173405449"
+   "sha": "202c35ac9f50e5f2af484866d047cf9f059c62db"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792508417,
+   "last_ok": 1792508710,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
