@@ -894,15 +894,18 @@
    "key": "the new york times|ai initiatives fellow",
    "source": "simplify",
    "ts": 1792492509
+  },
+  {
+   "key": "verizon communications|call routing optimization engineer intern",
+   "source": "simplify",
+   "ts": 1792496108
   }
  ],
  "last_heartbeat": "2026-10-19",
- "last_run": 1792495812,
- "push_count": 1,
+ "last_run": 1792496108,
+ "push_count": 2,
  "push_day": "2026-10-20",
  "runs": [
-  1792409412,
-  1792409707,
   1792410009,
   1792410309,
   1792410609,
@@ -1193,13 +1196,14 @@
   1792494910,
   1792495209,
   1792495509,
-  1792495812
+  1792495812,
+  1792496108
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792477510,
-   "last_ok": 1792495812,
+   "last_ok": 1792496108,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1212,7 +1216,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792495812,
+   "last_ok": 1792496108,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1221,7 +1225,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792495812,
+   "last_ok": 1792496108,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1229,7 +1233,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792495812,
+   "last_ok": 1792496108,
    "seeded": true,
    "seen": {
     "0049eda1-f2e8-424b-bab5-4e0ef74ca654": 1791846997,
@@ -1267,6 +1271,7 @@
     "0673c550-4c1f-4d6c-b03d-e2185d8183b0": 1791846997,
     "067fde7e-5b83-40ed-8830-3864aced6f33": 1791846997,
     "069dfa9c-8d02-4151-9206-14b22adce975": 1791846997,
+    "069f3f4c-adc9-4e2d-919c-045fd3bef6b6": 1792496108,
     "06c11bb5-43c4-40be-8e95-f79d8f4b6ee6": 1791846997,
     "071e1ee1-8695-49cf-91ac-316a4d241cda": 1791846997,
     "079b70ee-8105-46b4-9163-319c8610f157": 1791846997,
@@ -2607,11 +2612,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "2a1452699e8f79283be7f33bdaf2ef206b5a2dc8"
+   "sha": "55b8aa119adfbc8830e06bffdc3a01ce11c89806"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792495812,
+   "last_ok": 1792496108,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
