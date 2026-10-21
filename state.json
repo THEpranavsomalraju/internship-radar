@@ -1104,11 +1104,16 @@
    "key": "applied materials|software engineer intern",
    "source": "simplify",
    "ts": 1792546509
+  },
+  {
+   "key": "shield ai|data science intern",
+   "source": "simplify",
+   "ts": 1792550107
   }
  ],
  "last_heartbeat": "2026-10-20",
- "last_run": 1792549813,
- "push_count": 34,
+ "last_run": 1792550107,
+ "push_count": 35,
  "push_day": "2026-10-20",
  "runs": [
   1792463708,
@@ -1403,13 +1408,14 @@
   1792548910,
   1792549212,
   1792549509,
-  1792549813
+  1792549813,
+  1792550107
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792542611,
-   "last_ok": 1792549813,
+   "last_ok": 1792550107,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1422,7 +1428,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792549813,
+   "last_ok": 1792550107,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1431,7 +1437,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792549813,
+   "last_ok": 1792550107,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1439,7 +1445,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792549813,
+   "last_ok": 1792550107,
    "seeded": true,
    "seen": {
     "0017fea4-31d8-44fc-a69d-2af57be2290e": 1792546509,
@@ -2513,6 +2519,7 @@
     "c4d18418-d4a9-4c9d-900d-4ffe42c1b1c6": 1791846997,
     "c4f9efb0-cfe9-4fa9-8eba-dd91a195bd79": 1791846997,
     "c5020e56-97ee-4c3f-a215-6a6ef25b4a49": 1791846997,
+    "c57abcec-5e89-47ba-b6c2-a19d6a94917b": 1792550107,
     "c582b6e2-b69e-4277-a7e9-2871a23168c4": 1791846997,
     "c5bd1b3f-c4a1-4606-b687-e4afcc112363": 1791846997,
     "c5e3ece8-669f-4ff8-9bb7-45dba1374d0f": 1791846997,
@@ -2842,11 +2849,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "65aadc8d77c1b3c97f5c0d7ce6511f87542c40ad"
+   "sha": "d079bb98ae2418d59cbec708b256dd3fb75c64fe"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792549813,
+   "last_ok": 1792550107,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
