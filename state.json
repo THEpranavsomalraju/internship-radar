@@ -1199,14 +1199,18 @@
    "key": "athene|operations reporting analytics intern",
    "source": "simplify",
    "ts": 1792625710
+  },
+  {
+   "key": "crusoe|software engineer intern",
+   "source": "simplify",
+   "ts": 1792634708
   }
  ],
  "last_heartbeat": "2026-10-21",
- "last_run": 1792634414,
- "push_count": 19,
+ "last_run": 1792634708,
+ "push_count": 20,
  "push_day": "2026-10-21",
  "runs": [
-  1792548015,
   1792548308,
   1792548609,
   1792548910,
@@ -1498,13 +1502,14 @@
   1792633815,
   1792634003,
   1792634110,
-  1792634414
+  1792634414,
+  1792634708
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792629309,
-   "last_ok": 1792634414,
+   "last_ok": 1792634708,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1517,7 +1522,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792634414,
+   "last_ok": 1792634708,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1526,7 +1531,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792634414,
+   "last_ok": 1792634708,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1534,7 +1539,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792634414,
+   "last_ok": 1792634708,
    "seeded": true,
    "seen": {
     "0017fea4-31d8-44fc-a69d-2af57be2290e": 1792546509,
@@ -2947,6 +2952,7 @@
     "fcc0a6c7-e090-4804-8107-677c58b416a9": 1791846997,
     "fcc5cf43-9a19-40b0-85ff-1c92964514c4": 1791846997,
     "fccd4367-7e28-42a3-93ee-6e8e6447fbf3": 1791846997,
+    "fd1af9f8-2356-4f0f-b005-ab9f523e4e24": 1792634708,
     "fd5b6e26-96b5-44b4-b0d5-ce1973787fdb": 1792622108,
     "fdd7e7ec-c300-4a26-931c-56c3adc48425": 1791846997,
     "fdf4dfa7-1147-46dc-a5e5-0873db565d6f": 1791846997,
@@ -2965,11 +2971,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "7c5491d14e4cbf790bf53306d7054dc504c76b05"
+   "sha": "2f45392714bd8621f089ea015cb176f79edb79b3"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792634414,
+   "last_ok": 1792634708,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
