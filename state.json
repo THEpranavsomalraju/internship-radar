@@ -1539,14 +1539,18 @@
    "key": "carrier global|software engineer intern",
    "source": "simplify",
    "ts": 1792798508
+  },
+  {
+   "key": "johnson johnson|laboratory automation systems intern",
+   "source": "simplify",
+   "ts": 1792807507
   }
  ],
  "last_heartbeat": "2026-10-23",
- "last_run": 1792807214,
- "push_count": 14,
+ "last_run": 1792807507,
+ "push_count": 15,
  "push_day": "2026-10-23",
  "runs": [
-  1792720814,
   1792721108,
   1792721410,
   1792721711,
@@ -1839,13 +1843,14 @@
   1792806463,
   1792806608,
   1792806908,
-  1792807214
+  1792807214,
+  1792807507
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792803012,
-   "last_ok": 1792807214,
+   "last_ok": 1792807507,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1858,7 +1863,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792807214,
+   "last_ok": 1792807507,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1867,7 +1872,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792807214,
+   "last_ok": 1792807507,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1875,7 +1880,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792807214,
+   "last_ok": 1792807507,
    "seeded": true,
    "seen": {
     "0017fea4-31d8-44fc-a69d-2af57be2290e": 1792546509,
@@ -2275,6 +2280,7 @@
     "46afb6b3-6be4-457a-ab81-e5a109555aff": 1791846997,
     "4746059c-ea14-45da-b685-80d31e68d2e2": 1791846997,
     "47ab58f6-dd3d-4521-bdcb-8d3cbf3db18b": 1792503309,
+    "47b1aeb6-587f-4d70-974c-6dd226fbf9e7": 1792807507,
     "483a6e7d-49d9-4b1b-823b-1c0e3be6b318": 1792191908,
     "48407e3f-74f1-4eda-a843-3935f4654085": 1791846997,
     "48975da5-2bb2-4457-8702-de4898cd805e": 1791846997,
@@ -2577,6 +2583,7 @@
     "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e": 1791846997,
     "78c615cc-dde5-4897-aa80-d2cd8cfc2c60": 1791846997,
     "78f2f6fd-9234-4b7c-a26c-189023b24ca7": 1792794910,
+    "792220f4-3ba1-4cf8-843e-e23208ba8d24": 1792807507,
     "79807b51-faf5-46c1-9880-7c1b2a77905f": 1791846997,
     "79d2767b-ee67-4702-b2e3-506ab0eb3a30": 1791846997,
     "79fa7912-460d-4ed0-8f17-686a0a47afbe": 1791846997,
@@ -3397,11 +3404,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "44fbb0d48562d1a79fea5eddcb970c6cb0f419c6"
+   "sha": "9fdb1063083573cff2aa22e139a3049ddcf1b822"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792807214,
+   "last_ok": 1792807507,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
