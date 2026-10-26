@@ -1594,14 +1594,28 @@
    "key": "skydio|autonomy engineer intern deep learning computer vision",
    "source": "simplify",
    "ts": 1792978508
+  },
+  {
+   "key": "cvs health|innovation technology intern data engineering",
+   "source": "simplify",
+   "ts": 1793027109
+  },
+  {
+   "key": "ptc|software engineer intern",
+   "source": "simplify",
+   "ts": 1793027109
+  },
+  {
+   "key": "wells fargo|technology intern early careers data engineering",
+   "source": "simplify",
+   "ts": 1793027109
   }
  ],
  "last_heartbeat": "2026-10-26",
- "last_run": 1793026816,
- "push_count": 1,
+ "last_run": 1793027109,
+ "push_count": 4,
  "push_day": "2026-10-26",
  "runs": [
-  1792940708,
   1792941009,
   1792941309,
   1792941609,
@@ -1894,13 +1908,14 @@
   1793025912,
   1793026209,
   1793026511,
-  1793026816
+  1793026816,
+  1793027109
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793020810,
-   "last_ok": 1793026816,
+   "last_ok": 1793027109,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1913,7 +1928,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793026816,
+   "last_ok": 1793027109,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1922,7 +1937,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793026816,
+   "last_ok": 1793027109,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1930,7 +1945,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793026816,
+   "last_ok": 1793027109,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2349,6 +2364,7 @@
     "4b7557d9-8b53-4ecd-9f14-686d7936f4bf": 1791846997,
     "4b9d78b3-d750-42ee-97cc-51f50e53e928": 1791846997,
     "4ba872b4-8b90-4582-957d-659c7dbefe2f": 1792710308,
+    "4bc89fb6-aa1c-4885-baa5-14d7ba2a7849": 1793027109,
     "4bc949a8-4e60-4c6b-90c8-fb7077b8a2b2": 1791846997,
     "4bed7671-153b-4cbc-84ad-30fbb5e3f1f1": 1791846997,
     "4c0ecb7d-5370-4670-b348-d2eb4e6be3f6": 1791846997,
@@ -2667,6 +2683,7 @@
     "7db598e3-bc08-420a-a69f-e39447549d49": 1791846997,
     "7ddf277e-2015-4e65-ba79-906aa7c813de": 1792764309,
     "7e2ddc17-84b3-4327-99fb-1e197ca793c3": 1792191908,
+    "7e450fbd-9292-460d-988b-8583bf42ae43": 1793027109,
     "7e5feb76-9fea-420d-a0ea-32c19e256975": 1791846997,
     "7e635a7d-4a28-41ba-a06c-d0b08875dfae": 1791846997,
     "7e94c6d9-c88c-4d70-8bd0-51a2cc801485": 1791846997,
@@ -2677,6 +2694,7 @@
     "7f1252c2-2dd8-4334-9c9c-8ace10b21273": 1791846997,
     "7f9efb23-69aa-4042-9954-1336de391b9b": 1791846997,
     "7fdf2de6-75ca-4715-8764-720c7cc52695": 1791846997,
+    "8005e595-614b-4b9a-9c29-cb113c52566a": 1793027109,
     "800e06ea-4a8a-4db5-a93a-7aae82cfac49": 1791846997,
     "8028ea71-392c-4173-9d2a-1dc31c5a4571": 1791846997,
     "808f7430-55f6-4daa-9c66-727dc6615eee": 1791846997,
@@ -3459,11 +3477,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "fd76e832ad361bbd856102f994e663e03db6edc1"
+   "sha": "bd2152ef95ed0b3f43e64a61c902f95239089d76"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793026816,
+   "last_ok": 1793027109,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
