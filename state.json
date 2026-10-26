@@ -1589,14 +1589,18 @@
    "key": "uline|software development internship",
    "source": "speedyapply",
    "ts": 1792856709
+  },
+  {
+   "key": "skydio|autonomy engineer intern deep learning computer vision",
+   "source": "simplify",
+   "ts": 1792978508
   }
  ],
  "last_heartbeat": "2026-10-25",
- "last_run": 1792978211,
- "push_count": 1,
+ "last_run": 1792978508,
+ "push_count": 2,
  "push_day": "2026-10-25",
  "runs": [
-  1792891811,
   1792892108,
   1792892408,
   1792892708,
@@ -1891,13 +1895,14 @@
   1792977309,
   1792977609,
   1792977909,
-  1792978211
+  1792978211,
+  1792978508
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1792977310,
-   "last_ok": 1792978211,
+   "last_ok": 1792978508,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1910,7 +1915,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1792978211,
+   "last_ok": 1792978508,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1919,7 +1924,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1792978211,
+   "last_ok": 1792978508,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -1927,7 +1932,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1792978211,
+   "last_ok": 1792978508,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3026,6 +3031,7 @@
     "ba0364a9-1ac6-476c-bce0-118895d7a5ed": 1792508710,
     "ba118ced-217b-406f-8885-fb001cb6f2ee": 1791846997,
     "ba21fb5b-f6ae-4a75-a5ce-cb99ba4a0b97": 1791846997,
+    "baa25da2-9ee0-403d-8396-0d4788626830": 1792978508,
     "bacd78d3-75f9-4a04-bcb0-8af136f91b7d": 1791846997,
     "baf0289f-d552-40cc-956a-c2184364f85a": 1791846997,
     "bafe3732-d178-4e2d-bf6c-1ddf689474fe": 1791846997,
@@ -3455,11 +3461,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "d92e1f8b61e0daad9abe6d58b774d84c306ffec5"
+   "sha": "47d37b72af69204714e2e3a6194f5d9f23e2362d"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1792978211,
+   "last_ok": 1792978508,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
