@@ -1,66 +1,6 @@
 {
  "alerts": [
   {
-   "key": "gei consultants|web developer intern",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "acron aviation|software engineer intern phoenix site",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "cboe global markets|software engineer intern c",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "expedia group|software development engineering intern austin san jose seattle",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "gdit|software development internship",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "hasbro|it software internships",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "kla|ai ml software engineer intern",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "life fitness|android software intern",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "raytheon|software engineering intern",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "rf smart|software developer internship",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "rf smart|software support engineer internship rfs for netsuite",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
-   "key": "sel|software engineer intern",
-   "source": "speedyapply",
-   "ts": 1791918609
-  },
-  {
    "key": "general dynamics information technology|ai and data analytics intern",
    "source": "simplify",
    "ts": 1791932708
@@ -1917,12 +1857,10 @@
   }
  ],
  "last_heartbeat": "2026-10-27",
- "last_run": 1793127909,
+ "last_run": 1793128211,
  "push_count": 19,
  "push_day": "2026-10-27",
  "runs": [
-  1793041510,
-  1793041809,
   1793042111,
   1793042410,
   1793042708,
@@ -2214,13 +2152,14 @@
   1793127009,
   1793127309,
   1793127615,
-  1793127909
+  1793127909,
+  1793128211
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793107509,
-   "last_ok": 1793127909,
+   "last_ok": 1793128211,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2234,7 +2173,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793127909,
+   "last_ok": 1793128211,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2243,7 +2182,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793127909,
+   "last_ok": 1793128211,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -2251,7 +2190,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793127909,
+   "last_ok": 1793128211,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3847,7 +3786,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793127909,
+   "last_ok": 1793128211,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
