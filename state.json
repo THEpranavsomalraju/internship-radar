@@ -1,46 +1,6 @@
 {
  "alerts": [
   {
-   "key": "ge vernova|grid foundational models intern agi",
-   "source": "simplify",
-   "ts": 1791990308
-  },
-  {
-   "key": "ge vernova|ai post training and model alignment intern",
-   "source": "simplify",
-   "ts": 1791990308
-  },
-  {
-   "key": "ge vernova|power system intern",
-   "source": "simplify",
-   "ts": 1791990308
-  },
-  {
-   "key": "parsons|software engineer intern",
-   "source": "simplify",
-   "ts": 1791990308
-  },
-  {
-   "key": "ge vernova|ai evaluation benchmarking intern agi",
-   "source": "simplify",
-   "ts": 1791990308
-  },
-  {
-   "key": "ge vernova|ai evaluation benchmarking intern",
-   "source": "simplify",
-   "ts": 1791990308
-  },
-  {
-   "key": "point72|software engineer intern",
-   "source": "simplify",
-   "ts": 1791990308
-  },
-  {
-   "key": "j m smucker|net revenue optimization intern",
-   "source": "simplify",
-   "ts": 1791990308
-  },
-  {
    "key": "microsoft|cloud network engineering internship opportunities",
    "source": "speedyapply",
    "ts": 1791997216
@@ -1924,14 +1884,28 @@
    "key": "infleqtion|quantum software intern quantum software",
    "source": "simplify",
    "ts": 1793198110
+  },
+  {
+   "key": "prizepicks|business intelligence intern game operations",
+   "source": "simplify",
+   "ts": 1793199912
+  },
+  {
+   "key": "ace hardware|it associate software engineer intern",
+   "source": "simplify",
+   "ts": 1793199912
+  },
+  {
+   "key": "schonfeld|dmfi intern",
+   "source": "simplify",
+   "ts": 1793199912
   }
  ],
  "last_heartbeat": "2026-10-28",
- "last_run": 1793199618,
- "push_count": 6,
+ "last_run": 1793199912,
+ "push_count": 9,
  "push_day": "2026-10-28",
  "runs": [
-  1793113510,
   1793113809,
   1793114111,
   1793114410,
@@ -2223,13 +2197,14 @@
   1793198711,
   1793199010,
   1793199309,
-  1793199618
+  1793199618,
+  1793199912
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793194510,
-   "last_ok": 1793199618,
+   "last_ok": 1793199912,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2243,7 +2218,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793199618,
+   "last_ok": 1793199912,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2252,7 +2227,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793199618,
+   "last_ok": 1793199912,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -2260,7 +2235,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793199618,
+   "last_ok": 1793199912,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2305,6 +2280,7 @@
     "067fde7e-5b83-40ed-8830-3864aced6f33": 1791846997,
     "069dfa9c-8d02-4151-9206-14b22adce975": 1791846997,
     "069f3f4c-adc9-4e2d-919c-045fd3bef6b6": 1792496108,
+    "06b10676-879d-4a83-9f64-ad12866cbd63": 1793199912,
     "06c11bb5-43c4-40be-8e95-f79d8f4b6ee6": 1791846997,
     "071e1ee1-8695-49cf-91ac-316a4d241cda": 1791846997,
     "079b70ee-8105-46b4-9163-319c8610f157": 1791846997,
@@ -2665,6 +2641,7 @@
     "428cbf35-14f8-4bc9-a4bd-b044dbc7ddc2": 1791846997,
     "42f5973e-2aff-404f-84c2-f2aaba6998d1": 1791990308,
     "43314ea5-8533-4883-a5e5-5afdc6cff866": 1791846997,
+    "4380e085-d294-474c-8406-d6adf347b44e": 1793199912,
     "43906c1b-7f09-425f-89c4-c110033758ce": 1791846997,
     "43929c26-d19b-4057-9543-bf087c4bbf62": 1791846997,
     "439c65c1-64f2-461c-8ca1-ca36969ef10a": 1791857109,
@@ -3485,6 +3462,7 @@
     "bfd3e5c6-0630-477a-a77e-5849e825fd81": 1791846997,
     "bfeef96e-5bbc-425d-9ee0-3fa12f525bf1": 1791846997,
     "bff3221b-d0ea-4c07-9c51-4ba9501e3a5c": 1791846997,
+    "bff9a492-ed06-4a94-8f0d-75a782dcefd8": 1793199912,
     "c0048e8d-bc5e-43fe-a26c-8194823003f8": 1791846997,
     "c033b014-3543-4799-8be7-042be636bc14": 1793057707,
     "c03b7a2c-d1b6-4e44-bfc8-e638eeb45dac": 1791846997,
@@ -3895,11 +3873,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "436ae2f31ed39e387769941a47bddf2a7180b28a"
+   "sha": "02363f0eeb6f961ce1918d53d5ede183a5881897"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793199618,
+   "last_ok": 1793199912,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
