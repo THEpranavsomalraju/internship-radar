@@ -1,11 +1,6 @@
 {
  "alerts": [
   {
-   "key": "assurant|data support analyst intern",
-   "source": "simplify",
-   "ts": 1791961508
-  },
-  {
    "key": "ascension|integrated participant solutions analytics intern",
    "source": "simplify",
    "ts": 1791968710
@@ -1909,14 +1904,28 @@
    "key": "paccar|application developer intern",
    "source": "simplify",
    "ts": 1793153108
+  },
+  {
+   "key": "shield ai|software engineer intern",
+   "source": "simplify",
+   "ts": 1793171110
+  },
+  {
+   "key": "vsp vision|software engineer intern",
+   "source": "simplify",
+   "ts": 1793171110
+  },
+  {
+   "key": "vsp vision|software engineer intern technology innovation",
+   "source": "simplify",
+   "ts": 1793171110
   }
  ],
  "last_heartbeat": "2026-10-27",
- "last_run": 1793170817,
- "push_count": 0,
+ "last_run": 1793171110,
+ "push_count": 3,
  "push_day": "2026-10-28",
  "runs": [
-  1793084708,
   1793085009,
   1793085309,
   1793085609,
@@ -2208,13 +2217,14 @@
   1793169909,
   1793170210,
   1793170508,
-  1793170817
+  1793170817,
+  1793171110
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793151014,
-   "last_ok": 1793170817,
+   "last_ok": 1793171110,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2228,7 +2238,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793170817,
+   "last_ok": 1793171110,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2237,7 +2247,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793170817,
+   "last_ok": 1793171110,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -2245,7 +2255,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793170817,
+   "last_ok": 1793171110,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2396,6 +2406,7 @@
     "170b4dbe-36bf-488f-8c87-9759f8f3fc2b": 1791846997,
     "17267c54-883e-4270-aa47-9c1ba310d244": 1792798508,
     "175ef4c9-fecc-47c4-b091-217815858898": 1791846997,
+    "178d0613-9e8b-480c-b35e-f7b89b94e02e": 1793171110,
     "1795d6df-fcca-45dc-836d-41a82dc36894": 1791846997,
     "17b55e16-4b9d-4870-ba60-51a53eaf71c5": 1791846997,
     "180c2b69-a897-4c36-9460-0eac1066b869": 1791846997,
@@ -2474,6 +2485,7 @@
     "24d68083-3cb9-4678-ae53-e6a2fcd638fe": 1792794910,
     "24dd9218-cdad-48f0-b562-855c34fe9e7c": 1793057707,
     "24ee0ceb-0e78-42b5-9fd4-47bbbf594757": 1791846997,
+    "2507d753-2e29-4433-be1b-355a19295f16": 1793171110,
     "25230324-75c3-45fd-95c9-96e3284c06d4": 1791846997,
     "2535090d-f04a-40f9-afb9-01cd43e2af3f": 1791846997,
     "258b1734-67f6-4bc5-8017-6bd816a41b1e": 1791846997,
@@ -2875,6 +2887,7 @@
     "64a35586-2a6e-4c71-9919-ca8c55f250ed": 1791846997,
     "64ae06b6-64fe-47e8-bae2-98b8c700c590": 1792625710,
     "64fff9f9-a727-4e4a-8276-7c86d2eff96d": 1791846997,
+    "6510633a-12fb-403f-b2e5-b91ca20197b7": 1793171110,
     "6538dcdb-7ff2-4214-ba47-f53b40274027": 1793066708,
     "6575060e-aaff-40ad-933f-71de9e71e926": 1793113510,
     "65953c6c-4e10-43b0-bebf-f1a326199c76": 1791846997,
@@ -3758,6 +3771,7 @@
     "ee1db599-f6bc-4f33-97e1-d5b75fa8d948": 1793140508,
     "ee38a5ce-789c-4457-92fc-8400e8b038bc": 1791846997,
     "ee4b10f5-1464-463a-b28a-9020824aa805": 1791846997,
+    "ee6ec003-29b0-4b45-84ff-f2bc079dd1cf": 1793171110,
     "ee8a3af2-214e-482e-9a90-3dd327c6bdf1": 1791846997,
     "eeb6c52c-37fb-419b-98d3-d0f4866c100c": 1791846997,
     "ef40c957-572d-4f46-9bab-b7378678804d": 1791846997,
@@ -3871,11 +3885,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "2dd99e4b6c89f0ebe9fd41b5ec4e270040e30bf8"
+   "sha": "d1c5315b7a035db542ede16b232776f5aea43aa4"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793170817,
+   "last_ok": 1793171110,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
