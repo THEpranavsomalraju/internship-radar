@@ -1954,15 +1954,18 @@
    "key": "hp|software engineer intern",
    "source": "simplify",
    "ts": 1793239509
+  },
+  {
+   "key": "boston scientific|ai solutions engineering intern",
+   "source": "simplify",
+   "ts": 1793255710
   }
  ],
  "last_heartbeat": "2026-10-28",
- "last_run": 1793255412,
- "push_count": 0,
+ "last_run": 1793255710,
+ "push_count": 1,
  "push_day": "2026-10-29",
  "runs": [
-  1793169014,
-  1793169309,
   1793169609,
   1793169909,
   1793170210,
@@ -2253,13 +2256,14 @@
   1793254510,
   1793254809,
   1793255109,
-  1793255412
+  1793255412,
+  1793255710
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793238311,
-   "last_ok": 1793255412,
+   "last_ok": 1793255710,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2273,7 +2277,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793255412,
+   "last_ok": 1793255710,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2282,7 +2286,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793255412,
+   "last_ok": 1793255710,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -2290,7 +2294,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793255412,
+   "last_ok": 1793255710,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2838,6 +2842,7 @@
     "55d83f42-3073-4394-a485-5f539341ffe1": 1791846997,
     "55d8577a-649c-47a8-a60f-2fc353841220": 1792116308,
     "56176872-3480-423d-9dd5-9d705a881462": 1791846997,
+    "5617d404-c12b-458b-ab00-3c6cd2ec70e9": 1793255710,
     "56196707-1bc1-44de-9e0e-a32456792771": 1791846997,
     "5635b14b-45dd-4bb0-925f-0231622eb338": 1792546509,
     "56965bf6-c164-4f90-8d38-c6ccc6fdcd9a": 1791846997,
@@ -3215,6 +3220,7 @@
     "8de05538-819d-40af-a938-46dd512caaeb": 1791846997,
     "8dff8705-ad3c-4855-9d13-5e05b0ae339b": 1791846997,
     "8e36309e-1871-4c3f-81fb-4637169e02c5": 1792449309,
+    "8e8ee3a0-f39c-46f0-9c25-c1ffceafac8e": 1793255710,
     "8ead9143-b68f-49cb-8f40-309f4206c39a": 1791846997,
     "8ebd0a44-2e7c-4174-adf7-a6c4c147af85": 1793057707,
     "8ec2033a-ce88-4b22-8928-f0bcfa00049a": 1791846997,
@@ -3963,11 +3969,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "da0d343818bd8676a1ea695f40f12826adab107f"
+   "sha": "da21dfe2ed00df455f47b9446bb77618a1206532"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793255412,
+   "last_ok": 1793255710,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
