@@ -1,11 +1,6 @@
 {
  "alerts": [
   {
-   "key": "tessera labs|full stack software engineer intern full stack",
-   "source": "simplify",
-   "ts": 1792049707
-  },
-  {
    "key": "centene|ai software developer intern",
    "source": "simplify",
    "ts": 1792105509
@@ -1962,11 +1957,10 @@
   }
  ],
  "last_heartbeat": "2026-10-28",
- "last_run": 1793259013,
+ "last_run": 1793259309,
  "push_count": 1,
  "push_day": "2026-10-29",
  "runs": [
-  1793172615,
   1793172909,
   1793173211,
   1793173510,
@@ -2259,13 +2253,14 @@
   1793258111,
   1793258409,
   1793258709,
-  1793259013
+  1793259013,
+  1793259309
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793238311,
-   "last_ok": 1793259013,
+   "last_ok": 1793259309,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2279,7 +2274,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793259013,
+   "last_ok": 1793259309,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2288,7 +2283,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793259013,
+   "last_ok": 1793259309,
    "seeded": true,
    "seen": {
     "42964": 1791846997
@@ -2296,7 +2291,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793259013,
+   "last_ok": 1793259309,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3971,11 +3966,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "ae0f17cc4cd405472032ffc0d0aa0bb16bfeb58f"
+   "sha": "22e1694eff5f8b4aef8239d0990c6ee3e566ef68"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793259013,
+   "last_ok": 1793259309,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
