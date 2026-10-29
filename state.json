@@ -1,76 +1,6 @@
 {
  "alerts": [
   {
-   "key": "centene|ai software developer intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "northwestern mutual|underwriting research intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "state of wisconsin investment board|liquidity optimization intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "covermymeds|cmm technology intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "lawrence livermore national laboratory llnl|critical infrastructure analysis intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "leidos|data engineering analytics intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "sierra nevada|software engineer intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "danaher|data governance intern ccm",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "pennsylvania state university|r d engineer intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "muon space|ground software engineer intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "royal caribbean group|guest travel services intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "american family insurance group|enterprise data intern enablement service support",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "j m smucker|revenue growth management intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
-   "key": "cigna group|healthcare analytics intern",
-   "source": "simplify",
-   "ts": 1792105509
-  },
-  {
    "key": "axiom space|software engineer intern",
    "source": "simplify",
    "ts": 1792116308
@@ -2137,11 +2067,10 @@
   }
  ],
  "last_heartbeat": "2026-10-29",
- "last_run": 1793315109,
+ "last_run": 1793315410,
  "push_count": 27,
  "push_day": "2026-10-29",
  "runs": [
-  1793229009,
   1793229310,
   1793229610,
   1793229909,
@@ -2432,13 +2361,14 @@
   1793314210,
   1793314508,
   1793314816,
-  1793315109
+  1793315109,
+  1793315410
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793303412,
-   "last_ok": 1793315109,
+   "last_ok": 1793315410,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2453,7 +2383,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793315109,
+   "last_ok": 1793315410,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2462,7 +2392,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793315109,
+   "last_ok": 1793315410,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2471,7 +2401,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793315109,
+   "last_ok": 1793315410,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4174,7 +4104,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793315109,
+   "last_ok": 1793315410,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
