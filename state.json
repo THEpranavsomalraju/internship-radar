@@ -1994,14 +1994,48 @@
    "key": "life fitness|it intern",
    "source": "simplify",
    "ts": 1793401508
+  },
+  {
+   "key": "molina healthcare|healthcare quality analytics intern",
+   "source": "simplify",
+   "ts": 1793403308
+  },
+  {
+   "key": "molina healthcare|customer experience analytics intern undergraduate",
+   "source": "simplify",
+   "ts": 1793403308
+  },
+  {
+   "key": "barclays|client data engineering group intern chief client office",
+   "source": "simplify",
+   "ts": 1793403308
+  },
+  {
+   "key": "hyster yale materials handling|business analytics intern",
+   "source": "simplify",
+   "ts": 1793403308
+  },
+  {
+   "key": "strada education foundation|clear outcomes and data science intern",
+   "source": "simplify",
+   "ts": 1793403308
+  },
+  {
+   "key": "john d and catherine t macarthur foundation|evaluation learning intern",
+   "source": "simplify",
+   "ts": 1793403308
+  },
+  {
+   "key": "vsp vision|ai agentic machine learning development intern ai agentic machine learning development",
+   "source": "simplify",
+   "ts": 1793403308
   }
  ],
  "last_heartbeat": "2026-10-30",
- "last_run": 1793403011,
- "push_count": 10,
+ "last_run": 1793403308,
+ "push_count": 17,
  "push_day": "2026-10-30",
  "runs": [
-  1793316612,
   1793316908,
   1793317017,
   1793317209,
@@ -2292,13 +2326,14 @@
   1793402109,
   1793402409,
   1793402709,
-  1793403011
+  1793403011,
+  1793403308
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793390712,
-   "last_ok": 1793403011,
+   "last_ok": 1793403308,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2313,7 +2348,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793403011,
+   "last_ok": 1793403308,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2322,7 +2357,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793403011,
+   "last_ok": 1793403308,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2331,7 +2366,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793403011,
+   "last_ok": 1793403308,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2362,6 +2397,7 @@
     "03a8913b-a007-4657-8f59-bc29a722beda": 1791846997,
     "03ddbf84-5e23-46af-b5c3-428a7ef7f009": 1791846997,
     "0421e841-beed-4315-83cf-cbc7ffc68617": 1791846997,
+    "046091a9-a6ce-44b7-9a9f-151534102afe": 1793403308,
     "049cea50-d78a-47ec-bcdf-991d89ae226a": 1793066708,
     "04eb8758-e0be-4ae4-aca7-40e1626d3e24": 1791846997,
     "0520e2cb-e59c-4d5a-a2a8-9dbd3e17a76a": 1791846997,
@@ -2438,6 +2474,7 @@
     "100aa374-4fc4-4766-87fe-7cdd6b8a5ecc": 1791846997,
     "101c0a59-cfc7-4ef9-bcf8-d70d2a67c4f7": 1791846997,
     "10497907-6a16-498a-a06a-e40113931577": 1792508710,
+    "10827b55-2941-4d5e-b513-29f0808017c4": 1793403308,
     "1099db4b-84db-44c0-abbd-4f3675aaf6e0": 1793316908,
     "10aab0a0-09f3-44a8-990e-a5b8db3c8da8": 1791846997,
     "10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d": 1792503309,
@@ -2497,6 +2534,7 @@
     "180c2b69-a897-4c36-9460-0eac1066b869": 1791846997,
     "181b715a-ae37-4310-a5c9-e789017053ec": 1791846997,
     "183e5059-a65a-4031-89cb-16f14f42f6f0": 1791846997,
+    "18803ec8-f589-4545-bb91-2d5378346d55": 1793403308,
     "18cf7b99-7951-4d0b-aa42-6f2427d59c44": 1792202708,
     "18e99160-24c6-4a84-bc61-bec64dd7decb": 1791846997,
     "18eeb2a6-97b5-4ca5-9d64-d93fadcd08be": 1791846997,
@@ -2819,6 +2857,7 @@
     "4c0ecb7d-5370-4670-b348-d2eb4e6be3f6": 1791846997,
     "4c1e849b-6ed3-4fc8-a84b-1f9dd177b17a": 1792721108,
     "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc": 1791846997,
+    "4c8535e4-0288-41e5-b31f-3258a729a610": 1793403308,
     "4c8571fd-a704-4542-babd-54c89d6aeff3": 1791846997,
     "4c8703e4-e538-4a55-ac8c-5d9b8e0eec12": 1791846997,
     "4cc3f124-5683-4993-b06a-196a262faaaa": 1792116308,
@@ -3012,6 +3051,7 @@
     "660c8cf6-3acf-4729-a74a-18a72115dfa5": 1791846997,
     "665e2669-0a2a-4e07-9859-73f9f3e9b83d": 1791846997,
     "6682ab3e-72f8-49a9-928c-220d51a81e0d": 1791846997,
+    "66abc21b-ff22-412a-8284-46a8e772c901": 1793403308,
     "66b1fe7b-a6c1-4da5-a7f1-d4789239afce": 1791846997,
     "66fcf084-7f7c-43ed-8947-83179031963c": 1791846997,
     "66fe6724-ef82-4474-b024-ee942c90d16b": 1792710308,
@@ -3133,6 +3173,7 @@
     "7787c1ea-7ca3-47f9-913d-8d035d331bd9": 1791968710,
     "77d3a898-3115-43a0-a5c8-6bc7f55d1cae": 1792766109,
     "77dcf2a7-167d-441e-87cb-ad11e7f55bba": 1791846997,
+    "788484cf-8d3d-4fb3-82c6-3b5c16072344": 1793403308,
     "789f3f1a-8c80-4c58-bc82-1e831e81e1e7": 1791846997,
     "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e": 1791846997,
     "78c615cc-dde5-4897-aa80-d2cd8cfc2c60": 1791846997,
@@ -3568,9 +3609,11 @@
     "b887b47d-3ded-45eb-8d5a-268813a2e75d": 1791846997,
     "b8ac49c9-f97b-46ad-ae44-97388fcf9972": 1791846997,
     "b8af3c73-ae72-4e65-9e91-d90b4215c39d": 1791846997,
+    "b8ba8da7-1255-40d8-9d48-6b77d5195454": 1793403308,
     "b8ea1f69-0e58-40a5-b2db-ebf0b0197dca": 1791846997,
     "b8ebd7b8-bd94-4af7-8d80-9bdd6cfa8c52": 1793198110,
     "b8f5c841-1a67-4b15-bb05-70d871b0ab77": 1791846997,
+    "b93cb4ed-8590-40e5-8548-777059a7313b": 1793403308,
     "b93e1e71-e120-4e6d-8deb-aff1ce68d3f1": 1791846997,
     "b96cf9b7-1f8d-47c4-8c9c-6c70376ffe7c": 1791846997,
     "b9776d83-bf68-42d9-88e2-4ebdd4ffda09": 1791846997,
@@ -3859,6 +3902,7 @@
     "e0945d4c-fd78-4677-981a-b7cf12cea361": 1792452908,
     "e0ffdbe5-df33-4606-8aff-34eb378a599e": 1791846997,
     "e1129632-f5f5-4638-a460-e45b79df40b2": 1791846997,
+    "e1161c74-23ae-4b54-95e6-d165653358e8": 1793403308,
     "e142c984-ca46-4624-af2c-e5061b8b60f2": 1791846997,
     "e149e65e-265d-4273-bc2c-9fe3740f6c41": 1791846997,
     "e1cafb2f-2420-4d7e-9cc6-5c161ba89dd3": 1793316908,
@@ -4070,11 +4114,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "838c1f5c03539fa5a56f49c2ec121c6dcad92fdf"
+   "sha": "76eff3f8ec2020c3880be58fbb1fdbc2eb265f12"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793403011,
+   "last_ok": 1793403308,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
