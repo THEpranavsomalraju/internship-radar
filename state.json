@@ -2049,11 +2049,16 @@
    "key": "axa|underwriting data analytics intern",
    "source": "simplify",
    "ts": 1793441107
+  },
+  {
+   "key": "northrop grumman|data scientist intern product support",
+   "source": "simplify",
+   "ts": 1793453709
   }
  ],
  "last_heartbeat": "2026-10-31",
- "last_run": 1793453413,
- "push_count": 4,
+ "last_run": 1793453709,
+ "push_count": 5,
  "push_day": "2026-10-31",
  "runs": [
   1793367309,
@@ -2347,13 +2352,14 @@
   1793452510,
   1793452809,
   1793453108,
-  1793453413
+  1793453413,
+  1793453709
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793434212,
-   "last_ok": 1793453413,
+   "last_ok": 1793453709,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2368,7 +2374,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793453413,
+   "last_ok": 1793453709,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2377,7 +2383,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793453413,
+   "last_ok": 1793453709,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2386,7 +2392,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793453413,
+   "last_ok": 1793453709,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4001,6 +4007,7 @@
     "e83278e0-c4fd-42f9-a773-171b6b1e16c1": 1791846997,
     "e8a2975b-62cb-450a-9629-f7210118211b": 1792537508,
     "e8eec34a-bd13-454c-b322-cab784a820fa": 1792019108,
+    "e8f323c9-7a0d-4a50-9915-19d7661ecb06": 1793453709,
     "e93466ad-f96b-44c2-b4a5-5537e957772b": 1791932708,
     "e95cee0e-a2ed-44d1-9017-9befd82e1561": 1791846997,
     "e9a5e0b0-0a4d-4c94-9bfc-dc97ba351bf8": 1791846997,
@@ -4165,11 +4172,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "5d247489188d71f1d5e70022fac3469ae7f43d5a"
+   "sha": "3602e68804eeff41e601dc98606bda2638f7675e"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793453413,
+   "last_ok": 1793453709,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
