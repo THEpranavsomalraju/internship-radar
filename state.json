@@ -1,11 +1,6 @@
 {
  "alerts": [
   {
-   "key": "ryan|software engineer intern",
-   "source": "simplify",
-   "ts": 1792202708
-  },
-  {
    "key": "tesla|advanced automation engineer intern cell engineering",
    "source": "simplify",
    "ts": 1792317908
@@ -2029,15 +2024,23 @@
    "key": "vsp vision|ai agentic machine learning development intern ai agentic machine learning development",
    "source": "simplify",
    "ts": 1793403308
+  },
+  {
+   "key": "divergent technologies|business intelligence intern",
+   "source": "simplify",
+   "ts": 1793412316
+  },
+  {
+   "key": "andreessen horowitz|research intern frontier",
+   "source": "simplify",
+   "ts": 1793412316
   }
  ],
  "last_heartbeat": "2026-10-30",
- "last_run": 1793412013,
- "push_count": 17,
+ "last_run": 1793412316,
+ "push_count": 19,
  "push_day": "2026-10-30",
  "runs": [
-  1793325614,
-  1793325908,
   1793326208,
   1793326509,
   1793326811,
@@ -2327,13 +2330,14 @@
   1793411110,
   1793411409,
   1793411708,
-  1793412013
+  1793412013,
+  1793412316
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
-   "last_full": 1793390712,
-   "last_ok": 1793412013,
+   "last_full": 1793412318,
+   "last_ok": 1793412316,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2348,7 +2352,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793412013,
+   "last_ok": 1793412316,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2357,7 +2361,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793412013,
+   "last_ok": 1793412316,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2366,7 +2370,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793412013,
+   "last_ok": 1793412316,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2749,6 +2753,7 @@
     "3ac201b9-c986-40a8-ad3b-b9749cea91c8": 1791846997,
     "3ae54954-c218-444e-aaec-8d2b4da82e49": 1791846997,
     "3ae9bc6e-d495-495e-8e13-65d584c347f6": 1791846997,
+    "3affcaac-d7f9-45d1-8139-19defc762e13": 1793412316,
     "3b263339-ab18-4363-b881-4222882cc14b": 1791846997,
     "3b44efc2-7d58-43bc-a375-21f4344932d3": 1791846997,
     "3b6dc022-3c3c-4202-b427-b53c873fb2d0": 1791846997,
@@ -3554,6 +3559,7 @@
     "b2378902-0565-466e-8c16-f3e53b4f62e3": 1792798508,
     "b29f7462-630f-4a75-8dca-924bcd83bd11": 1791846997,
     "b2e84c57-98b1-4ca5-8c5e-4be0368bca64": 1792105509,
+    "b2f1fe9d-fc42-40d8-9d37-4d7457195c8d": 1793412316,
     "b31743bd-7fcf-42a4-aca1-0e6146dfb105": 1791846997,
     "b3254ba9-4ac8-4f93-8a5a-67c31517f742": 1791846997,
     "b399880a-a936-4d77-ba1c-e108a00e5e51": 1791846997,
@@ -3893,6 +3899,7 @@
     "df89c940-c5aa-4970-98ef-5b3c19d7b0e7": 1791846997,
     "dfc6d5d9-fa48-468c-999b-1116299c47c2": 1791990308,
     "dffa3f5f-d496-43e5-90e0-105b940da03c": 1791846997,
+    "e00d51e8-391a-473d-a100-37fa803e306d": 1793412316,
     "e0125f9d-5b88-4e1f-844e-39275d743833": 1791846997,
     "e012dfd4-c33a-4639-8ea0-3e6586db2b77": 1791846997,
     "e01d674b-7369-4b64-8785-fba7bb59da13": 1791846997,
@@ -4114,11 +4121,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "df8f8015bd6a65db5c3e03b4dab876d7caef772d"
+   "sha": "983ba368fc3f016ee184216958deefd414987f16"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793412013,
+   "last_ok": 1793412316,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
