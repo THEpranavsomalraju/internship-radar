@@ -2149,14 +2149,18 @@
    "key": "hp|software engineering intern hp iq",
    "source": "speedyapply",
    "ts": 1793466611
+  },
+  {
+   "key": "general dynamics mission systems|devops engineer intern",
+   "source": "speedyapply",
+   "ts": 1793555409
   }
  ],
  "last_heartbeat": "2026-11-01",
- "last_run": 1793555109,
- "push_count": 1,
+ "last_run": 1793555409,
+ "push_count": 2,
  "push_day": "2026-11-01",
  "runs": [
-  1793468710,
   1793469010,
   1793469309,
   1793469614,
@@ -2448,13 +2452,14 @@
   1793554213,
   1793554509,
   1793554810,
-  1793555109
+  1793555109,
+  1793555409
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793543413,
-   "last_ok": 1793555109,
+   "last_ok": 1793555409,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2469,7 +2474,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793555109,
+   "last_ok": 1793555409,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2478,7 +2483,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793555109,
+   "last_ok": 1793555409,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2487,7 +2492,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793555109,
+   "last_ok": 1793555409,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4271,7 +4276,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793555109,
+   "last_ok": 1793555409,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
@@ -4415,6 +4420,7 @@
     "https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job": 1792688415,
     "https://careers-gdms.icims.com/jobs/75729/software-test-engineer-intern/job": 1793123412,
     "https://careers-gdms.icims.com/jobs/75752/software-intern-engineer/job": 1793123412,
+    "https://careers-gdms.icims.com/jobs/75769/devops-engineer-intern/job": 1793555409,
     "https://careers-gdms.icims.com/jobs/75775/software-intern-engineer/job": 1792856709,
     "https://careers-hrblock.icims.com/jobs/76987/embark-software-engineering-intern---s/job": 1792514711,
     "https://careers-hrblock.icims.com/jobs/76987/software-engineering-intern---s/job": 1791846997,
@@ -4620,6 +4626,7 @@
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1": 1791918609,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516": 1791846997,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799": 1793211310,
+    "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806": 1793555409,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812": 1793298012,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1": 1793298012,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801": 1793298012,
@@ -5164,10 +5171,14 @@
     "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178": 1791846997,
     "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1": 1793211310,
     "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1": 1793211310,
+    "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1": 1793555409,
+    "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2": 1793555409,
     "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1": 1793211310,
     "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1": 1793211310,
+    "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1": 1793555409,
     "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W": 1793211310,
     "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1": 1793298012,
+    "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W": 1793555409,
     "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W": 1793298012,
     "https://visa.wd5.myworkdayjobs.com/en-US/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-3": 1793298012,
     "https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046": 1793466611,
@@ -5230,7 +5241,7 @@
     "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003": 1791846997,
     "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625": 1792514711
    },
-   "sha": "688a94c67a2e176c7304dc0cdd11d27ceacd67a0"
+   "sha": "b1975b613af075ad2b6b2342f42aaba9ffdf5abf"
   }
  },
  "started": 1791846997
