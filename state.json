@@ -1,81 +1,6 @@
 {
  "alerts": [
   {
-   "key": "paccar|warranty data analyst intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "highmark health|data science research and development graduate intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "highmark health|reimbursement analyst intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "highmark health|data analyst undergraduate intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "salesforce|software engineer intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "point72|quantitative developer intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "symbotic|robot manipulation intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "cognex|software engineer intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "the toro company|cloud software developer intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "qts|people services data analytics intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "creative artists agency|data analytics intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "tyler technologies|software developer intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "amplify|ai scientist intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "amplify|software engineer intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
-   "key": "amplify|data analytics intern",
-   "source": "simplify",
-   "ts": 1792449309
-  },
-  {
    "key": "electronic arts|software engineer intern",
    "source": "simplify",
    "ts": 1792452908
@@ -2197,11 +2122,10 @@
   }
  ],
  "last_heartbeat": "2026-11-02",
- "last_run": 1793658909,
+ "last_run": 1793659209,
  "push_count": 11,
  "push_day": "2026-11-02",
  "runs": [
-  1793572509,
   1793572809,
   1793573109,
   1793573410,
@@ -2493,13 +2417,14 @@
   1793658023,
   1793658318,
   1793658613,
-  1793658909
+  1793658909,
+  1793659209
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793652312,
-   "last_ok": 1793658909,
+   "last_ok": 1793659209,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2514,7 +2439,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793658909,
+   "last_ok": 1793659209,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2523,7 +2448,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793658909,
+   "last_ok": 1793659209,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2532,7 +2457,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793658909,
+   "last_ok": 1793659209,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4325,7 +4250,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793658909,
+   "last_ok": 1793659209,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
