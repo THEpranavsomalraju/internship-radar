@@ -1,56 +1,6 @@
 {
  "alerts": [
   {
-   "key": "electronic arts|software engineer intern",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
-   "key": "rogue fitness|ai engineer intern",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
-   "key": "waymo|intern multiple teams",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
-   "key": "zebra technologies|business analytics intern",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
-   "key": "general dynamics information technology|software developer intern",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
-   "key": "patreon|software engineer intern",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
-   "key": "inversion space|ai internal tools software engineer intern",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
-   "key": "westinghouse electric company|software development intern",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
-   "key": "scale ai|machine learning research intern",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
-   "key": "associated bank|corporate intern digital delivery artificial intelligence",
-   "source": "simplify",
-   "ts": 1792452908
-  },
-  {
    "key": "associated bank|corporate internship artificial intelligence corp commercial banking",
    "source": "simplify",
    "ts": 1792460107
@@ -2187,12 +2137,10 @@
   }
  ],
  "last_heartbeat": "2026-11-02",
- "last_run": 1793662508,
+ "last_run": 1793662811,
  "push_count": 22,
  "push_day": "2026-11-02",
  "runs": [
-  1793576108,
-  1793576410,
   1793576709,
   1793577009,
   1793577308,
@@ -2482,13 +2430,14 @@
   1793661609,
   1793661909,
   1793662213,
-  1793662508
+  1793662508,
+  1793662811
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793652312,
-   "last_ok": 1793662508,
+   "last_ok": 1793662811,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2503,7 +2452,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793662508,
+   "last_ok": 1793662811,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2512,7 +2461,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793662508,
+   "last_ok": 1793662811,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2521,7 +2470,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793662508,
+   "last_ok": 1793662811,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4332,7 +4281,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793662508,
+   "last_ok": 1793662811,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
