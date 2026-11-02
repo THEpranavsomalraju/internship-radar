@@ -2184,11 +2184,21 @@
    "key": "first citizens bancshares|data analyst intern enterprise data analyst data products",
    "source": "simplify",
    "ts": 1793635509
+  },
+  {
+   "key": "microsoft|software engineer security identity intern opportunities for university students redmond",
+   "source": "speedyapply",
+   "ts": 1793655609
+  },
+  {
+   "key": "knowbe4|software engineer internship",
+   "source": "speedyapply",
+   "ts": 1793655609
   }
  ],
  "last_heartbeat": "2026-11-02",
- "last_run": 1793655309,
- "push_count": 9,
+ "last_run": 1793655609,
+ "push_count": 11,
  "push_day": "2026-11-02",
  "runs": [
   1793569209,
@@ -2482,13 +2492,14 @@
   1793654409,
   1793654708,
   1793655022,
-  1793655309
+  1793655309,
+  1793655609
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793652312,
-   "last_ok": 1793655309,
+   "last_ok": 1793655609,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2503,7 +2514,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793655309,
+   "last_ok": 1793655609,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2512,7 +2523,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793655309,
+   "last_ok": 1793655609,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2521,7 +2532,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793655309,
+   "last_ok": 1793655609,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4314,7 +4325,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793655309,
+   "last_ok": 1793655609,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
@@ -4356,6 +4367,7 @@
     "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002": 1791846997,
     "https://appliedinnovation.applytojob.com/apply/DWiAHxQUJn/Software-Solutions-Intern-Grand-Rapids-MI": 1791846997,
     "https://apply.careers.microsoft.com/careers/job/1970393556922922": 1793039708,
+    "https://apply.careers.microsoft.com/careers/job/1970393556922930": 1793655609,
     "https://apply.careers.microsoft.com/careers/job/1970393556983221": 1791846997,
     "https://apply.careers.microsoft.com/careers/job/1970393556983223": 1791846997,
     "https://apply.careers.microsoft.com/careers/job/1970393557037856": 1791997216,
@@ -4667,6 +4679,7 @@
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806": 1793555409,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812": 1793298012,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1": 1793298012,
+    "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802": 1793655609,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801": 1793298012,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906": 1791846997,
     "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740": 1791846997,
@@ -4755,6 +4768,7 @@
     "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008": 1791846997,
     "https://job-boards.greenhouse.io/khanacademy/jobs/8250259": 1791846997,
     "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003": 1791846997,
+    "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002": 1793655609,
     "https://job-boards.greenhouse.io/muonspace/jobs/5247725007": 1791846997,
     "https://job-boards.greenhouse.io/muonspace/jobs/5252680007": 1791846997,
     "https://job-boards.greenhouse.io/muonspace/jobs/5266679007": 1792168215,
@@ -5279,7 +5293,7 @@
     "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003": 1791846997,
     "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625": 1792514711
    },
-   "sha": "b1975b613af075ad2b6b2342f42aaba9ffdf5abf"
+   "sha": "19695cdd31dc13bfd522edc66990d2f19e1aba40"
   }
  },
  "started": 1791846997
