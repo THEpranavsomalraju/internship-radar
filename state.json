@@ -1,41 +1,6 @@
 {
  "alerts": [
   {
-   "key": "drivewealth|ai consulting associate program brokerage intern",
-   "source": "simplify",
-   "ts": 1792539309
-  },
-  {
-   "key": "drivewealth|ai consulting associate program product owner intern",
-   "source": "simplify",
-   "ts": 1792539309
-  },
-  {
-   "key": "drivewealth|ai consulting associate program ai engineer intern",
-   "source": "simplify",
-   "ts": 1792539309
-  },
-  {
-   "key": "genentech|product technical development intern digital sciences focus",
-   "source": "simplify",
-   "ts": 1792539309
-  },
-  {
-   "key": "paccar|field service data analyst intern",
-   "source": "simplify",
-   "ts": 1792539309
-  },
-  {
-   "key": "paccar|engineering operations intern",
-   "source": "simplify",
-   "ts": 1792539309
-  },
-  {
-   "key": "berkshire hathaway energy|software engineer intern",
-   "source": "simplify",
-   "ts": 1792539309
-  },
-  {
    "key": "linkedin|software engineer intern",
    "source": "simplify",
    "ts": 1792546509
@@ -2107,11 +2072,10 @@
   }
  ],
  "last_heartbeat": "2026-11-03",
- "last_run": 1793748908,
+ "last_run": 1793749209,
  "push_count": 15,
  "push_day": "2026-11-03",
  "runs": [
-  1793662508,
   1793662811,
   1793663108,
   1793663410,
@@ -2403,13 +2367,14 @@
   1793748009,
   1793748308,
   1793748611,
-  1793748908
+  1793748908,
+  1793749209
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793739324,
-   "last_ok": 1793748908,
+   "last_ok": 1793749209,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2424,7 +2389,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793748908,
+   "last_ok": 1793749209,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2433,7 +2398,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793748908,
+   "last_ok": 1793749209,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2442,7 +2407,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793748908,
+   "last_ok": 1793749209,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4291,7 +4256,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793748908,
+   "last_ok": 1793749209,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
