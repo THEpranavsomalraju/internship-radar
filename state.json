@@ -2189,15 +2189,23 @@
    "key": "nvidia|math libraries intern",
    "source": "simplify",
    "ts": 1793675109
+  },
+  {
+   "key": "nvidia|ai compiler and kernel intern",
+   "source": "simplify",
+   "ts": 1793694920
+  },
+  {
+   "key": "paccar|software developer intern",
+   "source": "simplify",
+   "ts": 1793694920
   }
  ],
  "last_heartbeat": "2026-11-02",
- "last_run": 1793694613,
- "push_count": 0,
+ "last_run": 1793694920,
+ "push_count": 2,
  "push_day": "2026-11-03",
  "runs": [
-  1793608216,
-  1793608519,
   1793608809,
   1793609109,
   1793609409,
@@ -2487,13 +2495,14 @@
   1793693712,
   1793694011,
   1793694308,
-  1793694613
+  1793694613,
+  1793694920
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793674210,
-   "last_ok": 1793694613,
+   "last_ok": 1793694920,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2508,7 +2517,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793694613,
+   "last_ok": 1793694920,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2517,7 +2526,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793694613,
+   "last_ok": 1793694920,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2526,7 +2535,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793694613,
+   "last_ok": 1793694920,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3002,6 +3011,7 @@
     "46a3b20e-600a-4c23-b027-efd88685a714": 1791846997,
     "46a45053-654d-405d-9ac0-371cda4b6f79": 1792537508,
     "46afb6b3-6be4-457a-ab81-e5a109555aff": 1791846997,
+    "46fd3fa6-a273-49da-b7ac-7cb7fcf894a9": 1793694920,
     "4746059c-ea14-45da-b685-80d31e68d2e2": 1791846997,
     "47ab58f6-dd3d-4521-bdcb-8d3cbf3db18b": 1792503309,
     "47b1aeb6-587f-4d70-974c-6dd226fbf9e7": 1792807507,
@@ -4227,6 +4237,7 @@
     "ee8a3af2-214e-482e-9a90-3dd327c6bdf1": 1791846997,
     "ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0": 1793606709,
     "eeb6c52c-37fb-419b-98d3-d0f4866c100c": 1791846997,
+    "ef31b232-5a78-40fe-9d4a-b2cca861468f": 1793694920,
     "ef40c957-572d-4f46-9bab-b7378678804d": 1791846997,
     "ef63f2cb-2deb-4e58-928e-18652d0733b3": 1791846997,
     "ef6779b9-6706-4217-8b3a-09ef98f4faf4": 1791846997,
@@ -4353,11 +4364,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "c12056b955a6d8715bda3ebd3dbfb86633671175"
+   "sha": "36261203c2cd9740b7e87a66292edc1e92ed7f1c"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793694613,
+   "last_ok": 1793694920,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
