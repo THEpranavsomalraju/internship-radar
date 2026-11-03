@@ -1,21 +1,6 @@
 {
  "alerts": [
   {
-   "key": "space dynamics laboratory|ai enabled requirements engineering intern",
-   "source": "simplify",
-   "ts": 1792508710
-  },
-  {
-   "key": "allstate|software engineer intern",
-   "source": "simplify",
-   "ts": 1792508710
-  },
-  {
-   "key": "cigna group|business analytics intern",
-   "source": "simplify",
-   "ts": 1792508710
-  },
-  {
    "key": "salesforce|intern software engineer security government",
    "source": "speedyapply",
    "ts": 1792514711
@@ -2182,12 +2167,10 @@
   }
  ],
  "last_heartbeat": "2026-11-03",
- "last_run": 1793718016,
+ "last_run": 1793718312,
  "push_count": 3,
  "push_day": "2026-11-03",
  "runs": [
-  1793631620,
-  1793631910,
   1793632212,
   1793632511,
   1793632809,
@@ -2477,13 +2460,14 @@
   1793717110,
   1793717411,
   1793717709,
-  1793718016
+  1793718016,
+  1793718312
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793717710,
-   "last_ok": 1793718016,
+   "last_ok": 1793718312,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2498,7 +2482,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793718016,
+   "last_ok": 1793718312,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2507,7 +2491,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793718016,
+   "last_ok": 1793718312,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2516,7 +2500,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793718016,
+   "last_ok": 1793718312,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3138,6 +3122,7 @@
     "59b37959-7280-4f60-aad9-0c9a3265acc7": 1791846997,
     "59c8e11d-c4c9-4e51-895d-4e7e5e98c975": 1793140508,
     "59c91bb5-c7b2-4849-9e8e-c13518b6dd45": 1792764309,
+    "59dcdcf5-e048-4e2b-99c1-024440a01f9a": 1793718312,
     "59e5e5be-d33c-4a69-8687-6d8c9aa4a4e2": 1791846997,
     "5a08979e-7e9a-404e-8ff7-08e9387be038": 1791846997,
     "5a24ffd7-21dd-4446-9322-8b43eab99a97": 1791846997,
@@ -4345,11 +4330,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "297bd83275e80344926b1f43df6f26b552ea06a6"
+   "sha": "a2c1303f2b157aba061767e10889d8714aee214f"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793718016,
+   "last_ok": 1793718312,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
