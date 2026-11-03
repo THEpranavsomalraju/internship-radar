@@ -1,111 +1,6 @@
 {
  "alerts": [
   {
-   "key": "salesforce|intern software engineer security government",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "amplify|software engineering intern",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "braze|intern software engineering",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "impulse space|enterprise software engineering intern",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "inversion space|ai internal tools software engineer internship",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "inversion space|vehicle software engineer internship",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "national information solutions cooperative|intern application analyst financials software",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "nintendo|intern it software engineer",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "palantir|software engineer internship query engines",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "patreon|software engineering intern",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "aerospace|cloud solutions engineer site reliability undergrad intern",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "american fidelity|software developer innovation internship",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "cognex|software engineering intern",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "gdit|gdit internship program software development internship egg harbor township new jersey",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "northrop grumman|software engineer intern linthicum maryland",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "the toro company|cloud software development intern the toro company",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "werner enterprises|it cloud engineering intern",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "zebra technologies|internship us software engineer",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "assort health|software engineering internship jan apr",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "health care service|early careers finance application developer intern",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
-   "key": "health care service|early careers finance data analytics developer intern",
-   "source": "speedyapply",
-   "ts": 1792514711
-  },
-  {
    "key": "ryan|application engineering intern",
    "source": "simplify",
    "ts": 1792537508
@@ -2172,11 +2067,10 @@
   }
  ],
  "last_heartbeat": "2026-11-03",
- "last_run": 1793724310,
+ "last_run": 1793724609,
  "push_count": 4,
  "push_day": "2026-11-03",
  "runs": [
-  1793637920,
   1793638209,
   1793638508,
   1793638827,
@@ -2468,13 +2362,14 @@
   1793723708,
   1793723888,
   1793724017,
-  1793724310
+  1793724310,
+  1793724609
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793717710,
-   "last_ok": 1793724310,
+   "last_ok": 1793724609,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2489,7 +2384,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793724310,
+   "last_ok": 1793724609,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2498,7 +2393,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793724310,
+   "last_ok": 1793724609,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2507,7 +2402,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793724310,
+   "last_ok": 1793724609,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4342,7 +4237,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793724310,
+   "last_ok": 1793724609,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
