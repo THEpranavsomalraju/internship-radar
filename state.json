@@ -2109,11 +2109,16 @@
    "key": "electronic arts|anticheat engineer intern",
    "source": "simplify",
    "ts": 1793750709
+  },
+  {
+   "key": "itron|data analytics and automation intern finance",
+   "source": "simplify",
+   "ts": 1793779508
   }
  ],
  "last_heartbeat": "2026-11-03",
- "last_run": 1793779215,
- "push_count": 0,
+ "last_run": 1793779508,
+ "push_count": 1,
  "push_day": "2026-11-04",
  "runs": [
   1793693110,
@@ -2407,13 +2412,14 @@
   1793778309,
   1793778608,
   1793778908,
-  1793779215
+  1793779215,
+  1793779508
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793761216,
-   "last_ok": 1793779215,
+   "last_ok": 1793779508,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2428,7 +2434,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793779215,
+   "last_ok": 1793779508,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2437,7 +2443,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793779215,
+   "last_ok": 1793779508,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2446,7 +2452,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793779215,
+   "last_ok": 1793779508,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2871,6 +2877,7 @@
     "3d769859-1b78-490a-81be-a7cf9bc054bf": 1791846997,
     "3d95bcdf-2f09-4165-bc24-f02c7f7ad6e7": 1791846997,
     "3da73fff-cf02-46b3-b53a-85633a4986ec": 1791846997,
+    "3e173799-74c8-4ce9-9379-d3eade04b17b": 1793779508,
     "3e95934a-d25a-49d5-af4b-1a2eeb4b3eef": 1792564509,
     "3e9bc6fa-0837-4aef-9543-d3529a2c2943": 1791846997,
     "3eaaacce-8988-4a88-a792-9f62a91ffac5": 1791846997,
@@ -3054,6 +3061,7 @@
     "5617d404-c12b-458b-ab00-3c6cd2ec70e9": 1793255710,
     "56196707-1bc1-44de-9e0e-a32456792771": 1791846997,
     "5635b14b-45dd-4bb0-925f-0231622eb338": 1792546509,
+    "563a912d-6959-424f-a0d4-5647249b9904": 1793779508,
     "56965bf6-c164-4f90-8d38-c6ccc6fdcd9a": 1791846997,
     "56a971f3-b99a-4529-adf4-d9c950b25ef5": 1791846997,
     "56aeb6bb-7cae-408d-8f71-eb7b1a99ea96": 1791846997,
@@ -4307,11 +4315,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "c6c9913d8227dca1aaebd538b7f4d2f849affb4e"
+   "sha": "c70ef7bb9c4fca1dd8da19f7409ea5d64800d2c9"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793779215,
+   "last_ok": 1793779508,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
