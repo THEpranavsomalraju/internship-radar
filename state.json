@@ -1,36 +1,6 @@
 {
  "alerts": [
   {
-   "key": "uline|operations analyst intern",
-   "source": "simplify",
-   "ts": 1792593308
-  },
-  {
-   "key": "genworth financial|risk modeling intern",
-   "source": "simplify",
-   "ts": 1792593308
-  },
-  {
-   "key": "uline|executive operations analyst intern",
-   "source": "simplify",
-   "ts": 1792593308
-  },
-  {
-   "key": "dp world|application analyst intern",
-   "source": "simplify",
-   "ts": 1792593308
-  },
-  {
-   "key": "wisdomtree|research intern",
-   "source": "simplify",
-   "ts": 1792593308
-  },
-  {
-   "key": "enact mortgage insurance|risk modeling intern",
-   "source": "simplify",
-   "ts": 1792593308
-  },
-  {
    "key": "aon|it ai engineer intern",
    "source": "simplify",
    "ts": 1792622108
@@ -2117,12 +2087,10 @@
   }
  ],
  "last_heartbeat": "2026-11-04",
- "last_run": 1793802613,
+ "last_run": 1793802915,
  "push_count": 2,
  "push_day": "2026-11-04",
  "runs": [
-  1793716216,
-  1793716510,
   1793716810,
   1793717110,
   1793717411,
@@ -2410,13 +2378,14 @@
   1793801710,
   1793802011,
   1793802308,
-  1793802613
+  1793802613,
+  1793802915
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793782817,
-   "last_ok": 1793802613,
+   "last_ok": 1793802915,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2431,7 +2400,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793802613,
+   "last_ok": 1793802915,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2440,7 +2409,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793802613,
+   "last_ok": 1793802915,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2449,7 +2418,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793802613,
+   "last_ok": 1793802915,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4315,11 +4284,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "f4f2edb00ad0980cd67d77445a905482160b7363"
+   "sha": "57a615983dcf1355f30db17eaa4fb56c354fce7b"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793802613,
+   "last_ok": 1793802915,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
