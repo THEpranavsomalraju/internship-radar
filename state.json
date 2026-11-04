@@ -2099,15 +2099,23 @@
    "key": "northrop grumman|software engineer intern",
    "source": "simplify",
    "ts": 1793806509
+  },
+  {
+   "key": "parsons|ai ml engineer intern",
+   "source": "simplify",
+   "ts": 1793810109
+  },
+  {
+   "key": "great american insurance company|business intelligence intern power bi",
+   "source": "simplify",
+   "ts": 1793810109
   }
  ],
  "last_heartbeat": "2026-11-04",
- "last_run": 1793809813,
- "push_count": 5,
+ "last_run": 1793810109,
+ "push_count": 7,
  "push_day": "2026-11-04",
  "runs": [
-  1793723414,
-  1793723708,
   1793723888,
   1793724017,
   1793724310,
@@ -2394,13 +2402,14 @@
   1793808911,
   1793809211,
   1793809513,
-  1793809813
+  1793809813,
+  1793810109
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793804419,
-   "last_ok": 1793809813,
+   "last_ok": 1793810109,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2415,7 +2424,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793809813,
+   "last_ok": 1793810109,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2424,7 +2433,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793809813,
+   "last_ok": 1793810109,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2433,7 +2442,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793809813,
+   "last_ok": 1793810109,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3132,6 +3141,7 @@
     "6236ea31-fdc8-485d-a8fc-b2fe9c0aa953": 1791846997,
     "6244dbb0-e314-486b-b2c6-143c829bd211": 1792625710,
     "626eb6cc-ead0-4682-883c-b93395cb4e04": 1793066708,
+    "627ccd4d-bfee-4232-9b77-c75320e6631e": 1793810109,
     "6281c5f1-143a-4432-91f9-73a2383d82a2": 1792798508,
     "62b070f3-36f8-45af-8694-3c1417f363aa": 1791846997,
     "62b7f5e9-28d4-49af-9472-5ff6473b22b3": 1791846997,
@@ -3912,6 +3922,7 @@
     "cb063395-698b-47f5-9fe1-4b86a1b0dee5": 1791846997,
     "cb08255f-ab56-485d-a46a-26e0cb2ada69": 1792503309,
     "cb472a4d-abf7-424b-8a9b-bb782e1f01c8": 1793315109,
+    "cb700108-bc57-4040-b83c-73777ded135f": 1793810109,
     "cb7c7665-f749-4ac4-82aa-36376548fdc7": 1791846997,
     "cb8e36f2-8593-4793-bcf8-e10743512481": 1791846997,
     "cc5558b2-1bda-49b9-a95f-0a93489f72e2": 1791846997,
@@ -4303,11 +4314,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "0dc750482c6cbc5d2966b4304970275e9e487c6d"
+   "sha": "a61478e2936f8d08ee50bf4f037411f3ce634801"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793809813,
+   "last_ok": 1793810109,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
