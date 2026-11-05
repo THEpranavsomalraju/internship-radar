@@ -1,106 +1,6 @@
 {
  "alerts": [
   {
-   "key": "westinghouse electric company|software engineering intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "pattern|ai automation engineer intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "pattern|data science intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "pattern|ai infrastructure engineer intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "northrop grumman|systems engineering intern ai experience",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "northrop grumman|cyber software engineer intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "general dynamics information technology|financial data analyst intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "skydio|frontend software engineer intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "american family insurance group|business intelligence enablement intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "ursa major|software development intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "str|data analyst intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "allstate|data analytics engineer intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "allstate|data science intern core telematics",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "cvs health|medicaid data analytics intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "cvs health|software engineer intern platform applications",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "cvs health|innovation technology data engineering intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "leidos|ai ml intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "cvs health|innovation technology data science intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "cvs health|innovation technology internship software engineering data intelligence",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
-   "key": "jp morgan chase|asset management data scientist associate intern",
-   "source": "simplify",
-   "ts": 1792710308
-  },
-  {
    "key": "paccar|aftersales data analyst intern",
    "source": "simplify",
    "ts": 1792719308
@@ -2232,12 +2132,10 @@
   }
  ],
  "last_heartbeat": "2026-11-05",
- "last_run": 1793919615,
+ "last_run": 1793919909,
  "push_count": 24,
  "push_day": "2026-11-05",
  "runs": [
-  1793833216,
-  1793833508,
   1793833809,
   1793834110,
   1793834409,
@@ -2526,13 +2424,14 @@
   1793919010,
   1793919181,
   1793919308,
-  1793919615
+  1793919615,
+  1793919909
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793913012,
-   "last_ok": 1793919615,
+   "last_ok": 1793919909,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2547,7 +2446,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793919615,
+   "last_ok": 1793919909,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2556,7 +2455,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793919615,
+   "last_ok": 1793919909,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2565,7 +2464,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793919615,
+   "last_ok": 1793919909,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4491,11 +4390,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "c1b45ccd7d2670eabb8ba01038520876b1061ba6"
+   "sha": "75aeb60a4785e57f356b30fa6934a9221fb3c13f"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793919615,
+   "last_ok": 1793919909,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
