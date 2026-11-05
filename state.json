@@ -2204,14 +2204,28 @@
    "key": "zebra technologies|internship us software ai engineer handheld mobile computers",
    "source": "speedyapply",
    "ts": 1793821211
+  },
+  {
+   "key": "baird|automation ai solutions intern",
+   "source": "simplify",
+   "ts": 1793846122
+  },
+  {
+   "key": "berkshire hathaway energy|renewable generation performance intern",
+   "source": "simplify",
+   "ts": 1793846122
+  },
+  {
+   "key": "chubb|business intelligence intern",
+   "source": "simplify",
+   "ts": 1793846122
   }
  ],
  "last_heartbeat": "2026-11-04",
- "last_run": 1793845822,
+ "last_run": 1793846122,
  "push_count": 18,
  "push_day": "2026-11-04",
  "runs": [
-  1793759709,
   1793760009,
   1793760310,
   1793760609,
@@ -2497,13 +2511,14 @@
   1793844910,
   1793845215,
   1793845508,
-  1793845822
+  1793845822,
+  1793846122
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793826310,
-   "last_ok": 1793845822,
+   "last_ok": 1793846122,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2518,7 +2533,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793845822,
+   "last_ok": 1793846122,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2527,7 +2542,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793845822,
+   "last_ok": 1793846122,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2536,7 +2551,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793845822,
+   "last_ok": 1793846122,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2722,6 +2737,7 @@
     "19542c33-d5eb-4d1e-9aad-4ac45c6b09be": 1791846997,
     "1993c458-75cd-45ce-b37e-7ce3a800bdab": 1793315109,
     "1a9582e0-2525-494c-8737-53db648f37cb": 1791846997,
+    "1aa6e8d4-d2f5-4576-aa40-3d90a8e9e209": 1793846122,
     "1aa8cd60-efe9-45f0-b008-c7ed2b71091c": 1793315109,
     "1aabc22e-1fb5-4112-982f-6ac8f727c097": 1792760710,
     "1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021": 1791846997,
@@ -2766,6 +2782,7 @@
     "20ba2faa-8c06-4328-b38a-a1ff32e5b009": 1791846997,
     "20de5e49-f3f4-4acd-9ae0-e82d4edd0521": 1791846997,
     "20e60473-ab0b-483d-8db0-683b9665e97c": 1791846997,
+    "213c4f73-ae7f-470e-a3d9-2ad8c9d9ca2d": 1793846122,
     "2149ec11-ebea-44e9-95ff-a9ef69ecacdf": 1791846997,
     "21792146-80f9-45a6-ade2-d26fd0098c49": 1791846997,
     "21843187-b30d-4873-8247-27a9a3d7b05d": 1791846997,
@@ -3311,6 +3328,7 @@
     "6bda3b7e-e573-454c-a89e-e40b16ecac2c": 1791846997,
     "6be172ec-d3a7-445d-8218-d442e9c6dd1c": 1791846997,
     "6be1a997-592a-4fed-98f8-f00887837e03": 1791846997,
+    "6bea70c8-7049-4afc-9cb7-dbdf8b849c84": 1793846122,
     "6bf208b3-1def-44fa-9e24-7267299081d7": 1791846997,
     "6bf9017f-b3da-451e-b506-46820adb72e0": 1792105509,
     "6c0be2d1-eac9-429a-b900-df719577d679": 1791846997,
@@ -4408,11 +4426,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "681fcff48d7bae55438b7069470866ece16a715e"
+   "sha": "a6f24892aaa1915e950a947323ee8a40933379a0"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793845822,
+   "last_ok": 1793846122,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
