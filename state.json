@@ -2259,11 +2259,16 @@
    "key": "paypal|data scientist intern",
    "source": "simplify",
    "ts": 1793847908
+  },
+  {
+   "key": "blackhawk network holdings|technology intern",
+   "source": "simplify",
+   "ts": 1793865908
   }
  ],
  "last_heartbeat": "2026-11-04",
- "last_run": 1793865616,
- "push_count": 0,
+ "last_run": 1793865908,
+ "push_count": 1,
  "push_day": "2026-11-05",
  "runs": [
   1793779508,
@@ -2553,13 +2558,14 @@
   1793864709,
   1793865009,
   1793865308,
-  1793865616
+  1793865616,
+  1793865908
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793847910,
-   "last_ok": 1793865616,
+   "last_ok": 1793865908,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2574,7 +2580,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793865616,
+   "last_ok": 1793865908,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2583,7 +2589,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793865616,
+   "last_ok": 1793865908,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2592,7 +2598,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793865616,
+   "last_ok": 1793865908,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3234,6 +3240,7 @@
     "59b37959-7280-4f60-aad9-0c9a3265acc7": 1791846997,
     "59c8e11d-c4c9-4e51-895d-4e7e5e98c975": 1793140508,
     "59c91bb5-c7b2-4849-9e8e-c13518b6dd45": 1792764309,
+    "59cb6225-cdeb-44d2-b3c6-fa1ee98e4a67": 1793865908,
     "59dcdcf5-e048-4e2b-99c1-024440a01f9a": 1793718312,
     "59e5e5be-d33c-4a69-8687-6d8c9aa4a4e2": 1791846997,
     "5a08979e-7e9a-404e-8ff7-08e9387be038": 1791846997,
@@ -4301,6 +4308,7 @@
     "e83278e0-c4fd-42f9-a773-171b6b1e16c1": 1791846997,
     "e89448c1-21ee-450a-85e8-84ad429d6f3e": 1793847908,
     "e8a2975b-62cb-450a-9629-f7210118211b": 1792537508,
+    "e8c8733f-5d15-4d1a-b6c1-1689dda28ffe": 1793865908,
     "e8eec34a-bd13-454c-b322-cab784a820fa": 1792019108,
     "e8f323c9-7a0d-4a50-9915-19d7661ecb06": 1793453709,
     "e93466ad-f96b-44c2-b4a5-5537e957772b": 1791932708,
@@ -4479,11 +4487,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "17486a714b131b8f4e7236c784ca756cd9427252"
+   "sha": "80776361a69e7c0f2dd8f10fa87684e37bc9203e"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793865616,
+   "last_ok": 1793865908,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
