@@ -2174,15 +2174,18 @@
    "key": "zoox|software engineer intern software platforms product",
    "source": "simplify",
    "ts": 1793934308
+  },
+  {
+   "key": "sas|data scientist intern",
+   "source": "sas",
+   "ts": 1793967909
   }
  ],
  "last_heartbeat": "2026-11-05",
- "last_run": 1793967610,
- "push_count": 0,
+ "last_run": 1793967909,
+ "push_count": 1,
  "push_day": "2026-11-06",
  "runs": [
-  1793881210,
-  1793881508,
   1793881812,
   1793882109,
   1793882411,
@@ -2470,13 +2473,14 @@
   1793966709,
   1793967010,
   1793967310,
-  1793967610
+  1793967610,
+  1793967909
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793956510,
-   "last_ok": 1793967610,
+   "last_ok": 1793967909,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2491,7 +2495,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793967610,
+   "last_ok": 1793967909,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2500,16 +2504,17 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793967610,
+   "last_ok": 1793967909,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
+    "42786": 1793967909,
     "42964": 1791846997
    }
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793967610,
+   "last_ok": 1793967909,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4460,7 +4465,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793967610,
+   "last_ok": 1793967909,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
