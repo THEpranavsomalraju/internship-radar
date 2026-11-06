@@ -2164,11 +2164,21 @@
    "key": "eversource energy|electric operations intern",
    "source": "simplify",
    "ts": 1793923509
+  },
+  {
+   "key": "zoox|software engineer intern software systems",
+   "source": "simplify",
+   "ts": 1793934308
+  },
+  {
+   "key": "zoox|software engineer intern software platforms product",
+   "source": "simplify",
+   "ts": 1793934308
   }
  ],
  "last_heartbeat": "2026-11-05",
- "last_run": 1793934015,
- "push_count": 36,
+ "last_run": 1793934308,
+ "push_count": 38,
  "push_day": "2026-11-05",
  "runs": [
   1793847908,
@@ -2459,13 +2469,14 @@
   1793933409,
   1793933708,
   1793933814,
-  1793934015
+  1793934015,
+  1793934308
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793913012,
-   "last_ok": 1793934015,
+   "last_ok": 1793934308,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2480,7 +2491,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793934015,
+   "last_ok": 1793934308,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2489,7 +2500,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793934015,
+   "last_ok": 1793934308,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2498,7 +2509,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793934015,
+   "last_ok": 1793934308,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3936,6 +3947,7 @@
     "bfc7d59a-2729-48fa-8c25-a3278920ef67": 1791846997,
     "bfc80fee-bb28-459a-be87-125a0fef1495": 1791846997,
     "bfd3e5c6-0630-477a-a77e-5849e825fd81": 1791846997,
+    "bfd495aa-8461-4455-8885-5db271cd1cc0": 1793934308,
     "bfeef96e-5bbc-425d-9ee0-3fa12f525bf1": 1791846997,
     "bff3221b-d0ea-4c07-9c51-4ba9501e3a5c": 1791846997,
     "bff9a492-ed06-4a94-8f0d-75a782dcefd8": 1793199912,
@@ -4007,6 +4019,7 @@
     "c8aca959-9a59-41e5-b70f-6b65d4b67856": 1791846997,
     "c8b511a6-31c5-4ba5-843a-97f6c293304c": 1791846997,
     "c917f0bc-a8d2-4468-ad7c-573f62b007bd": 1793066708,
+    "c924f746-7ad7-4688-a1d2-00db70c70823": 1793934308,
     "c926a28e-f380-4dce-973c-a3e43c7af653": 1793142308,
     "c9443ff8-a611-4d5a-b7eb-50e96c3035cf": 1792766109,
     "c99de1e7-b978-4456-ac51-8ec949d1c941": 1793140508,
@@ -4441,11 +4454,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "2ec1345472435f40570ec52679a702541c16b11d"
+   "sha": "35787d82e2f2c9e63728b3e31e0a41075b3c32be"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793934015,
+   "last_ok": 1793934308,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
