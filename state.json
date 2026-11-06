@@ -1,16 +1,6 @@
 {
  "alerts": [
   {
-   "key": "mongodb|software engineer intern",
-   "source": "simplify",
-   "ts": 1792776909
-  },
-  {
-   "key": "rtx|mission analyst intern",
-   "source": "simplify",
-   "ts": 1792776909
-  },
-  {
    "key": "epic games|tools programmer intern graphics",
    "source": "simplify",
    "ts": 1792794910
@@ -2217,11 +2207,10 @@
   }
  ],
  "last_heartbeat": "2026-11-06",
- "last_run": 1793986508,
+ "last_run": 1793986663,
  "push_count": 9,
  "push_day": "2026-11-06",
  "runs": [
-  1793900108,
   1793900410,
   1793900501,
   1793900711,
@@ -2512,13 +2501,14 @@
   1793985609,
   1793985909,
   1793986212,
-  1793986508
+  1793986508,
+  1793986663
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793978112,
-   "last_ok": 1793986508,
+   "last_ok": 1793986663,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2533,7 +2523,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793986508,
+   "last_ok": 1793986663,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2542,7 +2532,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793986508,
+   "last_ok": 1793986663,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2552,7 +2542,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793986508,
+   "last_ok": 1793986663,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4512,7 +4502,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793986508,
+   "last_ok": 1793986663,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
