@@ -2177,11 +2177,10 @@
   }
  ],
  "last_heartbeat": "2026-11-05",
- "last_run": 1793964613,
+ "last_run": 1793964910,
  "push_count": 0,
  "push_day": "2026-11-06",
  "runs": [
-  1793878508,
   1793878809,
   1793879109,
   1793879409,
@@ -2469,13 +2468,14 @@
   1793963711,
   1793964009,
   1793964308,
-  1793964613
+  1793964613,
+  1793964910
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793956510,
-   "last_ok": 1793964613,
+   "last_ok": 1793964910,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2490,7 +2490,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1793964613,
+   "last_ok": 1793964910,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2499,7 +2499,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1793964613,
+   "last_ok": 1793964910,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2508,7 +2508,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1793964613,
+   "last_ok": 1793964910,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4193,6 +4193,7 @@
     "df045001-6540-4f6a-989a-92d2042973dd": 1791846997,
     "df0f68d2-dead-4fe2-ba77-790f8c0dd3fa": 1791846997,
     "df13ab5f-9eb4-4357-86df-afc457026297": 1791846997,
+    "df5eafa1-788e-43eb-a0cd-755cec712155": 1793964910,
     "df65c239-9fbb-4b32-a88e-fd7e66234cc4": 1792719308,
     "df757bc2-dbbd-4572-b2e8-78356ee1a5f4": 1793401508,
     "df89c940-c5aa-4970-98ef-5b3c19d7b0e7": 1791846997,
@@ -4454,11 +4455,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "ee399d09393a70cc3df84cd0eeb8429f509311ee"
+   "sha": "afde9780a6416493089171520b7e22e255bd202c"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1793964613,
+   "last_ok": 1793964910,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
