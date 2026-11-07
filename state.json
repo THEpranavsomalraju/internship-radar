@@ -2309,14 +2309,18 @@
    "key": "tiktok|data operations intern",
    "source": "simplify",
    "ts": 1794018908
+  },
+  {
+   "key": "zoox|data scientist intern",
+   "source": "simplify",
+   "ts": 1794020707
   }
  ],
  "last_heartbeat": "2026-11-06",
- "last_run": 1794020415,
- "push_count": 39,
+ "last_run": 1794020707,
+ "push_count": 40,
  "push_day": "2026-11-06",
  "runs": [
-  1793934015,
   1793934308,
   1793934608,
   1793934909,
@@ -2607,13 +2611,14 @@
   1794019509,
   1794019809,
   1794020109,
-  1794020415
+  1794020415,
+  1794020707
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1793999712,
-   "last_ok": 1794020415,
+   "last_ok": 1794020707,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2628,7 +2633,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794020415,
+   "last_ok": 1794020707,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2637,7 +2642,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794020415,
+   "last_ok": 1794020707,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2647,7 +2652,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794020415,
+   "last_ok": 1794020707,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3431,6 +3436,7 @@
     "674e587c-edc9-497e-b2f3-325b559527a2": 1792452908,
     "67c1b95e-7d8e-429c-8252-51543316efbd": 1791846997,
     "680cb3c9-354c-4f44-9cff-8c903de42749": 1791846997,
+    "680cbf01-1662-4204-9638-55b49e07da7c": 1794020707,
     "68217e56-5307-4ded-9c96-bce5facd81df": 1792710308,
     "687f4ec0-0f2f-4d8d-b03a-b25321d74e44": 1791846997,
     "687fcce9-f7b1-4824-a15e-769dc794f2f5": 1792449309,
@@ -4631,11 +4637,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "f8aa9c64ad1fb36a243d5dc57cb85dd775165ed5"
+   "sha": "2d2bfbf5c777f969ab2bfa8b8393a7ef851afd6d"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794020415,
+   "last_ok": 1794020707,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
