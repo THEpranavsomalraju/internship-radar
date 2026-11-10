@@ -2264,11 +2264,21 @@
    "key": "paccar|greenhouse gas data analyst intern",
    "source": "simplify",
    "ts": 1794270909
+  },
+  {
+   "key": "general dynamics mission systems|ontology data analysis and validation intern",
+   "source": "simplify",
+   "ts": 1794278108
+  },
+  {
+   "key": "general dynamics mission systems|ontology and semantic engineering intern",
+   "source": "simplify",
+   "ts": 1794278108
   }
  ],
  "last_heartbeat": "2026-11-09",
- "last_run": 1794277813,
- "push_count": 38,
+ "last_run": 1794278108,
+ "push_count": 40,
  "push_day": "2026-11-09",
  "runs": [
   1794191709,
@@ -2559,13 +2569,14 @@
   1794276910,
   1794277209,
   1794277509,
-  1794277813
+  1794277813,
+  1794278108
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794260410,
-   "last_ok": 1794277813,
+   "last_ok": 1794278108,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2580,7 +2591,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794277813,
+   "last_ok": 1794278108,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2589,7 +2600,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794277813,
+   "last_ok": 1794278108,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2600,7 +2611,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794277813,
+   "last_ok": 1794278108,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4129,6 +4140,7 @@
     "c3c60bf7-f580-4aaa-ab45-84224b74cdbb": 1793228708,
     "c3cdc8d7-6453-4372-998a-5b325638910a": 1792105509,
     "c44ccf4f-7352-4f14-9f9d-43ce7522c340": 1791846997,
+    "c454abc2-a511-45d0-87e5-5aad1b28f7d5": 1794278108,
     "c45d6747-0e0d-45b4-9ed9-536860528fa0": 1791846997,
     "c4b65c8c-e5ad-4eca-8dfb-2f8e0e65b841": 1793237707,
     "c4cc4d2e-7317-4185-8411-14d777cc216e": 1793054108,
@@ -4150,6 +4162,7 @@
     "c63a51bb-9db9-4bab-91a4-279cec884af5": 1791846997,
     "c64a512f-2622-44bb-9b61-40e707833008": 1791846997,
     "c653bbbf-b416-4571-bf39-8208f6011a49": 1793054108,
+    "c6a6ab1d-5956-44aa-8856-dae0841d8bff": 1794278108,
     "c6ad75c6-e86c-4602-8344-eb52b14bb37e": 1791846997,
     "c6cf89af-fd3e-48e3-b886-b14efade21e6": 1792116308,
     "c6dd05de-594d-4fa3-8da1-c646ae0eca31": 1791846997,
@@ -4627,11 +4640,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "90d5b5341dca9b955370cf3fe36e64bfc7092738"
+   "sha": "5113a22c791c260607a2526209ce33ae17802b40"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794277813,
+   "last_ok": 1794278108,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
