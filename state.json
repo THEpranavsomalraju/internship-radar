@@ -2269,15 +2269,18 @@
    "key": "general dynamics mission systems|ontology and semantic engineering intern",
    "source": "simplify",
    "ts": 1794278108
+  },
+  {
+   "key": "trilogy health services|information systems developer of ai and automated solutions intern",
+   "source": "simplify",
+   "ts": 1794297910
   }
  ],
  "last_heartbeat": "2026-11-09",
- "last_run": 1794297615,
- "push_count": 0,
+ "last_run": 1794297910,
+ "push_count": 1,
  "push_day": "2026-11-10",
  "runs": [
-  1794211215,
-  1794211508,
   1794211810,
   1794212109,
   1794212409,
@@ -2565,13 +2568,14 @@
   1794296709,
   1794297010,
   1794297308,
-  1794297615
+  1794297615,
+  1794297910
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794282011,
-   "last_ok": 1794297615,
+   "last_ok": 1794297910,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2586,7 +2590,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794297615,
+   "last_ok": 1794297910,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2595,7 +2599,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794297615,
+   "last_ok": 1794297910,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2606,7 +2610,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794297615,
+   "last_ok": 1794297910,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3156,6 +3160,7 @@
     "4adacc63-a1b4-4e24-ab5d-71dd70cd760b": 1794009908,
     "4addda59-dd49-4992-a0f7-cdd03e19a8c0": 1794267309,
     "4ade01ff-90f7-40e7-88aa-1756bc4d6de1": 1791846997,
+    "4b696a25-371d-4850-bd83-a776f749aa20": 1794297910,
     "4b7557d9-8b53-4ecd-9f14-686d7936f4bf": 1791846997,
     "4b9d78b3-d750-42ee-97cc-51f50e53e928": 1791846997,
     "4ba74901-00f0-4bbb-ad4c-53459035ae6f": 1793054108,
@@ -3479,6 +3484,7 @@
     "71aba8dd-67b4-48bf-b97f-19f464bcb391": 1791846997,
     "71b8953a-ea1d-4908-ae9c-af9ae857ee7b": 1793432108,
     "71d40ca7-1546-417c-8bf5-c360ac814bb0": 1791846997,
+    "720fee65-6f2f-44db-9bbe-9df7f53f1bb0": 1794297910,
     "72123431-9529-44b4-9759-2f70269f9383": 1793228708,
     "721548ed-6f3b-4fc1-ae29-76461872f99a": 1791846997,
     "721628f6-7dc9-47f6-8d08-1283695301ad": 1791846997,
@@ -3544,6 +3550,7 @@
     "79807b51-faf5-46c1-9880-7c1b2a77905f": 1791846997,
     "79d2767b-ee67-4702-b2e3-506ab0eb3a30": 1791846997,
     "79fa7912-460d-4ed0-8f17-686a0a47afbe": 1791846997,
+    "7a0fcd2a-9cdd-4832-95ba-6a0989ecb3a3": 1794297910,
     "7a1a3528-b508-452b-8181-fd07f84905ef": 1793750709,
     "7a3479e6-fa2c-40d9-b917-c42922bfeaf1": 1791846997,
     "7a4c54a2-858e-4678-90f3-93bba7644c52": 1791846997,
@@ -4109,6 +4116,7 @@
     "c0048e8d-bc5e-43fe-a26c-8194823003f8": 1791846997,
     "c033b014-3543-4799-8be7-042be636bc14": 1793057707,
     "c03b7a2c-d1b6-4e44-bfc8-e638eeb45dac": 1791846997,
+    "c050f36e-820f-4cd1-90dc-939c7c6c2b4a": 1794297910,
     "c067fe94-7764-4b4b-b95a-74df217fe320": 1791846997,
     "c0bc8e2c-204a-461b-bd1b-7d720fbcbd77": 1791846997,
     "c0d0a7a8-afbc-4283-886f-e4d7e36f52f0": 1791846997,
@@ -4635,11 +4643,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "e49b2acb1e368745f69b0a091e445a92bb2b5017"
+   "sha": "a4d8a62ff9a5eba88f80a341ad2f6be5459e8a26"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794297615,
+   "last_ok": 1794297910,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
