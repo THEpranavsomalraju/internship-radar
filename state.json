@@ -2164,14 +2164,18 @@
    "key": "sas|evaas instructional design e learning developer intern",
    "source": "sas",
    "ts": 1794336909
+  },
+  {
+   "key": "sas|evaas live training events intern",
+   "source": "sas",
+   "ts": 1794337810
   }
  ],
  "last_heartbeat": "2026-11-10",
- "last_run": 1794337508,
- "push_count": 10,
+ "last_run": 1794337810,
+ "push_count": 11,
  "push_day": "2026-11-10",
  "runs": [
-  1794251110,
   1794251410,
   1794251710,
   1794252011,
@@ -2462,13 +2466,14 @@
   1794336610,
   1794336909,
   1794337216,
-  1794337508
+  1794337508,
+  1794337810
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794325212,
-   "last_ok": 1794337508,
+   "last_ok": 1794337810,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2484,7 +2489,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794337508,
+   "last_ok": 1794337810,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2493,11 +2498,12 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794337508,
+   "last_ok": 1794337810,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
     "42762": 1794325813,
+    "42764": 1794337810,
     "42765": 1794336909,
     "42786": 1793967909,
     "42964": 1791846997,
@@ -2506,7 +2512,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794337508,
+   "last_ok": 1794337810,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4557,7 +4563,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794337508,
+   "last_ok": 1794337810,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
