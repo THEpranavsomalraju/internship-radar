@@ -1,126 +1,6 @@
 {
  "alerts": [
   {
-   "key": "protagonist|software engineering intern",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "samsung semiconductor|intern power thermal simulation software engineer",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "vsp vision care|internship software engineer",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "asml|internship frontend developer",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "chatham financial|software engineering intern",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "commonwealth fusion systems|intern scientific software engineer",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "great american insurance group|cloud data platform intern",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "great american insurance group|claims lab developer intern",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "great american insurance group|platform operations developer intern",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "hp|cloud engineering intern hp iq",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "micron technology|intern product yield software engineer",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "northrop grumman|software engineering intern colorado springs",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "northrop grumman|software engineering intern boulder co",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "northrop grumman|software engineer intern azusa ca",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "raytheon|software engineering intern",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "raytheon|secure software intern",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "raytheon|receiver exciter processing architecture software engineer intern onsite",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "sonos|software engineering intern seattle",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "visa|software engineer intern foster city",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "visa|software engineer intern austin tx",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "visa|sophomore internship program software engineer intern highlands ranch",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "visa|software engineer intern ashburn va",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "visa|sophomore internship program software engineer intern ashburn",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
-   "key": "hntb|returning new grad software engineer i for current previous hntb interns only",
-   "source": "speedyapply",
-   "ts": 1793211310
-  },
-  {
    "key": "clean harbors|software field technology intern is",
    "source": "simplify",
    "ts": 1793228708
@@ -2182,12 +2062,10 @@
   }
  ],
  "last_heartbeat": "2026-11-11",
- "last_run": 1794420910,
+ "last_run": 1794421211,
  "push_count": 2,
  "push_day": "2026-11-11",
  "runs": [
-  1794334511,
-  1794334810,
   1794335110,
   1794335444,
   1794335709,
@@ -2479,13 +2357,14 @@
   1794420310,
   1794420349,
   1794420611,
-  1794420910
+  1794420910,
+  1794421211
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794411913,
-   "last_ok": 1794420910,
+   "last_ok": 1794421211,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2501,7 +2380,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794420910,
+   "last_ok": 1794421211,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2510,7 +2389,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794420910,
+   "last_ok": 1794421211,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2524,7 +2403,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794420910,
+   "last_ok": 1794421211,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4605,7 +4484,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794420910,
+   "last_ok": 1794421211,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
