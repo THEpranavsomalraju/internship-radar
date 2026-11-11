@@ -1,91 +1,6 @@
 {
  "alerts": [
   {
-   "key": "clean harbors|software field technology intern is",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "workday|analytics engineer intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "revantage corporate services|insurance technology ai analytics intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "linkedin|software engineer intern first play",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "applied materials|data science intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "applied materials|data scientist intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "federal home loan bank of indianapolis|mpp data analytics intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "american family insurance group|talent analytics intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "berkshire hathaway energy|data systems intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "t mobile|associate ai engineer intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "marvell|data science intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "schonfeld|ai enablement intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "sonos|software engineer intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "regeneron pharmaceuticals|data science digital innovation intern industrial operations and product supply",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "regeneron pharmaceuticals|data analytics intern dashboards business process automation",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "regeneron pharmaceuticals|ai ml data engineering intern",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
-   "key": "regeneron pharmaceuticals|it and systems intern industrial operations and product supply",
-   "source": "simplify",
-   "ts": 1793228708
-  },
-  {
    "key": "hp|software systems intern iq",
    "source": "simplify",
    "ts": 1793237707
@@ -2122,12 +2037,10 @@
   }
  ],
  "last_heartbeat": "2026-11-11",
- "last_run": 1794438308,
+ "last_run": 1794438615,
  "push_count": 14,
  "push_day": "2026-11-11",
  "runs": [
-  1794351908,
-  1794352210,
   1794352510,
   1794352809,
   1794353108,
@@ -2407,13 +2320,14 @@
   1794437652,
   1794437708,
   1794438015,
-  1794438308
+  1794438308,
+  1794438615
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794433626,
-   "last_ok": 1794438308,
+   "last_ok": 1794438615,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2430,7 +2344,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794438308,
+   "last_ok": 1794438615,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2439,7 +2353,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794438308,
+   "last_ok": 1794438615,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2453,7 +2367,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794438308,
+   "last_ok": 1794438615,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4534,7 +4448,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794438308,
+   "last_ok": 1794438615,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
