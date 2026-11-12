@@ -1,26 +1,6 @@
 {
  "alerts": [
   {
-   "key": "sallie mae|data science and engineering intern",
-   "source": "simplify",
-   "ts": 1793286310
-  },
-  {
-   "key": "jm family|customer experience data analyst intern",
-   "source": "simplify",
-   "ts": 1793286310
-  },
-  {
-   "key": "jm family|software engineer intern",
-   "source": "simplify",
-   "ts": 1793286310
-  },
-  {
-   "key": "burns engineering|software engineer intern",
-   "source": "simplify",
-   "ts": 1793286310
-  },
-  {
    "key": "kla|software engineer intern",
    "source": "speedyapply",
    "ts": 1793298012
@@ -2082,11 +2062,10 @@
   }
  ],
  "last_heartbeat": "2026-11-12",
- "last_run": 1794495910,
+ "last_run": 1794496212,
  "push_count": 2,
  "push_day": "2026-11-12",
  "runs": [
-  1794409510,
   1794409812,
   1794410111,
   1794410410,
@@ -2366,13 +2345,14 @@
   1794495009,
   1794495314,
   1794495637,
-  1794495910
+  1794495910,
+  1794496212
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794477029,
-   "last_ok": 1794495910,
+   "last_ok": 1794496212,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2389,7 +2369,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794495910,
+   "last_ok": 1794496212,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2398,7 +2378,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794495910,
+   "last_ok": 1794496212,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2412,7 +2392,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794495910,
+   "last_ok": 1794496212,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4521,7 +4501,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794495910,
+   "last_ok": 1794496212,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
