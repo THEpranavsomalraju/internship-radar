@@ -1,41 +1,6 @@
 {
  "alerts": [
   {
-   "key": "rtx|sustainment data and analytics intern",
-   "source": "simplify",
-   "ts": 1793315109
-  },
-  {
-   "key": "gm financial|data engineer intern",
-   "source": "simplify",
-   "ts": 1793315109
-  },
-  {
-   "key": "golden analytics|software engineer intern",
-   "source": "simplify",
-   "ts": 1793315109
-  },
-  {
-   "key": "general motors|ai ml engineer intern autonomous vehicles",
-   "source": "simplify",
-   "ts": 1793315109
-  },
-  {
-   "key": "hntb|gis intern",
-   "source": "simplify",
-   "ts": 1793315109
-  },
-  {
-   "key": "path robotics|machine learning robotics intern",
-   "source": "simplify",
-   "ts": 1793315109
-  },
-  {
-   "key": "centene|ai engineer intern",
-   "source": "simplify",
-   "ts": 1793315109
-  },
-  {
    "key": "garda capital partners|software engineer intern c",
    "source": "simplify",
    "ts": 1793316908
@@ -1962,7 +1927,7 @@
   }
  ],
  "last_heartbeat": "2026-11-12",
- "last_run": 1794524709,
+ "last_run": 1794525010,
  "push_count": 5,
  "push_day": "2026-11-12",
  "runs": [
@@ -2256,13 +2221,14 @@
   1794523810,
   1794524109,
   1794524414,
-  1794524709
+  1794524709,
+  1794525010
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794520511,
-   "last_ok": 1794524709,
+   "last_ok": 1794525010,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2279,7 +2245,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794524709,
+   "last_ok": 1794525010,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2288,7 +2254,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794524709,
+   "last_ok": 1794525010,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2302,7 +2268,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794524709,
+   "last_ok": 1794525010,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4422,7 +4388,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794524709,
+   "last_ok": 1794525010,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
