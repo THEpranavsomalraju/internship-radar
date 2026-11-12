@@ -1,16 +1,6 @@
 {
  "alerts": [
   {
-   "key": "hp|software systems intern iq",
-   "source": "simplify",
-   "ts": 1793237707
-  },
-  {
-   "key": "hp|software quality assurance intern",
-   "source": "simplify",
-   "ts": 1793237707
-  },
-  {
    "key": "hp|software engineer intern",
    "source": "simplify",
    "ts": 1793239509
@@ -2107,11 +2097,10 @@
   }
  ],
  "last_heartbeat": "2026-11-11",
- "last_run": 1794447012,
+ "last_run": 1794447308,
  "push_count": 28,
  "push_day": "2026-11-11",
  "runs": [
-  1794360614,
   1794360908,
   1794361209,
   1794361509,
@@ -2392,13 +2381,14 @@
   1794446110,
   1794446410,
   1794446707,
-  1794447012
+  1794447012,
+  1794447308
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794433626,
-   "last_ok": 1794447012,
+   "last_ok": 1794447308,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2415,7 +2405,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794447012,
+   "last_ok": 1794447308,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2424,7 +2414,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794447012,
+   "last_ok": 1794447308,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2438,7 +2428,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794447012,
+   "last_ok": 1794447308,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4531,11 +4521,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "3eabe0b8d400e43abb7a41f04751ef47cdfaea22"
+   "sha": "1f49312e75e3ff5a88a8a4575906a19c24cb27e9"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794447012,
+   "last_ok": 1794447308,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
