@@ -1954,15 +1954,93 @@
    "key": "netapp|intern marketing",
    "source": "netapp",
    "ts": 1794593109
+  },
+  {
+   "key": "muon|software engineering intern information systems",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "octant bio|software engineer internship",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "vital lyfe|software engineering internship",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "atalanta|software engineer intern",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "bask|frontend engineering intern",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "leidos|junior software engineer data scientist intern",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "micron technology|intern it software engineer",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "minitab|software quality engineer intern",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "ptc|onshape site reliability engineering intern",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "servicenow|assoc ai engineering cloud security automation intern",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "bask|backend engineering intern",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "bask|software engineering intern",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "motorola solutions|software engineering intern internship",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "rockwell automation|intern software developer engineering",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "zotec partners|software engineer intern",
+   "source": "speedyapply",
+   "ts": 1794598221
+  },
+  {
+   "key": "zotec partners|software engineer intern rci",
+   "source": "speedyapply",
+   "ts": 1794598221
   }
  ],
  "last_heartbeat": "2026-11-13",
- "last_run": 1794597908,
- "push_count": 13,
+ "last_run": 1794598221,
+ "push_count": 24,
  "push_day": "2026-11-13",
  "runs": [
-  1794511508,
-  1794511813,
   1794512108,
   1794512409,
   1794512710,
@@ -2252,13 +2330,14 @@
   1794597010,
   1794597310,
   1794597610,
-  1794597908
+  1794597908,
+  1794598221
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794585912,
-   "last_ok": 1794597908,
+   "last_ok": 1794598221,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2276,7 +2355,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794597908,
+   "last_ok": 1794598221,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2289,7 +2368,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794597908,
+   "last_ok": 1794598221,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2303,7 +2382,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794597908,
+   "last_ok": 1794598221,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4449,7 +4528,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794597908,
+   "last_ok": 1794598221,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
@@ -4504,6 +4583,9 @@
     "https://apply.careers.microsoft.com/careers/job/1970393557044765": 1793039708,
     "https://apply.careers.microsoft.com/careers/job/1970393557044771": 1793039708,
     "https://apply.careers.microsoft.com/careers/job/1970393557054069": 1793908209,
+    "https://apply.workable.com/bask-health-1/j/98DB106D88/": 1794598221,
+    "https://apply.workable.com/bask-health-1/j/9C2964C7CD/": 1794598221,
+    "https://apply.workable.com/bask-health-1/j/E81C7F7D3B/": 1794598221,
     "https://apply.workable.com/coldquanta/j/EB77DE8198/": 1793298012,
     "https://apply.workable.com/enfos-inc/j/CA15908E0A/": 1791846997,
     "https://apply.workable.com/raveaerospace/j/739753C003/": 1791846997,
@@ -4878,6 +4960,7 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834": 1791846997,
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836": 1791918609,
     "https://internal-marzetti.icims.com/jobs/8125/cloud-integration-engineering-intern---summer-2027/job": 1791846997,
+    "https://invitation-charter.icims.com/jobs/81715/2027-summer-intern%3a-software-engineer/job": 1794598221,
     "https://invitation-charter.icims.com/jobs/81795/2027-summer-intern%3a-software-engineer/job": 1793821211,
     "https://invitation-charter.icims.com/jobs/81912/2027-summer-intern%3a-software-engineer/job": 1794425412,
     "https://invitation-charter.icims.com/jobs/82077/2027-summer-intern%3a-data-developer/job": 1793992210,
@@ -4947,9 +5030,11 @@
     "https://job-boards.greenhouse.io/khanacademy/jobs/8250259": 1791846997,
     "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003": 1791846997,
     "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002": 1793655609,
+    "https://job-boards.greenhouse.io/minitab/jobs/8200698003": 1794598221,
     "https://job-boards.greenhouse.io/muonspace/jobs/5247725007": 1791846997,
     "https://job-boards.greenhouse.io/muonspace/jobs/5252680007": 1791846997,
     "https://job-boards.greenhouse.io/muonspace/jobs/5266679007": 1792168215,
+    "https://job-boards.greenhouse.io/muonspace/jobs/5293973007": 1794598221,
     "https://job-boards.greenhouse.io/nisc/jobs/8092699": 1791846997,
     "https://job-boards.greenhouse.io/nisc/jobs/8301304": 1792514711,
     "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009": 1791846997,
@@ -5028,6 +5113,7 @@
     "https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344": 1793992210,
     "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee": 1792514711,
     "https://jobs.ashbyhq.com/astro-mechanica/740cedb6-3c69-49c2-8662-7997799b8c87": 1793821211,
+    "https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335": 1794598221,
     "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9": 1793123412,
     "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12": 1793123412,
     "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc": 1791846997,
@@ -5113,6 +5199,7 @@
     "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac": 1791846997,
     "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04": 1794339308,
     "https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64": 1791846997,
+    "https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942": 1794598221,
     "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5": 1792688415,
     "https://jobs.dayforcehcm.com/en-US/ibgllc/candidateportal/jobs/2135": 1791918609,
     "https://jobs.dayforcehcm.com/en-US/newcell/candidateportal/jobs/1528": 1791918609,
@@ -5167,6 +5254,7 @@
     "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379-software-engineering-internships-summer-2027?oga=true": 1794339308,
     "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459-software-engineering-internships-summer-2027?oga=true": 1794339308,
     "https://jobs.smartrecruiters.com/ServiceNow/744000155345889-ai-engineering-assoc-software-engineer-internships-summer-2027-bachelors-?oga=true": 1791997216,
+    "https://jobs.smartrecruiters.com/ServiceNow/744000161209600-assoc-ai-engineering-cloud-security-automation-intern?oga=true": 1794598221,
     "https://jobs.smartrecruiters.com/Skyward1/744000147320799-software-engineer-intern?oga=true": 1791918609,
     "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793-software-engineer-internship-user-experience-team-?oga=true": 1791997216,
     "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation?oga=true": 1791997216,
@@ -5212,6 +5300,7 @@
     "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Arlington-VA/Software-Engineering-Intern_R-00195980": 1793821211,
     "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152": 1791846997,
     "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184": 1791846997,
+    "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510": 1794598221,
     "https://lifeattiktok.com/search/7662594807715072261": 1791846997,
     "https://lifeattiktok.com/search/7662684280234232117": 1791846997,
     "https://lifeattiktok.com/search/7662700594251958581": 1791846997,
@@ -5263,6 +5352,7 @@
     "https://lifeattiktok.com/search/7675159726676101381": 1791846997,
     "https://lifeattiktok.com/search/7675517686256863541": 1791846997,
     "https://lifeattiktok.com/search/7676276048527214901": 1791846997,
+    "https://lifeattiktok.com/search/7704696088079010053": 1794598221,
     "https://lifefitness.wd1.myworkdayjobs.com/en-US/searchlfn/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277": 1791918609,
     "https://llbean.wd1.myworkdayjobs.com/en-US/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1": 1794262210,
     "https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982": 1792688415,
@@ -5292,6 +5382,7 @@
     "https://mfs.wd1.myworkdayjobs.com/en-US/mfs-careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231983": 1791846997,
     "https://mfs.wd1.myworkdayjobs.com/en-US/mfs-careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984": 1791846997,
     "https://mfs.wd1.myworkdayjobs.com/en-US/mfs-careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231985": 1791846997,
+    "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582": 1794598221,
     "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941": 1791846997,
     "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864": 1793211310,
     "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161": 1793821211,
@@ -5306,6 +5397,7 @@
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734": 1791846997,
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136": 1791846997,
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125": 1791846997,
+    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179": 1794598221,
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250": 1793821211,
     "https://myhrabc.wd5.myworkdayjobs.com/en-US/global/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039": 1791846997,
     "https://myhrabc.wd5.myworkdayjobs.com/en-US/global/job/Conshohocken-PA/IT-Software-Intern_R2614031": 1791846997,
@@ -5363,6 +5455,7 @@
     "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782": 1793821211,
     "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2027-_R040424": 1791846997,
     "https://premierinc.wd1.myworkdayjobs.com/en-US/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480": 1791846997,
+    "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926": 1794598221,
     "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943": 1793123412,
     "https://q2ebanking.wd5.myworkdayjobs.com/en-US/q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794": 1791846997,
     "https://q2ebanking.wd5.myworkdayjobs.com/en-US/q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798": 1791846997,
@@ -5373,7 +5466,9 @@
     "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4484980": 1791846997,
     "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Software-Engineer-Intern_R-059038": 1791846997,
     "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980": 1791918609,
+    "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-1": 1794598221,
     "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1": 1791846997,
+    "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2": 1794598221,
     "https://ryan.wd1.myworkdayjobs.com/en-US/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1": 1792514711,
     "https://ryan.wd1.myworkdayjobs.com/en-US/ryancareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1": 1792514711,
     "https://ryan.wd1.myworkdayjobs.com/en-US/students-graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822": 1792514711,
@@ -5414,6 +5509,7 @@
     "https://spacedynamicslaboratory.applytojob.com/apply/2nLIPPkeTN/Agile-Software-Test-Engineering-Intern": 1792688415,
     "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1": 1791846997,
     "https://spgi.wd5.myworkdayjobs.com/en-US/spgi_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2": 1791846997,
+    "https://stripe.com/jobs/search?gh_jid=8128745": 1794598221,
     "https://stripe.com/jobs/search?gh_jid=8241260": 1791846997,
     "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941": 1791846997,
     "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1": 1791846997,
@@ -5570,6 +5666,7 @@
     "https://www.mastercontrol.com/careers/job-listings/role/?role=4738483005&gh_jid=4738483005": 1791846997,
     "https://www.metacareers.com/jobs/1952991802037374": 1791846997,
     "https://www.mongodb.com/careers/job/?gh_jid=8209134": 1793039708,
+    "https://www.octant.bio/jobs?gh_jid=6260895004": 1794598221,
     "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003": 1791846997,
     "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002": 1791846997,
     "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002": 1791846997,
@@ -5589,9 +5686,11 @@
     "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638": 1793821211,
     "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645": 1793908209,
     "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657": 1793908209,
-    "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636": 1793908209
+    "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636": 1793908209,
+    "https://zotecpartners.applytojob.com/apply/EGGe30UqYo/Software-Engineer-Intern": 1794598221,
+    "https://zotecpartners.applytojob.com/apply/kZD502wRCY/Software-Engineer-Intern-RCI": 1794598221
    },
-   "sha": "d18c5e0aff54293c65803d5bcc7a4258422ae456"
+   "sha": "b686c4defb8c2bc515a7334ecd9ebff358a393ba"
   }
  },
  "started": 1791846997
