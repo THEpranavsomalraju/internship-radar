@@ -1914,15 +1914,18 @@
    "key": "lenovo|intern program coordinator and",
    "source": "lenovo",
    "ts": 1794582309
+  },
+  {
+   "key": "verisk|data science ai intern",
+   "source": "simplify",
+   "ts": 1794585910
   }
  ],
  "last_heartbeat": "2026-11-13",
- "last_run": 1794585616,
- "push_count": 5,
+ "last_run": 1794585910,
+ "push_count": 6,
  "push_day": "2026-11-13",
  "runs": [
-  1794499216,
-  1794499509,
   1794499811,
   1794500110,
   1794500411,
@@ -2211,13 +2214,14 @@
   1794584711,
   1794585010,
   1794585309,
-  1794585616
+  1794585616,
+  1794585910
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
-   "last_full": 1794564311,
-   "last_ok": 1794585616,
+   "last_full": 1794585912,
+   "last_ok": 1794585910,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2235,7 +2239,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794585616,
+   "last_ok": 1794585910,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2244,7 +2248,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794585616,
+   "last_ok": 1794585910,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2258,7 +2262,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794585616,
+   "last_ok": 1794585910,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4263,6 +4267,7 @@
     "f04054a0-44e5-4124-8d75-b21d9ccaed4b": 1792019108,
     "f059bcac-24f2-41a0-981e-d2d3df6ed71d": 1791846997,
     "f06b088f-b45f-4daa-a9f2-f680f36623f0": 1791846997,
+    "f080ba31-67e8-4a12-a748-8d74a2b6067b": 1794585910,
     "f087940e-a5b0-4548-a6bc-e189b1848910": 1791846997,
     "f096f832-5a90-40c5-b282-60a82886331e": 1793054108,
     "f09f0a56-4999-4d19-afb4-894ea819d401": 1791846997,
@@ -4396,11 +4401,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "3ab317d4deddf639d95ed26cf6d23f0fb0eafe5f"
+   "sha": "eac0ce014501590226f5dfd765f55e33860a53c1"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794585616,
+   "last_ok": 1794585910,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
