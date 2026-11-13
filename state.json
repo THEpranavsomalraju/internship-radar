@@ -1909,11 +1909,16 @@
    "key": "the toro company|cx and customer lifetime value intern operations analyst",
    "source": "simplify",
    "ts": 1794557107
+  },
+  {
+   "key": "shield ai|human machine teaming intern",
+   "source": "simplify",
+   "ts": 1794569709
   }
  ],
  "last_heartbeat": "2026-11-12",
- "last_run": 1794569418,
- "push_count": 2,
+ "last_run": 1794569709,
+ "push_count": 3,
  "push_day": "2026-11-13",
  "runs": [
   1794483309,
@@ -2205,13 +2210,14 @@
   1794568510,
   1794568811,
   1794569108,
-  1794569418
+  1794569418,
+  1794569709
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794564311,
-   "last_ok": 1794569418,
+   "last_ok": 1794569709,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2228,7 +2234,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794569418,
+   "last_ok": 1794569709,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2237,7 +2243,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794569418,
+   "last_ok": 1794569709,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2251,7 +2257,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794569418,
+   "last_ok": 1794569709,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3474,6 +3480,7 @@
     "95c4cff1-400b-4054-ab5a-96b8ea6662dd": 1791846997,
     "95f6ee82-d1a7-4d33-8f7d-6f060135baa6": 1793664309,
     "96af2834-7e64-41a6-b0d4-d000f97b76cb": 1791846997,
+    "96c7f622-1cce-4faa-831c-906a6515ce68": 1794569709,
     "96d3f23c-1acb-4421-9b43-f1b18ad04fe1": 1794355509,
     "96dad35a-89dc-4ab4-81fc-e699ef8ba911": 1791846997,
     "974d081a-6d17-4aab-a42a-e9b35cafde7d": 1791846997,
@@ -4388,11 +4395,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "ca733904e9bb2e24142311a3adc84ac02fa3b025"
+   "sha": "90b0bb6df4b42a1b42cc82d16d9c5cc038bfea97"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794569418,
+   "last_ok": 1794569709,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
