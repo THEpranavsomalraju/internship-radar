@@ -1,11 +1,6 @@
 {
  "alerts": [
   {
-   "key": "axa|underwriting data analytics intern",
-   "source": "simplify",
-   "ts": 1793441107
-  },
-  {
    "key": "northrop grumman|data scientist intern product support",
    "source": "simplify",
    "ts": 1793453709
@@ -2012,11 +2007,10 @@
   }
  ],
  "last_heartbeat": "2026-11-13",
- "last_run": 1794650413,
+ "last_run": 1794650708,
  "push_count": 0,
  "push_day": "2026-11-14",
  "runs": [
-  1794564014,
   1794564309,
   1794564610,
   1794564909,
@@ -2307,13 +2301,14 @@
   1794649510,
   1794649813,
   1794650108,
-  1794650413
+  1794650413,
+  1794650708
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794629410,
-   "last_ok": 1794650413,
+   "last_ok": 1794650708,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2331,7 +2326,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794650413,
+   "last_ok": 1794650708,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2348,7 +2343,8 @@
    }
   },
   "sas": {
-   "fail_count": 0,
+   "fail_count": 1,
+   "last_error": "HTTP 502 from careers-sas.icims.com",
    "last_ok": 1794650413,
    "seeded": true,
    "seen": {
@@ -2363,7 +2359,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794650413,
+   "last_ok": 1794650708,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4515,11 +4511,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "bfbe967c106e6be6733cad63cfeda4adb8694f32"
+   "sha": "3ccfc2d76e189c4b66b14a811cdf1dd4cb7da6ac"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794650413,
+   "last_ok": 1794650708,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
