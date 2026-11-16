@@ -1914,14 +1914,28 @@
    "key": "octaura|data engineer intern",
    "source": "simplify",
    "ts": 1794827411
+  },
+  {
+   "key": "boston scientific|ai acceleration intern",
+   "source": "simplify",
+   "ts": 1794846909
+  },
+  {
+   "key": "boston scientific|ai engineer intern generative agentic ai",
+   "source": "simplify",
+   "ts": 1794846909
+  },
+  {
+   "key": "shopify|data intern",
+   "source": "simplify",
+   "ts": 1794846909
   }
  ],
  "last_heartbeat": "2026-11-16",
- "last_run": 1794846613,
- "push_count": 2,
+ "last_run": 1794846909,
+ "push_count": 5,
  "push_day": "2026-11-16",
  "runs": [
-  1794760507,
   1794760810,
   1794761109,
   1794761408,
@@ -2203,13 +2217,14 @@
   1794845710,
   1794846016,
   1794846310,
-  1794846613
+  1794846613,
+  1794846909
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794846616,
-   "last_ok": 1794846613,
+   "last_ok": 1794846909,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2227,7 +2242,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794846613,
+   "last_ok": 1794846909,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2245,7 +2260,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794846613,
+   "last_ok": 1794846909,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2262,7 +2277,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794846613,
+   "last_ok": 1794846909,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3799,6 +3814,7 @@
     "b9ce969b-feac-4712-867d-4dc584234d94": 1793895011,
     "b9e02195-e8aa-4296-8ba7-766a14912486": 1791846997,
     "ba0364a9-1ac6-476c-bce0-118895d7a5ed": 1792508710,
+    "ba118afe-7991-4a5a-87c7-f68325d9f99d": 1794846909,
     "ba118ced-217b-406f-8885-fb001cb6f2ee": 1791846997,
     "ba21fb5b-f6ae-4a75-a5ce-cb99ba4a0b97": 1791846997,
     "ba329d2f-c0c8-448c-a44a-8b5c240afe6a": 1793111708,
@@ -3929,6 +3945,7 @@
     "c81df585-c144-4df1-8111-2a31dee7970f": 1791846997,
     "c83bdc1d-5eb0-41f6-a236-0a2822d82b7b": 1793867708,
     "c86c9881-be39-476e-bd6e-cea47d90c1c4": 1794267309,
+    "c8718487-1c23-48cb-9c04-3d4d44bc977b": 1794846909,
     "c87cc8c3-da35-4f50-9ee0-cc9cac12c4b0": 1792449309,
     "c8aca959-9a59-41e5-b70f-6b65d4b67856": 1791846997,
     "c8b511a6-31c5-4ba5-843a-97f6c293304c": 1791846997,
@@ -4031,6 +4048,7 @@
     "d449be3f-76e4-4a23-907f-0c7e8bcd8582": 1791846997,
     "d479bef7-8f0d-4384-8b62-13d11f539acd": 1793316908,
     "d489989d-98b0-4876-852a-50e2caecd69b": 1793662508,
+    "d48bdf87-b0ff-4edc-a9a5-5f5ecca2154c": 1794846909,
     "d4918514-6348-4f6f-8642-5a2c01ff7162": 1794267309,
     "d4dd7283-a6c1-4f08-a631-ba840bf2b7ef": 1791846997,
     "d51fae92-efd8-41b6-b50e-1552f35e9dfc": 1793895011,
@@ -4422,11 +4440,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "39d3fe8e68c6552ce3a8bf6344693a5bd15d6f36"
+   "sha": "d037c22862de45bc41644578f6b2bdab482fdb33"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794846613,
+   "last_ok": 1794846909,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
