@@ -1929,15 +1929,18 @@
    "key": "shopify|data intern",
    "source": "simplify",
    "ts": 1794846909
+  },
+  {
+   "key": "sas|time series foundation model intern master s",
+   "source": "sas",
+   "ts": 1794854410
   }
  ],
  "last_heartbeat": "2026-11-16",
- "last_run": 1794854108,
- "push_count": 5,
+ "last_run": 1794854410,
+ "push_count": 6,
  "push_day": "2026-11-16",
  "runs": [
-  1794767708,
-  1794768008,
   1794768312,
   1794768608,
   1794768911,
@@ -2218,13 +2221,14 @@
   1794853210,
   1794853514,
   1794853813,
-  1794854108
+  1794854108,
+  1794854410
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794846616,
-   "last_ok": 1794854108,
+   "last_ok": 1794854410,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2242,7 +2246,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794854108,
+   "last_ok": 1794854410,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2260,9 +2264,10 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794854108,
+   "last_ok": 1794854410,
    "seeded": true,
    "seen": {
+    "42753": 1794854410,
     "42758": 1793306710,
     "42762": 1794325813,
     "42764": 1794337810,
@@ -2277,7 +2282,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794854108,
+   "last_ok": 1794854410,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4444,7 +4449,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794854108,
+   "last_ok": 1794854410,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
