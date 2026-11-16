@@ -1,41 +1,6 @@
 {
  "alerts": [
   {
-   "key": "jm family|ai intern",
-   "source": "simplify",
-   "ts": 1793635509
-  },
-  {
-   "key": "paretohealth|software engineer intern",
-   "source": "simplify",
-   "ts": 1793635509
-  },
-  {
-   "key": "paretohealth|analytics intern",
-   "source": "simplify",
-   "ts": 1793635509
-  },
-  {
-   "key": "axa|operations metrics and reporting intern",
-   "source": "simplify",
-   "ts": 1793635509
-  },
-  {
-   "key": "costar group|data science intern",
-   "source": "simplify",
-   "ts": 1793635509
-  },
-  {
-   "key": "sierra nevada|data science intern",
-   "source": "simplify",
-   "ts": 1793635509
-  },
-  {
-   "key": "first citizens bancshares|data analyst intern enterprise data analyst data products",
-   "source": "simplify",
-   "ts": 1793635509
-  },
-  {
    "key": "microsoft|software engineer security identity intern opportunities for university students redmond",
    "source": "speedyapply",
    "ts": 1793655609
@@ -1952,11 +1917,10 @@
   }
  ],
  "last_heartbeat": "2026-11-16",
- "last_run": 1794844820,
+ "last_run": 1794845110,
  "push_count": 2,
  "push_day": "2026-11-16",
  "runs": [
-  1794758708,
   1794759008,
   1794759309,
   1794759610,
@@ -2238,13 +2202,14 @@
   1794843912,
   1794844210,
   1794844510,
-  1794844820
+  1794844820,
+  1794845110
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794825014,
-   "last_ok": 1794844820,
+   "last_ok": 1794845110,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2262,7 +2227,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794844820,
+   "last_ok": 1794845110,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2280,7 +2245,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794844820,
+   "last_ok": 1794845110,
    "seeded": true,
    "seen": {
     "42758": 1793306710,
@@ -2297,7 +2262,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794844820,
+   "last_ok": 1794845110,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4457,11 +4422,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "395e32f8647fcfbf588dc4bc1e9df453c36fe005"
+   "sha": "39d3fe8e68c6552ce3a8bf6344693a5bd15d6f36"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794844820,
+   "last_ok": 1794845110,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
