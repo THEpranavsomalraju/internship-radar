@@ -1,11 +1,6 @@
 {
  "alerts": [
   {
-   "key": "american express|campus undergraduate internship program software engineer enterprise technology services",
-   "source": "simplify",
-   "ts": 1793723708
-  },
-  {
    "key": "arrowstreet capital|software engineer intern",
    "source": "simplify",
    "ts": 1793748908
@@ -1857,7 +1852,7 @@
   }
  ],
  "last_heartbeat": "2026-11-17",
- "last_run": 1794933014,
+ "last_run": 1794933309,
  "push_count": 9,
  "push_day": "2026-11-17",
  "runs": [
@@ -2149,13 +2144,14 @@
   1794932114,
   1794932410,
   1794932716,
-  1794933014
+  1794933014,
+  1794933309
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794912015,
-   "last_ok": 1794933014,
+   "last_ok": 1794933309,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2173,7 +2169,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794933014,
+   "last_ok": 1794933309,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2191,7 +2187,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794933014,
+   "last_ok": 1794933309,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2212,7 +2208,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794933014,
+   "last_ok": 1794933309,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4389,11 +4385,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "3b6ddf38a0331748bf0d6d4db1b18c556c5a9b65"
+   "sha": "95ebc5cbb27ffd6e1e70146972931354d74a78de"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794933014,
+   "last_ok": 1794933309,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
