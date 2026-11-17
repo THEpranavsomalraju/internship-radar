@@ -1844,15 +1844,23 @@
    "key": "sas|iot analytics intern master s",
    "source": "sas",
    "ts": 1794930908
+  },
+  {
+   "key": "robert bosch venture capital|ai application intern",
+   "source": "simplify",
+   "ts": 1794931514
+  },
+  {
+   "key": "soros fund management|quantitative strategist intern",
+   "source": "simplify",
+   "ts": 1794931514
   }
  ],
  "last_heartbeat": "2026-11-17",
- "last_run": 1794931217,
- "push_count": 7,
+ "last_run": 1794931514,
+ "push_count": 9,
  "push_day": "2026-11-17",
  "runs": [
-  1794844820,
-  1794845110,
   1794845410,
   1794845710,
   1794846016,
@@ -2140,13 +2148,14 @@
   1794930318,
   1794930609,
   1794930908,
-  1794931217
+  1794931217,
+  1794931514
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794912015,
-   "last_ok": 1794931217,
+   "last_ok": 1794931514,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2164,7 +2173,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794931217,
+   "last_ok": 1794931514,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2182,7 +2191,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794931217,
+   "last_ok": 1794931514,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2203,7 +2212,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794931217,
+   "last_ok": 1794931514,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3172,6 +3181,7 @@
     "74ebbab0-9a8d-4399-aec0-07e5ad5f7337": 1791846997,
     "7509a79d-1085-4918-bdcc-6c82b44b486b": 1791846997,
     "7510db54-c95e-441b-b7e1-b239a1119742": 1791846997,
+    "751bdabd-e853-41ef-9842-6f7d92883fd9": 1794931514,
     "752e7b9a-ef6d-4bb0-883b-ec5cc4e3207c": 1792710308,
     "7530c688-5657-4159-baad-6d34c53ff482": 1791846997,
     "75892e9b-bebc-4e60-9e4b-a763af8e0759": 1791846997,
@@ -3791,6 +3801,7 @@
     "be9e2ad0-7cfb-43e2-8167-a1c650e84de9": 1791846997,
     "bead51fa-aa91-421e-9b22-bc3e451072b1": 1794180909,
     "becc9f50-d65f-4749-b064-6d3e221e83da": 1791846997,
+    "bee8e5de-03d0-4cf7-9457-e9ec51642c89": 1794931514,
     "bf045bbb-19b5-4bf0-a8de-2d2a06103832": 1793372710,
     "bf1ec0ef-494e-419c-abea-be20337732b0": 1793577910,
     "bf2a73c1-b34b-4153-805d-6d8f185ae0de": 1791846997,
@@ -4378,11 +4389,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "96d241621669c836a3dd0160726ec33874608057"
+   "sha": "3b6ddf38a0331748bf0d6d4db1b18c556c5a9b65"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794931217,
+   "last_ok": 1794931514,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
