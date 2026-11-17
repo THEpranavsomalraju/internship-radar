@@ -1,76 +1,6 @@
 {
  "alerts": [
   {
-   "key": "arrowstreet capital|software engineer intern",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "commonwealth fusion systems|software engineer intern",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "zebra technologies|software engineer intern",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "vizient|intern digital collaboration data insights",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "american express|cybersecurity ai engineer intern enterprise technology services",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "first citizens bancshares|applied ai intern",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "arch capital group|originations portal it intern",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "highmark health|healthcare analytics data science graduate intern",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "hp|software engineer intern aiml platform hp iq",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "hp|software engineer intern product developer productivity",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "highmark health|ai services and platforms software engineer intern",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "staples|software engineer intern sds e commerce team",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "caresource|data science intern",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
-   "key": "jomboy media|business intelligence intern",
-   "source": "simplify",
-   "ts": 1793748908
-  },
-  {
    "key": "nex|software engineer intern sports fitness game development",
    "source": "simplify",
    "ts": 1793750709
@@ -1907,11 +1837,10 @@
   }
  ],
  "last_heartbeat": "2026-11-17",
- "last_run": 1794958212,
+ "last_run": 1794958516,
  "push_count": 20,
  "push_day": "2026-11-17",
  "runs": [
-  1794872115,
   1794872409,
   1794872710,
   1794873013,
@@ -2201,13 +2130,14 @@
   1794957310,
   1794957608,
   1794957910,
-  1794958212
+  1794958212,
+  1794958516
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794955812,
-   "last_ok": 1794958212,
+   "last_ok": 1794958516,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2225,7 +2155,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794958212,
+   "last_ok": 1794958516,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2243,7 +2173,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794958212,
+   "last_ok": 1794958516,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2264,7 +2194,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794958212,
+   "last_ok": 1794958516,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4441,11 +4371,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "22349f32d1f8e02f7d2d2ed36c64641f83d09a9c"
+   "sha": "0f112274dfc8d207a5168fa1e482cc1e7e9b549f"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794958212,
+   "last_ok": 1794958516,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
