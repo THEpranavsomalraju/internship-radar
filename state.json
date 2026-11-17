@@ -1824,11 +1824,16 @@
    "key": "bound|engineering intern",
    "source": "simplify",
    "ts": 1794873912
+  },
+  {
+   "key": "all options|graduate quantitative trader intern",
+   "source": "simplify",
+   "ts": 1794900909
   }
  ],
  "last_heartbeat": "2026-11-16",
- "last_run": 1794900613,
- "push_count": 0,
+ "last_run": 1794900909,
+ "push_count": 1,
  "push_day": "2026-11-17",
  "runs": [
   1794814509,
@@ -2111,13 +2116,14 @@
   1794899716,
   1794900010,
   1794900309,
-  1794900613
+  1794900613,
+  1794900909
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794890117,
-   "last_ok": 1794900613,
+   "last_ok": 1794900909,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2135,7 +2141,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794900613,
+   "last_ok": 1794900909,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2153,7 +2159,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794900613,
+   "last_ok": 1794900909,
    "seeded": true,
    "seen": {
     "42753": 1794854410,
@@ -2172,7 +2178,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794900613,
+   "last_ok": 1794900909,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3807,6 +3813,7 @@
     "c454abc2-a511-45d0-87e5-5aad1b28f7d5": 1794278108,
     "c45d6747-0e0d-45b4-9ed9-536860528fa0": 1791846997,
     "c4b65c8c-e5ad-4eca-8dfb-2f8e0e65b841": 1793237707,
+    "c4c07e6a-44f8-4847-ba4c-378473c3515f": 1794900909,
     "c4cc4d2e-7317-4185-8411-14d777cc216e": 1793054108,
     "c4d18418-d4a9-4c9d-900d-4ffe42c1b1c6": 1791846997,
     "c4dc3458-525a-41e5-a1cc-5508b08f1c45": 1792794910,
@@ -4342,11 +4349,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "97f1146636eca4e01381ff2f424d48eb9ea55011"
+   "sha": "6946c6a259db646a3fd6e2acf178784c5ffc591e"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794900613,
+   "last_ok": 1794900909,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
