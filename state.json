@@ -1,61 +1,6 @@
 {
  "alerts": [
   {
-   "key": "costco|cds intern innovation",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "costco|cds intern powerapps developer ecm digital workflow",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "costco|costco digital services intern infosec ai ml",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "northrop grumman|engineering software and analysis intern",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "northrop grumman|engineering intern multiple teams",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "costco|cds intern software engineer it retail media",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "costco|software engineer intern international depot",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "tria federal|growth operations intern",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "resideo|mobile software engineer intern",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "resideo|data science intern",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
-   "key": "wellmark|software engineer intern ai platform team",
-   "source": "simplify",
-   "ts": 1793664309
-  },
-  {
    "key": "signet jewelers|data analytics intern",
    "source": "simplify",
    "ts": 1793675109
@@ -1864,15 +1809,38 @@
    "key": "sas|optimization intern master s",
    "source": "sas",
    "ts": 1794855620
+  },
+  {
+   "key": "quest analytics|software engineer intern c asp net",
+   "source": "simplify",
+   "ts": 1794873912
+  },
+  {
+   "key": "reliable robotics|displays software engineer intern",
+   "source": "simplify",
+   "ts": 1794873912
+  },
+  {
+   "key": "servicenow|associate forward deployed solution engineer intern",
+   "source": "simplify",
+   "ts": 1794873912
+  },
+  {
+   "key": "duetti|data intern",
+   "source": "simplify",
+   "ts": 1794873912
+  },
+  {
+   "key": "bound|engineering intern",
+   "source": "simplify",
+   "ts": 1794873912
   }
  ],
  "last_heartbeat": "2026-11-16",
- "last_run": 1794873615,
- "push_count": 9,
+ "last_run": 1794873912,
+ "push_count": 14,
  "push_day": "2026-11-16",
  "runs": [
-  1794787219,
-  1794787509,
   1794787809,
   1794788112,
   1794788409,
@@ -2151,13 +2119,14 @@
   1794872710,
   1794873013,
   1794873311,
-  1794873615
+  1794873615,
+  1794873912
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794868217,
-   "last_ok": 1794873615,
+   "last_ok": 1794873912,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2175,7 +2144,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794873615,
+   "last_ok": 1794873912,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2193,7 +2162,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794873615,
+   "last_ok": 1794873912,
    "seeded": true,
    "seen": {
     "42753": 1794854410,
@@ -2212,7 +2181,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794873615,
+   "last_ok": 1794873912,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2230,6 +2199,7 @@
     "01d6a7ab-cfb5-4eec-8014-19bba35efccb": 1793142308,
     "020d221e-9e1f-4ed0-9e98-add0f65d7c47": 1791846997,
     "021ab755-0612-4b89-bce6-f907b348959f": 1791846997,
+    "02761b1d-a3e4-4f1a-8525-655a388c9c8c": 1794873912,
     "02902ce1-e453-4b13-95d6-e35d14fa4d60": 1791846997,
     "02985926-4e37-4219-a8ab-21d9d6594ab2": 1791846997,
     "0299ccd7-7dac-48cc-80eb-9e224cc78f08": 1791846997,
@@ -2401,6 +2371,7 @@
     "170b4dbe-36bf-488f-8c87-9759f8f3fc2b": 1791846997,
     "17267c54-883e-4270-aa47-9c1ba310d244": 1792798508,
     "175ef4c9-fecc-47c4-b091-217815858898": 1791846997,
+    "1766b9ad-6231-4035-b13d-f0f5bf630fbe": 1794873912,
     "178d0613-9e8b-480c-b35e-f7b89b94e02e": 1793171110,
     "1795d6df-fcca-45dc-836d-41a82dc36894": 1791846997,
     "17b55e16-4b9d-4870-ba60-51a53eaf71c5": 1791846997,
@@ -2517,6 +2488,7 @@
     "26dd2b73-7f9e-47f3-8c63-9003aec2977e": 1791846997,
     "26ed8f15-5f1f-4a5a-9cca-0403cf4d7334": 1794528308,
     "2700d5af-4dd9-4008-bfe0-97fa121a955c": 1791846997,
+    "271bf34b-9787-4363-aae3-dcbb2964bfc1": 1794873912,
     "27282ffa-070f-4079-bf3e-b159fa097600": 1791846997,
     "2751af83-9f4f-48b8-8aba-6f534e9681e7": 1791932708,
     "27a08b0e-0a8d-4835-9024-61891268cd15": 1791846997,
@@ -2556,6 +2528,7 @@
     "2c0547c0-43f3-4b38-a65b-e1265d47d32a": 1793786710,
     "2c773875-aa62-411f-a839-511d6f823d7d": 1791846997,
     "2cbf62c3-9af9-40c5-bada-3f3cc7eeae8e": 1793432108,
+    "2d118061-4df0-42b0-bb7c-a4062ea46dd1": 1794873912,
     "2d1205f2-cb07-4355-a160-2ae1b57ed991": 1792764309,
     "2d3cd1b8-063f-41a1-a9ba-c834e3114c68": 1791846997,
     "2d8c299e-32f6-48b9-96af-74653d10e44a": 1793750709,
@@ -3426,6 +3399,7 @@
     "92e9545b-71c8-4dda-aea6-8cfaf7374068": 1792019108,
     "92ec25b9-67cb-4a92-87d3-379a0012eb5d": 1791846997,
     "92ec723c-fb9a-4c9a-83de-c0dee7290812": 1793054108,
+    "92f9d8ff-e826-4aa9-b47b-b379a4227b94": 1794873912,
     "93048763-5a4d-430c-bb12-ed0ad0d9cfa7": 1791846997,
     "931408fb-5cb7-4179-8c33-35a242bbc266": 1792317908,
     "93157a2c-d04f-4785-b701-eb8a4beb6fd7": 1793316908,
@@ -3531,6 +3505,7 @@
     "a1f44bba-d5c1-4c7c-ac07-e78ab47ee7a5": 1792537508,
     "a21b0917-b7a1-4928-bf8b-80237a4263ff": 1791846997,
     "a2ad4a24-0d07-4881-a550-508caf6b7999": 1792191908,
+    "a2fe1cc0-aff1-49f6-bc73-fc65ecaa526f": 1794873912,
     "a3265bb9-bf8d-4ab6-b4ed-809f2362a4ed": 1791846997,
     "a34749cb-1425-494f-8acb-09f66135961e": 1794355509,
     "a34ec36a-bccc-4e43-93a8-36560196de44": 1792191908,
@@ -4375,11 +4350,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "af328bb15e06a634eec01f42121dc2377ac34762"
+   "sha": "b56068318dbe2814a842b263148b7f2364bf9650"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794873615,
+   "last_ok": 1794873912,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
