@@ -1,66 +1,6 @@
 {
  "alerts": [
   {
-   "key": "nex|software engineer intern sports fitness game development",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "hive financial systems|hfa intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "jm family|ai center of excellence delivery team intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "jm family|ai decision science intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "t mobile|t ads software engineer intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "t mobile|software engineering intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "microsoft|software engineer intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "sherwin williams|r d data visualization intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "trustage|innovation ai technology intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "northrop grumman|flight software engineer intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "northrop grumman|ground software engineer intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
-   "key": "electronic arts|anticheat engineer intern",
-   "source": "simplify",
-   "ts": 1793750709
-  },
-  {
    "key": "itron|data analytics and automation intern finance",
    "source": "simplify",
    "ts": 1793779508
@@ -1872,12 +1812,10 @@
   }
  ],
  "last_heartbeat": "2026-11-17",
- "last_run": 1794960308,
+ "last_run": 1794960617,
  "push_count": 27,
  "push_day": "2026-11-17",
  "runs": [
-  1794873912,
-  1794874209,
   1794874510,
   1794874811,
   1794875108,
@@ -2167,13 +2105,14 @@
   1794959410,
   1794959709,
   1794960015,
-  1794960308
+  1794960308,
+  1794960617
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794955812,
-   "last_ok": 1794960308,
+   "last_ok": 1794960617,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2191,7 +2130,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1794960308,
+   "last_ok": 1794960617,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2209,7 +2148,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1794960308,
+   "last_ok": 1794960617,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2230,7 +2169,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1794960308,
+   "last_ok": 1794960617,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4418,7 +4357,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1794960308,
+   "last_ok": 1794960617,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
