@@ -1,16 +1,6 @@
 {
  "alerts": [
   {
-   "key": "parsons|ai ml engineer intern",
-   "source": "simplify",
-   "ts": 1793810109
-  },
-  {
-   "key": "great american insurance company|business intelligence intern power bi",
-   "source": "simplify",
-   "ts": 1793810109
-  },
-  {
    "key": "microsoft|software engineer teamwork experiences internship opportunities",
    "source": "speedyapply",
    "ts": 1793821211
@@ -1799,14 +1789,23 @@
    "key": "airbnb|software engineer intern",
    "source": "simplify",
    "ts": 1794990909
+  },
+  {
+   "key": "drivewealth|ai consulting associate program people analytics intern",
+   "source": "simplify",
+   "ts": 1795019711
+  },
+  {
+   "key": "general dynamics information technology|engineering intern",
+   "source": "simplify",
+   "ts": 1795019711
   }
  ],
  "last_heartbeat": "2026-11-18",
- "last_run": 1795019421,
- "push_count": 2,
+ "last_run": 1795019711,
+ "push_count": 4,
  "push_day": "2026-11-18",
  "runs": [
-  1794933309,
   1794933610,
   1794933910,
   1794934211,
@@ -2096,13 +2095,14 @@
   1795018510,
   1795018812,
   1795019108,
-  1795019421
+  1795019421,
+  1795019711
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1794999312,
-   "last_ok": 1795019421,
+   "last_ok": 1795019711,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2120,7 +2120,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795019421,
+   "last_ok": 1795019711,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2138,7 +2138,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795019421,
+   "last_ok": 1795019711,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2159,7 +2159,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795019421,
+   "last_ok": 1795019711,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2262,6 +2262,7 @@
     "0d13979f-34e6-4863-983f-b931e8619e05": 1791846997,
     "0d2ca455-3d54-4b58-b8ec-00f32efcc930": 1793142308,
     "0d6e7377-fae5-4c85-8452-8ee419b90b6a": 1791846997,
+    "0d7de9f1-ab29-4d17-998f-41d56c74b639": 1795019711,
     "0d975f4a-64df-4148-98fd-46ab01f959b8": 1791846997,
     "0d9faa74-3c88-4420-95ea-f5e99ae6d84f": 1791846997,
     "0db2b599-5313-4e72-a932-36bdd7eafa58": 1791846997,
@@ -2662,6 +2663,7 @@
     "3efa186d-e0bf-4524-bbed-3899a3ea2a5e": 1794009908,
     "3f06de58-bfa6-4e51-8270-e63a13d7367b": 1792710308,
     "3f0954b3-4e14-4815-bc41-777fce0a87f4": 1791846997,
+    "3f1088e9-3742-4919-8f86-1fb30cc82265": 1795019711,
     "3f7978bc-c83d-4088-abff-540cb9036839": 1792757109,
     "3faca9c1-e66c-437c-a5bd-9ab5cd608a2f": 1792031708,
     "3fbfec6a-6a08-4eb5-af05-582e9d6c9f63": 1791846997,
@@ -4089,6 +4091,7 @@
     "e3c16702-69b1-496c-b4a7-13ea33504cfc": 1791846997,
     "e3e1417f-9aa4-44e8-8ee8-c075f7d2f7db": 1791846997,
     "e3e929ab-e394-4415-9e80-2b0eba7fbeea": 1794499509,
+    "e40ead49-69ad-422a-8008-5929557e27a4": 1795019711,
     "e41fbb04-5d3a-4afb-bf00-859f48e0a2aa": 1792668907,
     "e424769d-79d0-4699-9b2b-74dde7962427": 1791846997,
     "e461075c-d030-4455-8fe8-9a52fa5c0551": 1791846997,
@@ -4346,11 +4349,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "a1876abb6b5380b63e9310e058dd145ce5185457"
+   "sha": "a06d3c8999933fc61cab54cd22e98ed5566f6433"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795019421,
+   "last_ok": 1795019711,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
