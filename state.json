@@ -1,56 +1,6 @@
 {
  "alerts": [
   {
-   "key": "microsoft|research intern research in software engineering ml systems agents",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
-   "key": "borgwarner|software engineering intern year round",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
-   "key": "keen footwear|associate footwear developer intern",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
-   "key": "northrop grumman|software engineering intern roy ut",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
-   "key": "northrop grumman|devops software engineering intern roy ut",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
-   "key": "northrop grumman|cybersecurity software engineering intern roy ut",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
-   "key": "raytheon|intern control diagnostic software onsite",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
-   "key": "smith nephew|intern robotics software engineering",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
-   "key": "stevens capital management|developer internship",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
-   "key": "zebra technologies|internship us software engineer ai features product convergence zebra task manager",
-   "source": "speedyapply",
-   "ts": 1793908209
-  },
-  {
    "key": "caresource|data analyst intern",
    "source": "simplify",
    "ts": 1793921709
@@ -1542,11 +1492,10 @@
   }
  ],
  "last_heartbeat": "2026-11-19",
- "last_run": 1795117509,
+ "last_run": 1795117810,
  "push_count": 1,
  "push_day": "2026-11-19",
  "runs": [
-  1795031119,
   1795031410,
   1795031708,
   1795032017,
@@ -1836,13 +1785,14 @@
   1795116612,
   1795116915,
   1795117209,
-  1795117509
+  1795117509,
+  1795117810
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795107919,
-   "last_ok": 1795117509,
+   "last_ok": 1795117810,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1860,7 +1810,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795117509,
+   "last_ok": 1795117810,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1878,7 +1828,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795117509,
+   "last_ok": 1795117810,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -1899,7 +1849,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795117509,
+   "last_ok": 1795117810,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4098,7 +4048,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795117509,
+   "last_ok": 1795117810,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
