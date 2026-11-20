@@ -1749,11 +1749,16 @@
    "key": "honeywell aerospace|information systems data science intern it",
    "source": "simplify",
    "ts": 1795161909
+  },
+  {
+   "key": "icapital network|data solutions intern",
+   "source": "simplify",
+   "ts": 1795172711
   }
  ],
  "last_heartbeat": "2026-11-19",
- "last_run": 1795172418,
- "push_count": 11,
+ "last_run": 1795172711,
+ "push_count": 12,
  "push_day": "2026-11-20",
  "runs": [
   1795086314,
@@ -2046,13 +2051,14 @@
   1795171513,
   1795171812,
   1795172112,
-  1795172418
+  1795172418,
+  1795172711
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795151712,
-   "last_ok": 1795172418,
+   "last_ok": 1795172711,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2070,7 +2076,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795172418,
+   "last_ok": 1795172711,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2088,7 +2094,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795172418,
+   "last_ok": 1795172711,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2110,7 +2116,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795172418,
+   "last_ok": 1795172711,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3311,6 +3317,7 @@
     "8c2d4fa4-d2b6-4ca2-bf92-4bbd38e700d1": 1793057707,
     "8c3ef60f-82b8-40a0-a8af-f49d57750b6c": 1791846997,
     "8c416546-f532-484d-92fd-9dd055fb19d8": 1791846997,
+    "8c654982-1044-49dc-939c-7d279e1eb3b2": 1795172711,
     "8c840878-1ba1-4aea-8a5e-bc3037130ffd": 1793923509,
     "8c8a1f21-e711-48d0-8cec-601018138920": 1791846997,
     "8ce53ad1-615a-4bd5-83f3-e14b8358c09c": 1795133107,
@@ -4337,11 +4344,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "2fd543534b56f484b2df05efa770368f25e0ebc1"
+   "sha": "4411f61f3f370e4ee9d7706363fa0c7b99d43710"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795172418,
+   "last_ok": 1795172711,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
