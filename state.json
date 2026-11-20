@@ -1,16 +1,6 @@
 {
  "alerts": [
   {
-   "key": "zoox|software engineer intern software systems",
-   "source": "simplify",
-   "ts": 1793934308
-  },
-  {
-   "key": "zoox|software engineer intern software platforms product",
-   "source": "simplify",
-   "ts": 1793934308
-  },
-  {
    "key": "sas|data scientist intern",
    "source": "sas",
    "ts": 1793967909
@@ -1684,14 +1674,18 @@
    "key": "lucid motors|ai data intern applied ai machine learning",
    "source": "simplify",
    "ts": 1795142109
+  },
+  {
+   "key": "piper sandler|data engineering intern",
+   "source": "simplify",
+   "ts": 1795143909
   }
  ],
  "last_heartbeat": "2026-11-19",
- "last_run": 1795143618,
- "push_count": 26,
+ "last_run": 1795143909,
+ "push_count": 27,
  "push_day": "2026-11-19",
  "runs": [
-  1795057507,
   1795057809,
   1795058118,
   1795058408,
@@ -1981,13 +1975,14 @@
   1795142708,
   1795143009,
   1795143307,
-  1795143618
+  1795143618,
+  1795143909
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795129812,
-   "last_ok": 1795143618,
+   "last_ok": 1795143909,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2005,7 +2000,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795143618,
+   "last_ok": 1795143909,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2023,7 +2018,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795143618,
+   "last_ok": 1795143909,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2045,7 +2040,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795143618,
+   "last_ok": 1795143909,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3234,6 +3229,7 @@
     "8b95003b-f01d-4d6b-a4d2-1e4c6d890df5": 1791846997,
     "8b95518e-7880-4858-a78a-07273d000e53": 1791846997,
     "8b98f33d-21b5-4ae4-af04-3b7378193f39": 1791846997,
+    "8ba99fbd-63b7-40d0-a543-94677e208bdd": 1795143909,
     "8bab5dd2-9265-4515-b6ba-b4ca2af51a80": 1791846997,
     "8becf5e4-874b-49a7-bc91-15d24c4e5d6f": 1791846997,
     "8c2d4fa4-d2b6-4ca2-bf92-4bbd38e700d1": 1793057707,
@@ -4255,11 +4251,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "98c4f789f83b5c723a3494293b544d6ca758c833"
+   "sha": "3ab8cbbad20f979c668b31b7df75da2ab7eb03d2"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795143618,
+   "last_ok": 1795143909,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
