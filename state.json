@@ -1749,14 +1749,23 @@
    "key": "icapital network|data solutions intern",
    "source": "simplify",
    "ts": 1795172711
+  },
+  {
+   "key": "symbotic|software engineer intern front end",
+   "source": "simplify",
+   "ts": 1795188913
+  },
+  {
+   "key": "systems planning and analysis|integrated analytics intern",
+   "source": "simplify",
+   "ts": 1795188913
   }
  ],
  "last_heartbeat": "2026-11-20",
- "last_run": 1795188615,
- "push_count": 13,
+ "last_run": 1795188913,
+ "push_count": 15,
  "push_day": "2026-11-20",
  "runs": [
-  1795102508,
   1795102810,
   1795103110,
   1795103411,
@@ -2047,13 +2056,14 @@
   1795187717,
   1795188014,
   1795188311,
-  1795188615
+  1795188615,
+  1795188913
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795173312,
-   "last_ok": 1795188615,
+   "last_ok": 1795188913,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2071,7 +2081,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795188615,
+   "last_ok": 1795188913,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2089,7 +2099,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795188615,
+   "last_ok": 1795188913,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2111,7 +2121,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795188615,
+   "last_ok": 1795188913,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3201,6 +3211,7 @@
     "80919054-b40e-4ff9-9a11-e6e21dcf9d98": 1793153108,
     "809879bf-fd34-4b58-a336-c5a92afb393c": 1791846997,
     "80a7e2c3-ed7c-41dc-92a7-85bf12db37f5": 1793228708,
+    "80c2eec1-d0db-47f0-b9ce-67834cfa6455": 1795188913,
     "80c6e6ac-d2b1-4b56-a312-b3ba9150ec5e": 1794355509,
     "80c856e0-3ec4-4026-9444-8ee61d28bf1e": 1791857109,
     "80e937f9-b321-42fa-98f7-8b8e97d42209": 1791846997,
@@ -3580,6 +3591,7 @@
     "ae8f1ba1-981a-4a92-8400-ce447d413343": 1791846997,
     "aeab764d-5a2a-4abf-8dc2-c9aef5a4ec51": 1794267309,
     "aeaf63c9-1187-4be5-b016-70d423a23974": 1794674109,
+    "aebb523a-9619-4c64-9e37-32778713a349": 1795188913,
     "aedd360d-23ce-4970-aa0b-45302887e26f": 1791846997,
     "af0078da-4418-4e04-afb5-17ec87e8381a": 1791846997,
     "af103bac-eb95-46b7-94e6-06439a9bd98c": 1791846997,
@@ -4339,11 +4351,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "7dc7f3c33e95d0bc959fd06ae241fb70349abb57"
+   "sha": "af1792fce1e4faf29474479ce672890aa6076171"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795188615,
+   "last_ok": 1795188913,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
