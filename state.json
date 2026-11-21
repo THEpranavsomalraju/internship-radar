@@ -1,46 +1,6 @@
 {
  "alerts": [
   {
-   "key": "the federal reserve system|statistics intern",
-   "source": "simplify",
-   "ts": 1794009908
-  },
-  {
-   "key": "deeplocal|creative technology intern",
-   "source": "simplify",
-   "ts": 1794009908
-  },
-  {
-   "key": "vizient|intern revenue intelligence revenue intelligence",
-   "source": "simplify",
-   "ts": 1794009908
-  },
-  {
-   "key": "the new york times|backend engineer intern",
-   "source": "simplify",
-   "ts": 1794009908
-  },
-  {
-   "key": "the new york times|android engineer intern",
-   "source": "simplify",
-   "ts": 1794009908
-  },
-  {
-   "key": "the new york times|full stack engineer intern",
-   "source": "simplify",
-   "ts": 1794009908
-  },
-  {
-   "key": "the new york times|ios engineer intern",
-   "source": "simplify",
-   "ts": 1794009908
-  },
-  {
-   "key": "the new york times|frontend engineer intern",
-   "source": "simplify",
-   "ts": 1794009908
-  },
-  {
    "key": "great american insurance company|claims technical intern",
    "source": "simplify",
    "ts": 1794011709
@@ -1882,12 +1842,10 @@
   }
  ],
  "last_heartbeat": "2026-11-20",
- "last_run": 1795219218,
+ "last_run": 1795219510,
  "push_count": 38,
  "push_day": "2026-11-20",
  "runs": [
-  1795132818,
-  1795133107,
   1795133409,
   1795133711,
   1795134008,
@@ -2177,13 +2135,14 @@
   1795218311,
   1795218611,
   1795218910,
-  1795219218
+  1795219218,
+  1795219510
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795216814,
-   "last_ok": 1795219218,
+   "last_ok": 1795219510,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2201,7 +2160,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795219218,
+   "last_ok": 1795219510,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2219,7 +2178,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795219218,
+   "last_ok": 1795219510,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2242,7 +2201,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795219218,
+   "last_ok": 1795219510,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4493,11 +4452,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "4ee4abbdead9a20bede12ac8c037ffdb83561767"
+   "sha": "ded013929bc2bd9bc5aa46bd72e00eecf0a61b15"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795219218,
+   "last_ok": 1795219510,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
