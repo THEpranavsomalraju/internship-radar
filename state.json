@@ -1,11 +1,6 @@
 {
  "alerts": [
   {
-   "key": "tesla|software engineer intern si reinforcement learning",
-   "source": "simplify",
-   "ts": 1794051308
-  },
-  {
    "key": "sas|technical support intern",
    "source": "sas",
    "ts": 1794057908
@@ -1817,11 +1812,10 @@
   }
  ],
  "last_heartbeat": "2026-11-20",
- "last_run": 1795260614,
+ "last_run": 1795260910,
  "push_count": 0,
  "push_day": "2026-11-21",
  "runs": [
-  1795174215,
   1795174510,
   1795174813,
   1795175111,
@@ -2112,13 +2106,14 @@
   1795259711,
   1795260013,
   1795260311,
-  1795260614
+  1795260614,
+  1795260910
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795260312,
-   "last_ok": 1795260614,
+   "last_ok": 1795260910,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2136,7 +2131,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795260614,
+   "last_ok": 1795260910,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2154,7 +2149,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795260614,
+   "last_ok": 1795260910,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2177,7 +2172,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795260614,
+   "last_ok": 1795260910,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4440,11 +4435,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "6ea00e1a7f9e8b8e3b9c05739b7e09f3507b30a5"
+   "sha": "4efd1278caaa590214ae1013d5a6e2633699adee"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795260614,
+   "last_ok": 1795260910,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
