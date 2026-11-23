@@ -1,66 +1,6 @@
 {
  "alerts": [
   {
-   "key": "biodesix|software development intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "biodesix|data analytics business intelligence intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "biodesix|ai research development intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "art of problem solving|software engineer intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "amazon|software engineer intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "great american insurance company|telematics predictive analytics intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "ryan|application development intern application development",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "7 eleven|data engineer intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "johns hopkins applied physics laboratory|artificial intelligence intern information fusion",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "integration innovation i3|data management intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "fortrea|aiml rapid development studio intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
-   "key": "persona ai|humanoid robotics software intern",
-   "source": "simplify",
-   "ts": 1794267309
-  },
-  {
    "key": "csaa insurance group|advanced analysis intern",
    "source": "simplify",
    "ts": 1794270909
@@ -1759,15 +1699,38 @@
    "key": "lenovo|data analytics ai solutions intern",
    "source": "lenovo",
    "ts": 1795459512
+  },
+  {
+   "key": "lifeway|internship business intelligence",
+   "source": "simplify",
+   "ts": 1795476911
+  },
+  {
+   "key": "lifeway|software engineer intern full stack back end",
+   "source": "simplify",
+   "ts": 1795476911
+  },
+  {
+   "key": "lifeway|front end engineer intern",
+   "source": "simplify",
+   "ts": 1795476911
+  },
+  {
+   "key": "amazon|software development engineer intern artificial general intelligence",
+   "source": "simplify",
+   "ts": 1795476911
+  },
+  {
+   "key": "cornerstone partners|ai and automation intern",
+   "source": "simplify",
+   "ts": 1795476911
   }
  ],
  "last_heartbeat": "2026-11-23",
- "last_run": 1795476614,
- "push_count": 8,
+ "last_run": 1795476911,
+ "push_count": 13,
  "push_day": "2026-11-23",
  "runs": [
-  1795390214,
-  1795390510,
   1795390812,
   1795391112,
   1795391412,
@@ -2055,13 +2018,14 @@
   1795475712,
   1795476012,
   1795476311,
-  1795476614
+  1795476614,
+  1795476911
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795456512,
-   "last_ok": 1795476614,
+   "last_ok": 1795476911,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2081,7 +2045,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795476614,
+   "last_ok": 1795476911,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2099,7 +2063,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795476614,
+   "last_ok": 1795476911,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2123,7 +2087,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795476614,
+   "last_ok": 1795476911,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2408,6 +2372,7 @@
     "21c86ca5-1325-4405-906c-b0752356bf86": 1791846997,
     "21e88e05-60ca-43a9-a5d8-cb87a20fd268": 1791846997,
     "21f70fe2-fdef-49f7-a4f9-b5dd331e3acd": 1791846997,
+    "225c690b-8396-44d6-946a-9df808bff1e7": 1795476911,
     "229eef02-3f6a-438c-8418-e238047cac56": 1791846997,
     "22c498d3-8378-49bf-8181-93668696961d": 1791846997,
     "22d244c4-56e5-4139-a741-e4cdcc0d8842": 1791846997,
@@ -2572,6 +2537,7 @@
     "36e1c66a-1cae-4b36-b414-d74b38a44a7f": 1791846997,
     "36f067d2-5ba6-440a-9dcf-1e2fd5f4ba50": 1793142308,
     "371c8592-d416-40cf-88fb-3f95ac049ad3": 1791846997,
+    "371f3fc2-df75-4478-a3c1-902ce972609f": 1795476911,
     "374818f1-99ab-4a9d-a418-e947a86cc7a0": 1791846997,
     "3775de5d-9a03-4c19-b11c-c719087bcf25": 1794969308,
     "3776b303-0849-4822-8f8b-efd9d1b813dc": 1794557107,
@@ -3556,6 +3522,7 @@
     "a6bd5c4e-4a73-4fd6-834b-7dd15f929806": 1795221311,
     "a6d1ed14-ec30-404a-88c2-2d7d1ab83a77": 1793662508,
     "a6d458af-c99e-4109-a0f2-8231e3b60c9d": 1792593308,
+    "a6e7484a-77b3-4267-ac3d-8200ef4a75c1": 1795476911,
     "a6f02442-de0a-454f-a56f-8462c72d7c74": 1791846997,
     "a71102ca-4c4d-4bc3-8084-fcf5d09cf645": 1791846997,
     "a75a8632-28d8-4ce0-827f-c75ecb99f4c9": 1792539309,
@@ -3703,6 +3670,7 @@
     "b5be1176-4a77-4aa0-a229-cb9959886d0a": 1791846997,
     "b5c5b115-3401-43ce-ac29-ea46e184089f": 1795275309,
     "b5d2c671-2d7d-4a2a-9ecb-c337c83d591c": 1791846997,
+    "b5da85e0-f6ac-4b3c-965a-7f736c578129": 1795476911,
     "b639bba8-cb2b-4262-9125-9b56aeefa4cb": 1791846997,
     "b6428bbb-bf53-4e9c-8121-3217159bb9b6": 1791846997,
     "b64d919f-170b-4ad3-aabb-30b23dc31666": 1793239509,
@@ -3805,6 +3773,7 @@
     "bf4a4705-55c7-4d3d-8696-12a63e66879a": 1791846997,
     "bf4ff037-a559-4845-9678-eb93cb17a890": 1791846997,
     "bf6dc064-bc55-48a6-8d17-7fabcfc86bef": 1791846997,
+    "bf7be755-266e-4016-ad50-096a56afdd42": 1795476911,
     "bf8068f6-2266-41e3-a2e7-a16e3f7bc6dc": 1793871314,
     "bfbf3ca8-38df-48d8-9039-e1b886870dca": 1793066708,
     "bfc7d59a-2729-48fa-8c25-a3278920ef67": 1791846997,
@@ -4301,6 +4270,7 @@
     "f49b4766-f352-4e81-9cb2-0f42fb9fd101": 1791846997,
     "f4db16dc-9fd7-499a-b809-554855fcb08f": 1791846997,
     "f4dc97f0-baca-420e-a5eb-96d5e9625bf3": 1793228708,
+    "f4ef9827-4f9e-4b9b-8359-e2c86ae192c9": 1795476911,
     "f4efdf50-f493-45be-a118-8178438f8958": 1792798508,
     "f4f35bed-74e7-4e07-a1ef-07c8f4fbf615": 1793432108,
     "f5113035-5f0f-4f0c-970b-772d643acbf6": 1793748908,
@@ -4404,11 +4374,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "26da35a5b8488f53e9ee7ce01b7378e96057089b"
+   "sha": "e5dee3d31b8e98da8fb42ffadd7944528b3cb9dd"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795476614,
+   "last_ok": 1795476911,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
