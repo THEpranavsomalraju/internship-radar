@@ -1,91 +1,6 @@
 {
  "alerts": [
   {
-   "key": "varda|site reliability internship",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "allied consultants|power platform admin developer intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "bosch|motorsport software and data analytics graduate intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "datarobot|software design engineer intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "hitachi|full stack developer intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "match group|ios engineer intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "match group|android engineer intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "match group|backend engineer intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "notion|software engineering intern frontend",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "notion|software engineering intern ios",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "samsara|software engineering internship san francisco",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "the new york times|full stack engineering intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "the new york times|backend engineering intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "the new york times|android engineering intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "the new york times|frontend engineering intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "the new york times|ios engineering intern",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
-   "key": "t mobile|software engineer hr data products internship",
-   "source": "speedyapply",
-   "ts": 1794262210
-  },
-  {
    "key": "biodesix|software development intern",
    "source": "simplify",
    "ts": 1794267309
@@ -1847,7 +1762,7 @@
   }
  ],
  "last_heartbeat": "2026-11-23",
- "last_run": 1795471510,
+ "last_run": 1795471812,
  "push_count": 8,
  "push_day": "2026-11-23",
  "runs": [
@@ -2140,13 +2055,14 @@
   1795470614,
   1795470909,
   1795471217,
-  1795471510
+  1795471510,
+  1795471812
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795456512,
-   "last_ok": 1795471510,
+   "last_ok": 1795471812,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2166,7 +2082,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795471510,
+   "last_ok": 1795471812,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2184,7 +2100,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795471510,
+   "last_ok": 1795471812,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2208,7 +2124,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795471510,
+   "last_ok": 1795471812,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4493,7 +4409,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795471510,
+   "last_ok": 1795471812,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
