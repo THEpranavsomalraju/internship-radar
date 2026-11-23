@@ -1819,14 +1819,28 @@
    "key": "benchling|software engineer intern",
    "source": "simplify",
    "ts": 1795449911
+  },
+  {
+   "key": "playfly sports|research insights intern",
+   "source": "simplify",
+   "ts": 1795451721
+  },
+  {
+   "key": "apex analytix|software engineer intern platform tooling",
+   "source": "simplify",
+   "ts": 1795451721
+  },
+  {
+   "key": "stantec|data scientist intern water",
+   "source": "simplify",
+   "ts": 1795451721
   }
  ],
  "last_heartbeat": "2026-11-23",
- "last_run": 1795451416,
- "push_count": 3,
+ "last_run": 1795451721,
+ "push_count": 6,
  "push_day": "2026-11-23",
  "runs": [
-  1795365310,
   1795365614,
   1795365911,
   1795366219,
@@ -2116,13 +2130,14 @@
   1795450512,
   1795450813,
   1795451117,
-  1795451416
+  1795451416,
+  1795451721
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795434912,
-   "last_ok": 1795451416,
+   "last_ok": 1795451721,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2140,7 +2155,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795451416,
+   "last_ok": 1795451721,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2158,7 +2173,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795451416,
+   "last_ok": 1795451721,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2182,7 +2197,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795451416,
+   "last_ok": 1795451721,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2743,6 +2758,7 @@
     "44534005-1a4b-4053-b1f5-4569f5b355ce": 1791846997,
     "445f9e1d-29ba-4695-b3b0-60111cfbd03b": 1791846997,
     "44631389-4603-4cbc-bb24-596433854282": 1791846997,
+    "44661bd9-b43c-446d-a232-8a1d4bd6d3c6": 1795451721,
     "449e7a2b-969a-4ba0-9cdd-34a30c283b96": 1793066708,
     "44a036f1-8b46-4596-939b-e10b3f0e8761": 1793343909,
     "44c023e1-517d-40b7-8441-9b2c99ca6b4d": 1792449309,
@@ -3467,6 +3483,7 @@
     "9388e6b1-f360-486e-b324-4bde10bf52a9": 1791846997,
     "938e1389-c62c-4512-aecc-c83536e5bea9": 1791846997,
     "93b4a798-697c-42d2-a104-cda1bb152b83": 1791846997,
+    "93b72ea9-618d-4090-9692-e453b229d3a9": 1795451721,
     "93d22972-eeaf-42f9-a5b5-5c07e813b18b": 1794911708,
     "93fa34ac-b6d0-4b02-87d8-5c14b2deb4a9": 1791846997,
     "94015ee8-32d2-4ad0-8394-3cb30e464aaa": 1791846997,
@@ -3597,6 +3614,7 @@
     "a57d347e-4ce0-4590-bf80-9368dd106660": 1791846997,
     "a58125b0-2c66-4d05-ad80-42c3a6df7526": 1791846997,
     "a5a56d2e-e396-48fb-a44e-ddd1461cf086": 1791846997,
+    "a5b1e709-3c40-4f69-9d26-a662fedb49e8": 1795451721,
     "a5f886cf-d5b6-41ac-9bfc-98833aff9bb6": 1791846997,
     "a6139842-69ee-4037-954f-1e2df0a8a6d4": 1791846997,
     "a619c6de-ef67-4039-af21-31cf505b8ee2": 1791846997,
@@ -4460,11 +4478,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "dc70cbd7d72aa051dd51a5be294bbad60c28ee55"
+   "sha": "76f0c30390a1d7e9804b6264916c28ba345b0729"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795451416,
+   "last_ok": 1795451721,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
