@@ -1834,14 +1834,18 @@
    "key": "stantec|data scientist intern water",
    "source": "simplify",
    "ts": 1795451721
+  },
+  {
+   "key": "lenovo|customer quality engineering intern",
+   "source": "lenovo",
+   "ts": 1795458913
   }
  ],
  "last_heartbeat": "2026-11-23",
- "last_run": 1795458616,
- "push_count": 6,
+ "last_run": 1795458913,
+ "push_count": 7,
  "push_day": "2026-11-23",
  "runs": [
-  1795372510,
   1795372813,
   1795373111,
   1795373411,
@@ -2130,13 +2134,14 @@
   1795457714,
   1795458012,
   1795458311,
-  1795458616
+  1795458616,
+  1795458913
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795456512,
-   "last_ok": 1795458616,
+   "last_ok": 1795458913,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2149,12 +2154,13 @@
     "83117": 1793028309,
     "83337": 1793283427,
     "83534": 1794335709,
-    "84019": 1794582309
+    "84019": 1794582309,
+    "84134": 1795458913
    }
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795458616,
+   "last_ok": 1795458913,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2172,7 +2178,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795458616,
+   "last_ok": 1795458913,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2196,7 +2202,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795458616,
+   "last_ok": 1795458913,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4477,11 +4483,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "ef381e10e7c88a1744f0c191bb936adf1dfa351c"
+   "sha": "e14e0b963ef184d6651c4d44b1cd60dc4c6c0342"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795458616,
+   "last_ok": 1795458913,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
