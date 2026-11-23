@@ -1829,11 +1829,16 @@
    "key": "draper|operational analysis intern",
    "source": "simplify",
    "ts": 1795390510
+  },
+  {
+   "key": "first resonance|software engineer intern platform",
+   "source": "simplify",
+   "ts": 1795421110
   }
  ],
  "last_heartbeat": "2026-11-22",
- "last_run": 1795420819,
- "push_count": 0,
+ "last_run": 1795421110,
+ "push_count": 1,
  "push_day": "2026-11-23",
  "runs": [
   1795334710,
@@ -2126,13 +2131,14 @@
   1795419910,
   1795420213,
   1795420516,
-  1795420819
+  1795420819,
+  1795421110
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795413017,
-   "last_ok": 1795420819,
+   "last_ok": 1795421110,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2150,7 +2156,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795420819,
+   "last_ok": 1795421110,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2168,7 +2174,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795420819,
+   "last_ok": 1795421110,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2192,7 +2198,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795420819,
+   "last_ok": 1795421110,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3512,6 +3518,7 @@
     "988292e2-9865-480d-8599-0279ef142eb3": 1794306909,
     "98858d6b-d3a1-44ea-8530-178912a4e6dc": 1791846997,
     "98921a30-96ec-4b77-b16f-55d21867f42f": 1793142308,
+    "9894da93-252f-4667-9ffe-fea0d126c96b": 1795421110,
     "9899cc5e-cd33-4e2f-bb15-2a840111ad55": 1795133107,
     "989d5de4-7861-4fd9-83e3-58b9395fdd59": 1792710308,
     "98ba4abf-1726-45e5-a03c-c711dfb81c84": 1791846997,
@@ -4468,11 +4475,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "bee4b9820cd6b06760a9c57a496eb43c4ecb3ebb"
+   "sha": "c5963c3123fb2d2cd5571cc6e93f89801c0df226"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795420819,
+   "last_ok": 1795421110,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
