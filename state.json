@@ -1,91 +1,6 @@
 {
  "alerts": [
   {
-   "key": "csaa insurance group|advanced analysis intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "radiance technologies|software engineer intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "the new york times|data analyst intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "the new york times|machine learning scientist intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "j m smucker|finance technology intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "general dynamics mission systems|software engineer intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "uipath|software engineer intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "scout motors|digital products intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "highmark health|reporting and analytics undergraduate intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "vizient|data management intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "dreamworks animation|software engineer intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "dreamworks animation|digital transformation ar vr intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "dreamworks animation|studio operations data analytics intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "dreamworks animation|media tech data ai machine learning intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "dreamworks animation|media tech product engineering intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "dreamworks animation|advertising partnerships data science intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
-   "key": "paccar|greenhouse gas data analyst intern",
-   "source": "simplify",
-   "ts": 1794270909
-  },
-  {
    "key": "general dynamics mission systems|ontology data analysis and validation intern",
    "source": "simplify",
    "ts": 1794278108
@@ -1792,12 +1707,10 @@
   }
  ],
  "last_heartbeat": "2026-11-23",
- "last_run": 1795480214,
+ "last_run": 1795480511,
  "push_count": 26,
  "push_day": "2026-11-23",
  "runs": [
-  1795393814,
-  1795394110,
   1795394413,
   1795394711,
   1795395012,
@@ -2086,13 +1999,14 @@
   1795479393,
   1795479613,
   1795479910,
-  1795480214
+  1795480214,
+  1795480511
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795478118,
-   "last_ok": 1795480214,
+   "last_ok": 1795480511,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2112,7 +2026,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795480214,
+   "last_ok": 1795480511,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2130,7 +2044,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795480214,
+   "last_ok": 1795480511,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2154,7 +2068,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795480214,
+   "last_ok": 1795480511,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2406,6 +2320,7 @@
     "1ea499cb-d2f3-472f-986f-bf425b1a45c5": 1794270909,
     "1ea4c927-ae9b-4c03-a0ae-cb2af5e5a8cb": 1791846997,
     "1ec2496b-4201-4388-920c-918002942b70": 1791846997,
+    "1ed4dcbd-dc04-4740-93c7-3f5a4478d760": 1795480511,
     "1ee79857-d633-45a7-8e77-d969ec16837d": 1791846997,
     "1ef1101e-e7ee-4594-ac30-7f014265d763": 1794499509,
     "1f084ca4-0b4b-41c7-a004-ffa649ae554a": 1791846997,
@@ -2929,6 +2844,7 @@
     "5a520635-ec7f-4867-add0-a06b434d8203": 1791846997,
     "5a6710d9-eb37-4044-b352-2b23303dd73c": 1793190909,
     "5acb5ba5-b61d-4432-922b-9dea91c7815d": 1791846997,
+    "5adba604-3ce4-40d7-82ce-ffed95ed3ef1": 1795480511,
     "5af13882-4022-4a51-8828-29a2ff89a39c": 1791846997,
     "5b1d76c6-a7ec-4033-afed-6f676bf2129a": 1792573508,
     "5b1eb0f8-7bed-43e1-8273-c4c58b2eca9e": 1791846997,
@@ -3030,6 +2946,7 @@
     "660c8cf6-3acf-4729-a74a-18a72115dfa5": 1791846997,
     "665e2669-0a2a-4e07-9859-73f9f3e9b83d": 1791846997,
     "666cecc4-d856-4a1b-9594-9e715d560387": 1794319509,
+    "6678365d-b71e-422c-99d3-6c158aae7a49": 1795480511,
     "6682ab3e-72f8-49a9-928c-220d51a81e0d": 1791846997,
     "669e846d-6122-44e9-a9d6-d58d25ce61f0": 1794011709,
     "669faba3-4676-4476-a559-f0a0713b57e2": 1793921709,
@@ -3265,6 +3182,7 @@
     "8005e595-614b-4b9a-9c29-cb113c52566a": 1793027109,
     "800e06ea-4a8a-4db5-a93a-7aae82cfac49": 1791846997,
     "8028ea71-392c-4173-9d2a-1dc31c5a4571": 1791846997,
+    "80590ce8-e65c-44a9-907c-6a3ed264022d": 1795480511,
     "808f7430-55f6-4daa-9c66-727dc6615eee": 1791846997,
     "80919054-b40e-4ff9-9a11-e6e21dcf9d98": 1793153108,
     "809879bf-fd34-4b58-a336-c5a92afb393c": 1791846997,
@@ -3803,6 +3721,7 @@
     "bafe3732-d178-4e2d-bf6c-1ddf689474fe": 1791846997,
     "bb1a4a31-3d4f-474b-8718-fca0e46439d1": 1791846997,
     "bb2f8b27-d8ac-4010-844d-cd271e47879e": 1791846997,
+    "bb5c00e9-57e3-48fd-8113-a2d429c4d05c": 1795480511,
     "bb6a3336-da15-4b50-b989-9e84766d0e86": 1791846997,
     "bb8a4664-4f0f-425c-bdb0-8c200228a024": 1791846997,
     "bbcefb4a-0e25-4e07-9eaa-7154fda7db95": 1791846997,
@@ -4445,11 +4364,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "2cce1eaf6d2f7320473ad0a6cb0483264f7f6c3d"
+   "sha": "c746ca3370000091a1498b167c1f6a537db22d16"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795480214,
+   "last_ok": 1795480511,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
