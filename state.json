@@ -1769,14 +1769,33 @@
    "key": "zoll|software automation intern",
    "source": "speedyapply",
    "ts": 1795477512
+  },
+  {
+   "key": "shield ai|software engineering intern",
+   "source": "simplify",
+   "ts": 1795478711
+  },
+  {
+   "key": "culver s|business analytics intern",
+   "source": "simplify",
+   "ts": 1795478711
+  },
+  {
+   "key": "noblis|data innovations intern",
+   "source": "simplify",
+   "ts": 1795478711
+  },
+  {
+   "key": "illinois tool works|software or computer engineer intern",
+   "source": "simplify",
+   "ts": 1795478711
   }
  ],
  "last_heartbeat": "2026-11-23",
- "last_run": 1795478418,
- "push_count": 22,
+ "last_run": 1795478711,
+ "push_count": 26,
  "push_day": "2026-11-23",
  "runs": [
-  1795392310,
   1795392621,
   1795392915,
   1795393211,
@@ -2064,13 +2083,14 @@
   1795477512,
   1795477812,
   1795478117,
-  1795478418
+  1795478418,
+  1795478711
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795478118,
-   "last_ok": 1795478418,
+   "last_ok": 1795478711,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2090,7 +2110,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795478418,
+   "last_ok": 1795478711,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2108,7 +2128,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795478418,
+   "last_ok": 1795478711,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2132,7 +2152,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795478418,
+   "last_ok": 1795478711,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -3427,6 +3447,7 @@
     "9424072c-485e-43c4-91e8-4f124356a286": 1791846997,
     "947ecf5c-75d7-40ab-9352-13a2b8e00ce5": 1793316908,
     "9498d145-8f1f-456a-9bf8-bba9eb7f316d": 1793140508,
+    "94a72a59-20ae-4fcc-a654-f08453eb1a00": 1795478711,
     "94b01cac-fcb0-4724-8377-0f5ba298e9b8": 1791846997,
     "94de9c2f-79c0-484e-a4c4-f930292172f8": 1791846997,
     "9511f77b-8a3f-49b1-b411-bee7198a96c1": 1793432108,
@@ -3550,6 +3571,7 @@
     "a56c3be4-35d8-45ca-a8f7-c98206f9e105": 1793286310,
     "a57d347e-4ce0-4590-bf80-9368dd106660": 1791846997,
     "a58125b0-2c66-4d05-ad80-42c3a6df7526": 1791846997,
+    "a59dace8-5aed-4def-bb71-8aca612be915": 1795478711,
     "a5a56d2e-e396-48fb-a44e-ddd1461cf086": 1791846997,
     "a5b1e709-3c40-4f69-9d26-a662fedb49e8": 1795451721,
     "a5f886cf-d5b6-41ac-9bfc-98833aff9bb6": 1791846997,
@@ -3966,6 +3988,7 @@
     "ce71deaf-609d-4056-a87f-79161320e181": 1792757109,
     "ce81bab2-f54c-4774-92ac-b82f7b0c9eb3": 1793847908,
     "ce8c7adb-0ba0-4fdd-b6e8-4832a9f1043d": 1793441107,
+    "cea3cf41-7e95-4fed-a73b-125fa23ce04c": 1795478711,
     "cebe2404-0f14-43f7-a80e-93b201cd0441": 1792163109,
     "cee814d5-6814-4bea-b567-0b0b7460e127": 1791846997,
     "cef4c60b-0a55-4305-94cf-d725b8c66ad2": 1791846997,
@@ -4275,6 +4298,7 @@
     "f00e8399-0777-4e56-b2cb-0fd0631a0655": 1791846997,
     "f011fb5a-1c6a-4bd5-b057-c3c730ee16ce": 1794267309,
     "f01e3a70-35d6-473f-823e-f919c1052b42": 1791846997,
+    "f01f8423-8219-4906-b1ce-6506e4b2e32d": 1795478711,
     "f0290968-f103-48af-89e4-6c57d1500413": 1791846997,
     "f04054a0-44e5-4124-8d75-b21d9ccaed4b": 1792019108,
     "f059bcac-24f2-41a0-981e-d2d3df6ed71d": 1791846997,
@@ -4419,11 +4443,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "e5dee3d31b8e98da8fb42ffadd7944528b3cb9dd"
+   "sha": "2cce1eaf6d2f7320473ad0a6cb0483264f7f6c3d"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795478418,
+   "last_ok": 1795478711,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
