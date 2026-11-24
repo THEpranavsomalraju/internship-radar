@@ -1,66 +1,6 @@
 {
  "alerts": [
   {
-   "key": "persona ai|humanoid robotics software internship",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "pivotal|internship software engineering",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "regent|mission software engineering intern",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "art of problem solving|software engineering intern",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "cisco|software engineer full stack backend i intern united states",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "formfactor|software engineer intern",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "general dynamics mission systems|full stack software engineering intern",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "hypertherm associates|graduate intern software security",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "nbcuniversal|software engineering internships",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "northrop grumman|software testing engineering intern apopka fl",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "raytheon|software engineering intern e2d in 1",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
-   "key": "trimble|software engineer intern",
-   "source": "speedyapply",
-   "ts": 1794339308
-  },
-  {
    "key": "entegris|filtration portfolio automation intern",
    "source": "simplify",
    "ts": 1794355509
@@ -1672,11 +1612,10 @@
   }
  ],
  "last_heartbeat": "2026-11-24",
- "last_run": 1795548616,
+ "last_run": 1795548911,
  "push_count": 4,
  "push_day": "2026-11-24",
  "runs": [
-  1795462218,
   1795462512,
   1795462813,
   1795463112,
@@ -1966,13 +1905,14 @@
   1795547713,
   1795548014,
   1795548311,
-  1795548616
+  1795548616,
+  1795548911
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795543228,
-   "last_ok": 1795548616,
+   "last_ok": 1795548911,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1993,7 +1933,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795548616,
+   "last_ok": 1795548911,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2011,7 +1951,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795548616,
+   "last_ok": 1795548911,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2035,7 +1975,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795548616,
+   "last_ok": 1795548911,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4351,11 +4291,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "c160f7f912b985c5171f12571a4e4d7fee02d2d8"
+   "sha": "b232c6b55ea82d30133559d7323b86237aa2bbab"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795548616,
+   "last_ok": 1795548911,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
