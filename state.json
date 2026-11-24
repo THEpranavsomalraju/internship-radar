@@ -1,31 +1,6 @@
 {
  "alerts": [
   {
-   "key": "dp world|ai analytics intern talent management",
-   "source": "simplify",
-   "ts": 1794326709
-  },
-  {
-   "key": "royal bank of canada|capital markets quant associate intern quantitative technology services",
-   "source": "simplify",
-   "ts": 1794326709
-  },
-  {
-   "key": "t mobile|software engineer intern t ads",
-   "source": "simplify",
-   "ts": 1794326709
-  },
-  {
-   "key": "nvidia|ai operations intern ai clouds",
-   "source": "simplify",
-   "ts": 1794326709
-  },
-  {
-   "key": "t mobile|business analytics reporting intern",
-   "source": "simplify",
-   "ts": 1794326709
-  },
-  {
    "key": "lenovo|gpu cluster engineer intern",
    "source": "lenovo",
    "ts": 1794335709
@@ -1702,12 +1677,10 @@
   }
  ],
  "last_heartbeat": "2026-11-24",
- "last_run": 1795536018,
+ "last_run": 1795536312,
  "push_count": 2,
  "push_day": "2026-11-24",
  "runs": [
-  1795449619,
-  1795449911,
   1795450213,
   1795450512,
   1795450813,
@@ -1996,13 +1969,14 @@
   1795535113,
   1795535413,
   1795535715,
-  1795536018
+  1795536018,
+  1795536312
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795521623,
-   "last_ok": 1795536018,
+   "last_ok": 1795536312,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2022,7 +1996,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795536018,
+   "last_ok": 1795536312,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2040,7 +2014,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795536018,
+   "last_ok": 1795536312,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2064,7 +2038,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795536018,
+   "last_ok": 1795536312,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4379,11 +4353,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "6d1f3b1def066b19bb85d9d292aef031fe34dd26"
+   "sha": "48a2f69f85c06c6220625ec11aa2ff38690ff980"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795536018,
+   "last_ok": 1795536312,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
