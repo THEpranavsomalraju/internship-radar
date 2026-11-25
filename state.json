@@ -1,101 +1,6 @@
 {
  "alerts": [
   {
-   "key": "entegris|filtration portfolio automation intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "mcdonald s|software development engineer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "addepar|software engineer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "addepar|ai engineer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "mcdonald s|software engineer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "addepar|data engineer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "globalfoundries|systems engineer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "general motors|software engineer intern machine learning engineer embodied ai",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "eversource energy|gis intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "vizient|spend management insights intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "skydio|middleware software engineer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "echo global logistics|software engineer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "dwyeromega|applied ai intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "jmp statistical discovery|c software development intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "general dynamics information technology|ai ml business intelligence development intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "rambus|product engineer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "art of problem solving|data science intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "international|artificial intelligence machine learning intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
-   "key": "hunt oil company|application developer intern",
-   "source": "simplify",
-   "ts": 1794355509
-  },
-  {
    "key": "tesla|software developer intern it apps",
    "source": "simplify",
    "ts": 1794366213
@@ -1714,14 +1619,23 @@
    "key": "zoll|software engineering intern",
    "source": "speedyapply",
    "ts": 1795558511
+  },
+  {
+   "key": "wsp|geographic information systems science intern",
+   "source": "simplify",
+   "ts": 1795565111
+  },
+  {
+   "key": "amazon|front end engineer intern",
+   "source": "simplify",
+   "ts": 1795565111
   }
  ],
  "last_heartbeat": "2026-11-24",
- "last_run": 1795564817,
- "push_count": 15,
+ "last_run": 1795565111,
+ "push_count": 17,
  "push_day": "2026-11-24",
  "runs": [
-  1795478418,
   1795478711,
   1795479012,
   1795479311,
@@ -2012,13 +1926,14 @@
   1795563913,
   1795564215,
   1795564511,
-  1795564817
+  1795564817,
+  1795565111
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
-   "last_full": 1795543228,
-   "last_ok": 1795564817,
+   "last_full": 1795565112,
+   "last_ok": 1795565111,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -2039,7 +1954,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795564817,
+   "last_ok": 1795565111,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2057,7 +1972,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795564817,
+   "last_ok": 1795565111,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2081,7 +1996,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795564817,
+   "last_ok": 1795565111,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2228,6 +2143,7 @@
     "11ad9fbb-3fd5-4920-b98e-ebc7d40f3294": 1791846997,
     "11bca8ee-75aa-40f1-b539-6f28ff39106d": 1793140508,
     "11d3d160-862a-4d48-9f6c-fc735d0c1383": 1791846997,
+    "11f4ffec-8602-40ac-b28a-7e926f238340": 1795565111,
     "11f69ae2-522e-4819-8898-d55df90e6226": 1794960308,
     "123eb7fc-8532-4e54-b47f-9118727344d0": 1791846997,
     "1253e2b5-8a22-4c0e-bcd9-e44d32ecfc90": 1791846997,
@@ -4055,6 +3971,7 @@
     "da999960-efdd-44de-9632-cb4db8868203": 1794326709,
     "dab6f443-d39a-4bca-acad-451c8b347549": 1791846997,
     "dac9ed6b-56bc-46cd-9df0-a15db5581717": 1793867708,
+    "dae50b6f-3c3c-4e59-bfb9-a823062c400b": 1795565111,
     "db1e4fb4-a7e7-4c57-ae1c-7ffdab053208": 1791846997,
     "db3236dd-b511-42c0-8fb7-2cc562c92c0f": 1792191908,
     "db405cf7-9ded-4c4b-9cf2-4121ce1a9ee0": 1795217710,
@@ -4397,11 +4314,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "d518c077c46b8fc67763794b1df6f0c92683b766"
+   "sha": "07b21643579a414e36cf040eef5c65189a80bd2d"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795564817,
+   "last_ok": 1795565111,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
