@@ -1629,11 +1629,21 @@
    "key": "amazon|front end engineer intern",
    "source": "simplify",
    "ts": 1795565111
+  },
+  {
+   "key": "johns hopkins applied physics laboratory|artificial intelligence and complex systems intern",
+   "source": "simplify",
+   "ts": 1795566911
+  },
+  {
+   "key": "medpace|clinical intelligence intern",
+   "source": "simplify",
+   "ts": 1795566911
   }
  ],
  "last_heartbeat": "2026-11-24",
- "last_run": 1795566615,
- "push_count": 17,
+ "last_run": 1795566911,
+ "push_count": 19,
  "push_day": "2026-11-24",
  "runs": [
   1795480511,
@@ -1925,13 +1935,14 @@
   1795565717,
   1795566017,
   1795566312,
-  1795566615
+  1795566615,
+  1795566911
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795565112,
-   "last_ok": 1795566615,
+   "last_ok": 1795566911,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1952,7 +1963,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795566615,
+   "last_ok": 1795566911,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1970,7 +1981,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795566615,
+   "last_ok": 1795566911,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -1994,7 +2005,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795566615,
+   "last_ok": 1795566911,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2383,6 +2394,7 @@
     "2f4d691e-c368-4b0b-a6ca-641b6441ab48": 1791846997,
     "2f66f3c8-4ff6-4ae9-a40e-ab8552e65340": 1791846997,
     "2f96e3d6-e7b7-4c8f-ac5d-832fdca16735": 1793806509,
+    "2fac82c2-bc73-4de9-bf75-0ff5935d9b47": 1795566911,
     "2fb8aa8a-8920-42b2-9a24-167f54d6cc81": 1791846997,
     "2ffedaf1-5e57-4490-b50b-d2db5c9c049c": 1791846997,
     "302d7a14-d6ef-4887-b2e6-ece00d5ae71a": 1791846997,
@@ -3610,6 +3622,7 @@
     "b6b0bc09-5fc8-4d8e-ad3f-ffdd70e0315e": 1791846997,
     "b6b193dc-5974-4336-a73b-253af3ceaec2": 1793054108,
     "b6c102ff-263e-4702-96a9-65f26a42bb79": 1793867708,
+    "b6fb4775-b029-410e-8d24-d84afb8fb694": 1795566911,
     "b71e17fa-8cfc-4470-998c-563ade508ae9": 1791846997,
     "b730a995-0701-41d5-84f5-aa52b4735693": 1795521911,
     "b7311fa1-4180-4d5a-8ce3-29a7c2703ea1": 1791846997,
@@ -3839,6 +3852,7 @@
     "cc8ac2c6-0874-480d-89fe-1ba79e6af0d9": 1791846997,
     "cca92450-5ead-4d71-8d7f-084c27b9d1f9": 1791846997,
     "cca94bc1-ca14-4a30-b4a1-7484452d46f6": 1791846997,
+    "ccee3e39-6a88-4c3c-b913-c7af244fc90c": 1795566911,
     "cd04939e-41ff-4433-9c3d-b29cd8035646": 1794969308,
     "cd15449d-c9fd-433c-ae5d-6a4212b9bc23": 1791846997,
     "cd25d440-052a-4851-9715-cd9f0d4cc849": 1791846997,
@@ -4312,11 +4326,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "07b21643579a414e36cf040eef5c65189a80bd2d"
+   "sha": "e61c9fd0db4de88fd0f359f1ecc253fbd0e672ea"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795566615,
+   "last_ok": 1795566911,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
