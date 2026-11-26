@@ -1,11 +1,6 @@
 {
  "alerts": [
   {
-   "key": "microsoft|data scientist intern coreai",
-   "source": "simplify",
-   "ts": 1794481508
-  },
-  {
    "key": "vizient|contract operations intern analytics",
    "source": "simplify",
    "ts": 1794499509
@@ -1582,11 +1577,10 @@
   }
  ],
  "last_heartbeat": "2026-11-25",
- "last_run": 1795690819,
+ "last_run": 1795691109,
  "push_count": 0,
  "push_day": "2026-11-26",
  "runs": [
-  1795604419,
   1795604710,
   1795605016,
   1795605312,
@@ -1870,13 +1864,14 @@
   1795689913,
   1795690212,
   1795690511,
-  1795690819
+  1795690819,
+  1795691109
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795673715,
-   "last_ok": 1795690819,
+   "last_ok": 1795691109,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1897,7 +1892,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795690819,
+   "last_ok": 1795691109,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1916,7 +1911,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795690819,
+   "last_ok": 1795691109,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -1940,7 +1935,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795690819,
+   "last_ok": 1795691109,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4284,11 +4279,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "a7ce2b510cbb994e507be414b6a39b374bcccc3b"
+   "sha": "86271eaec829f49f661b76193848c890fec01339"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795690819,
+   "last_ok": 1795691109,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
