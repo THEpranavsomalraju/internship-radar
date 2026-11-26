@@ -1,46 +1,6 @@
 {
  "alerts": [
   {
-   "key": "state of wisconsin investment board|data analytics engineering intern",
-   "source": "simplify",
-   "ts": 1794441909
-  },
-  {
-   "key": "shield ai|engineer 2 new grad software autonomy capabilities",
-   "source": "simplify",
-   "ts": 1794441909
-  },
-  {
-   "key": "panera bread|data science ai analytics intern",
-   "source": "simplify",
-   "ts": 1794441909
-  },
-  {
-   "key": "genentech|intern digital ai and clinical outcome assessments",
-   "source": "simplify",
-   "ts": 1794441909
-  },
-  {
-   "key": "ptc|creo core geometry intern",
-   "source": "simplify",
-   "ts": 1794441909
-  },
-  {
-   "key": "ptc|creo graphics engineering intern",
-   "source": "simplify",
-   "ts": 1794441909
-  },
-  {
-   "key": "stepstone group|ai quant analyst intern",
-   "source": "simplify",
-   "ts": 1794441909
-  },
-  {
-   "key": "riot games|technical game design intern league of legends and teamfight tactics",
-   "source": "simplify",
-   "ts": 1794441909
-  },
-  {
    "key": "microsoft|data scientist intern coreai",
    "source": "simplify",
    "ts": 1794481508
@@ -1564,15 +1524,33 @@
    "key": "waters|it digital intern",
    "source": "simplify",
    "ts": 1795624510
+  },
+  {
+   "key": "mantech|c developer intern",
+   "source": "simplify",
+   "ts": 1795651515
+  },
+  {
+   "key": "tesla|robotics audio dsp engineer intern",
+   "source": "simplify",
+   "ts": 1795651515
+  },
+  {
+   "key": "wabash valley power alliance|energy efficiency demand response intern",
+   "source": "simplify",
+   "ts": 1795651515
+  },
+  {
+   "key": "cantor fitzgerald|technology intern development",
+   "source": "simplify",
+   "ts": 1795651515
   }
  ],
  "last_heartbeat": "2026-11-25",
- "last_run": 1795651217,
- "push_count": 3,
+ "last_run": 1795651515,
+ "push_count": 7,
  "push_day": "2026-11-25",
  "runs": [
-  1795564817,
-  1795565111,
   1795565412,
   1795565717,
   1795566017,
@@ -1855,13 +1833,14 @@
   1795650311,
   1795650611,
   1795650910,
-  1795651217
+  1795651217,
+  1795651515
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795630214,
-   "last_ok": 1795651217,
+   "last_ok": 1795651515,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1882,7 +1861,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795651217,
+   "last_ok": 1795651515,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1901,7 +1880,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795651217,
+   "last_ok": 1795651515,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -1925,7 +1904,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795651217,
+   "last_ok": 1795651515,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -2793,6 +2772,7 @@
     "63098a1a-6acb-4352-8179-422f3548912f": 1791846997,
     "630f0123-95e1-4012-8c31-54195c80a1e5": 1791846997,
     "631d0528-a176-456e-8072-fb2bd76f4b02": 1791846997,
+    "633a2b03-59e2-4038-9ef8-68cb2b9a15ca": 1795651515,
     "633fde2a-eea3-462a-91b6-f0c8025fba8d": 1791846997,
     "636ac431-7ae3-4201-af3c-92c9811ae889": 1793921709,
     "6372d8e1-142c-4d6e-871a-b4f1c44e6df8": 1791846997,
@@ -3109,6 +3089,7 @@
     "841e2cd6-9fb6-4ffd-adb4-671a6b81ade2": 1791846997,
     "84aad02e-2ac4-4eaf-89fd-3674ae05f75e": 1791846997,
     "84ac8ab7-abcc-40b8-a4f6-f5d5125165dc": 1794366213,
+    "84b43ef9-4cf8-4353-9a11-2577b1557a34": 1795651515,
     "84cc2b26-b1b3-4d2b-b9c5-6358d90c3cf1": 1793239509,
     "85280965-7125-463a-a884-99a9b4d568fb": 1791846997,
     "85296cc2-e177-4e6b-a942-962f6643c9b5": 1793748908,
@@ -3209,6 +3190,7 @@
     "9019bee1-e862-4a98-8ce2-db27dfc5283a": 1791846997,
     "901d71ff-ed64-4848-95e0-094ad0610036": 1791846997,
     "905705a1-d2c7-4fa5-8e63-beef794c9d9c": 1793142308,
+    "907ac2b0-1ba3-4cc3-bce0-e61334c9d123": 1795651515,
     "908892d9-b9e6-4b8c-a336-fc705990330a": 1791846997,
     "90912950-0238-4415-ada4-c22d0cbd6ae8": 1791846997,
     "90978c18-c431-416a-9e39-834cb497bc76": 1792710308,
@@ -3985,6 +3967,7 @@
     "e37213e4-b577-4fe8-8489-091b1ea2837b": 1791846997,
     "e3aecdd8-6f13-40ba-9cff-b81b59d50ff5": 1791846997,
     "e3c16702-69b1-496c-b4a7-13ea33504cfc": 1791846997,
+    "e3e053b8-8e7b-4690-9875-c136637ed047": 1795651515,
     "e3e1417f-9aa4-44e8-8ee8-c075f7d2f7db": 1791846997,
     "e3e929ab-e394-4415-9e80-2b0eba7fbeea": 1794499509,
     "e40ead49-69ad-422a-8008-5929557e27a4": 1795019711,
@@ -4257,11 +4240,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "89c6ae0e3380213f833e11283342200caa3ccfed"
+   "sha": "3008e3cdb248890d1b13aad063b3b8d98561a917"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795651217,
+   "last_ok": 1795651515,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
