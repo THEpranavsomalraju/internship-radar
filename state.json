@@ -1434,11 +1434,16 @@
    "key": "atoms|software engineer intern",
    "source": "simplify",
    "ts": 1795746910
+  },
+  {
+   "key": "lockheed martin|software engineer intern",
+   "source": "speedyapply",
+   "ts": 1795813218
   }
  ],
  "last_heartbeat": "2026-11-27",
- "last_run": 1795812911,
- "push_count": 1,
+ "last_run": 1795813218,
+ "push_count": 2,
  "push_day": "2026-11-27",
  "runs": [
   1795726818,
@@ -1731,13 +1736,14 @@
   1795812016,
   1795812311,
   1795812614,
-  1795812911
+  1795812911,
+  1795813218
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795803615,
-   "last_ok": 1795812911,
+   "last_ok": 1795813218,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1758,7 +1764,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795812911,
+   "last_ok": 1795813218,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1777,7 +1783,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795812911,
+   "last_ok": 1795813218,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -1801,7 +1807,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795812911,
+   "last_ok": 1795813218,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4154,7 +4160,7 @@
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795812911,
+   "last_ok": 1795813218,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
@@ -4222,6 +4228,7 @@
     "https://apply.careers.microsoft.com/careers/job/1970393557044765": 1793039708,
     "https://apply.careers.microsoft.com/careers/job/1970393557044771": 1793039708,
     "https://apply.careers.microsoft.com/careers/job/1970393557054069": 1793908209,
+    "https://apply.careers.microsoft.com/careers/job/1970393557075527": 1795813218,
     "https://apply.workable.com/bask-health-1/j/98DB106D88/": 1794598221,
     "https://apply.workable.com/bask-health-1/j/9C2964C7CD/": 1794598221,
     "https://apply.workable.com/bask-health-1/j/E81C7F7D3B/": 1794598221,
@@ -4255,6 +4262,7 @@
     "https://astrolab.pinpointhq.com/en/postings/a32e9426-2a4e-434e-b7fd-a3fd63b1e005": 1793039708,
     "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125": 1791846997,
     "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395": 1794948310,
+    "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d": 1795813218,
     "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Lawrence-KS/Software-Engineering-Intern_9360": 1794866108,
     "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901": 1791846997,
     "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550": 1791846997,
@@ -4392,6 +4400,8 @@
     "https://careers.nintendo.com/?gh_jid=4473550009": 1793466611,
     "https://careers.nintendo.com/?gh_jid=4473568009": 1793466611,
     "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350821": 1795119610,
+    "https://careers.qualcomm.com/careers/job/446720740529": 1795813218,
+    "https://careers.qualcomm.com/careers/job/446720741668": 1795813218,
     "https://careers.roblox.com/jobs/8072713?gh_jid=8072713": 1791846997,
     "https://careers.withwaymo.com/jobs?gh_jid=8238525": 1791846997,
     "https://careers.withwaymo.com/jobs?gh_jid=8257660": 1791846997,
@@ -5109,6 +5119,11 @@
     "https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982": 1792688415,
     "https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017": 1792688415,
     "https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885": 1793992210,
+    "https://lockheedmartin.eightfold.ai/careers/job/996477984584": 1795813218,
+    "https://lockheedmartin.eightfold.ai/careers/job/996477988823": 1795813218,
+    "https://lockheedmartin.eightfold.ai/careers/job/996477990205": 1795813218,
+    "https://lockheedmartin.eightfold.ai/careers/job/996478048280": 1795813218,
+    "https://lockheedmartin.eightfold.ai/careers/job/996478149210": 1795813218,
     "https://lplfinancial.wd1.myworkdayjobs.com/en-US/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921": 1791918609,
     "https://lthc.wd1.myworkdayjobs.com/en-US/excellusbcbscareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3": 1791846997,
     "https://lthc.wd1.myworkdayjobs.com/en-US/excellusbcbscareers/job/Rochester/College-Intern---Summer-2027---Software-Testing-and-Automation_JR104024-2": 1791846997,
@@ -5420,6 +5435,7 @@
     "https://uscareers-lennox.icims.com/jobs/54891/cloud-advance-admin-developer-intern/job": 1791846997,
     "https://uscareers-medpace.icims.com/jobs/13059/job": 1794425412,
     "https://uscareers-waters.icims.com/jobs/30388/2026-30388/job": 1795728015,
+    "https://uscareers-waters.icims.com/jobs/30388/it-intern---software-development-platform-engineer/job": 1795813218,
     "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersexternal/job/Rosemont-IL/Intern---Software-Engineer--Digital-Commerce--Hybrid--Onsite---Remote-_R282111": 1791846997,
     "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersexternal/job/Rosemont-IL/Intern---Software-Engineer--Legacy-Systems--Hybrid--Onsite---Remote-_R282106": 1791846997,
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794": 1794678907,
@@ -5527,7 +5543,7 @@
     "https://zotecpartners.applytojob.com/apply/EGGe30UqYo/Software-Engineer-Intern": 1794598221,
     "https://zotecpartners.applytojob.com/apply/kZD502wRCY/Software-Engineer-Intern-RCI": 1794598221
    },
-   "sha": "275cc81c0de856fdcdc3f5eeda4e97c08d44cdbb"
+   "sha": "bf80c9f8d69fa8a53ebb4b73745a9dcd1538da85"
   }
  },
  "started": 1791846997
