@@ -1,86 +1,6 @@
 {
  "alerts": [
   {
-   "key": "muon|software engineering intern information systems",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "octant bio|software engineer internship",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "vital lyfe|software engineering internship",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "atalanta|software engineer intern",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "bask|frontend engineering intern",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "leidos|junior software engineer data scientist intern",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "micron technology|intern it software engineer",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "minitab|software quality engineer intern",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "ptc|onshape site reliability engineering intern",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "servicenow|assoc ai engineering cloud security automation intern",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "bask|backend engineering intern",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "bask|software engineering intern",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "motorola solutions|software engineering intern internship",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "rockwell automation|intern software developer engineering",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "zotec partners|software engineer intern",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
-   "key": "zotec partners|software engineer intern rci",
-   "source": "speedyapply",
-   "ts": 1794598221
-  },
-  {
    "key": "netapp|intern product manager",
    "source": "netapp",
    "ts": 1794600309
@@ -1542,12 +1462,10 @@
   }
  ],
  "last_heartbeat": "2026-11-27",
- "last_run": 1795807814,
+ "last_run": 1795808116,
  "push_count": 1,
  "push_day": "2026-11-27",
  "runs": [
-  1795721416,
-  1795721709,
   1795722014,
   1795722313,
   1795722612,
@@ -1837,13 +1755,14 @@
   1795806912,
   1795807212,
   1795807509,
-  1795807814
+  1795807814,
+  1795808116
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795803615,
-   "last_ok": 1795807814,
+   "last_ok": 1795808116,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1864,7 +1783,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795807814,
+   "last_ok": 1795808116,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1883,7 +1802,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795807814,
+   "last_ok": 1795808116,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -1907,7 +1826,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795807814,
+   "last_ok": 1795808116,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4256,11 +4175,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "75d4c2856bfb8c4f4bb5886de89c99d6b2a567d5"
+   "sha": "fad16e4d2f1af32da2cdefb4f4e91191c8d9cffc"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795807814,
+   "last_ok": 1795808116,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
