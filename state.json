@@ -1,66 +1,6 @@
 {
  "alerts": [
   {
-   "key": "t mobile|data product intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "muon space|software engineer intern information systems",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "stratolaunch|business intelligence systems analyst intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "environmental defense fund|consumer energy analytics intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "entegris|data engineering intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "octant bio|software engineering intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "cardinal health|technology intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "caresource|internship program provider analytics ai intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "caresource|software engineer intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "caresource|clinical operations business analyst intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "vital lyfe|software engineer intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
-   "key": "general dynamics mission systems|software systems engineering intern",
-   "source": "simplify",
-   "ts": 1794528308
-  },
-  {
    "key": "costar group|vision learning intern",
    "source": "simplify",
    "ts": 1794537308
@@ -1672,11 +1612,10 @@
   }
  ],
  "last_heartbeat": "2026-11-26",
- "last_run": 1795737616,
+ "last_run": 1795737911,
  "push_count": 12,
  "push_day": "2026-11-26",
  "runs": [
-  1795651217,
   1795651515,
   1795651818,
   1795652112,
@@ -1967,13 +1906,14 @@
   1795736711,
   1795737016,
   1795737310,
-  1795737616
+  1795737616,
+  1795737911
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795717213,
-   "last_ok": 1795737616,
+   "last_ok": 1795737911,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1994,7 +1934,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795737616,
+   "last_ok": 1795737911,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -2013,7 +1953,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795737616,
+   "last_ok": 1795737911,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -2037,7 +1977,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795737616,
+   "last_ok": 1795737911,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4381,11 +4321,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "32e5e4c930632874509150a8cb6941965a864dc0"
+   "sha": "2976877f15963f5d2f3e7f1cdc0a6b47f2043b6c"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795737616,
+   "last_ok": 1795737911,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
