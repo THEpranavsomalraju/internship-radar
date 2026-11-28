@@ -1,46 +1,6 @@
 {
  "alerts": [
   {
-   "key": "vertex pharmaceuticals|data analytics intern osd process data analytics",
-   "source": "simplify",
-   "ts": 1794614708
-  },
-  {
-   "key": "pennsylvania state university|energy savings program intern",
-   "source": "simplify",
-   "ts": 1794614708
-  },
-  {
-   "key": "addepar|product analyst intern",
-   "source": "simplify",
-   "ts": 1794614708
-  },
-  {
-   "key": "horizon3 ai|research intern adversarial intelligence",
-   "source": "simplify",
-   "ts": 1794614708
-  },
-  {
-   "key": "nextera energy|software engineering intern technical",
-   "source": "simplify",
-   "ts": 1794614708
-  },
-  {
-   "key": "tc energy|intelligent operations technology intern",
-   "source": "simplify",
-   "ts": 1794614708
-  },
-  {
-   "key": "nexus cognitive technologies|data engineer intern",
-   "source": "simplify",
-   "ts": 1794614708
-  },
-  {
-   "key": "capital group|global technology associate intern",
-   "source": "simplify",
-   "ts": 1794614708
-  },
-  {
    "key": "sas|software developer intern go golang experience",
    "source": "sas",
    "ts": 1794661509
@@ -1442,11 +1402,10 @@
   }
  ],
  "last_heartbeat": "2026-11-27",
- "last_run": 1795824016,
+ "last_run": 1795824309,
  "push_count": 2,
  "push_day": "2026-11-27",
  "runs": [
-  1795737616,
   1795737911,
   1795738211,
   1795738512,
@@ -1737,13 +1696,14 @@
   1795823110,
   1795823412,
   1795823709,
-  1795824016
+  1795824016,
+  1795824309
  ],
  "sources": {
   "lenovo": {
    "fail_count": 0,
    "last_full": 1795803615,
-   "last_ok": 1795824016,
+   "last_ok": 1795824309,
    "seeded": true,
    "seen": {
     "81187": 1791846997,
@@ -1764,7 +1724,7 @@
   },
   "netapp": {
    "fail_count": 0,
-   "last_ok": 1795824016,
+   "last_ok": 1795824309,
    "seeded": true,
    "seen": {
     "102167972192": 1792433108,
@@ -1783,7 +1743,7 @@
   },
   "sas": {
    "fail_count": 0,
-   "last_ok": 1795824016,
+   "last_ok": 1795824309,
    "seeded": true,
    "seen": {
     "42750": 1794930908,
@@ -1807,7 +1767,7 @@
   },
   "simplify": {
    "fail_count": 0,
-   "last_ok": 1795824016,
+   "last_ok": 1795824309,
    "seeded": true,
    "seen": {
     "00026218-6b9b-420f-a490-b3b29742cf17": 1792830909,
@@ -4156,11 +4116,11 @@
     "ffd69a94-dc9e-4734-b09a-90e056934918": 1792191908,
     "fff73d24-2557-417b-a791-58567415f245": 1791846997
    },
-   "sha": "b8dcff61b1110c67303866e3f66b53bf147ee2a0"
+   "sha": "680733492fd2e98fd6d1f085cc3001cb06dbf63c"
   },
   "speedyapply": {
    "fail_count": 0,
-   "last_ok": 1795824016,
+   "last_ok": 1795824309,
    "seeded": true,
    "seen": {
     "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771": 1791846997,
